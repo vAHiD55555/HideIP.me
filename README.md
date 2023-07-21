@@ -29,3 +29,25 @@ curl --proxy-insecure -k --proxy 'https://xxx.xxx.xxx.xxx:xxxx' -o - https://api
 curl --proxytunnel -k --proxy 'http://xxx.xxx.xxx.xxx:xxxx' -o - https://api.my-ip.io/ip
 ```
 
+### Link Proxies
+
+  - **HTTP**
+    ```bash
+    https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt
+    ```
+  - **HTTPS**
+    ```bash
+    https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt
+    ```
+  - **SOCKS4**
+    ```bash
+    https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt
+    ```
+  - **SOCKS5**
+    ```bash
+    https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt
+    ```
+  - **CONNECT**
+    ```bash
+    https://raw.githubusercontent.com/zloi-user/hideip.me/main/connect.txt
+    ```
