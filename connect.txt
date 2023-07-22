@@ -1,13 +1,9 @@
-116.197.131.29:8080:Indonesia
+116.197.131.28:8080:Indonesia
 89.43.31.134:3128:Turkey
-122.3.41.154:8090:Philippines
-185.15.172.212:3128:Russia
-72.170.220.17:8443:United States
-36.91.98.115:8181:Indonesia
-103.6.177.174:8002:Hong Kong
+41.242.116.150:50000:Mayotte
+103.39.50.218:3128:Indonesia
 146.190.59.60:3128:United States
 93.190.206.3:8080:Russia
-45.174.87.18:999:Mexico
 24.199.106.229:3128:United States
 24.199.106.236:3128:United States
 24.199.106.237:3128:United States
@@ -15,67 +11,175 @@
 24.199.106.240:3128:United States
 24.199.106.243:3128:United States
 146.190.39.22:3128:United States
-103.138.71.131:8085:Indonesia
-64.225.4.85:9999:Venezuela
-129.152.20.44:6969:Netherlands
-103.160.12.184:8080:Indonesia
-201.182.251.142:999:Colombia
-81.23.193.94:32650:Russia
+165.225.197.193:21002:United Kingdom
+165.225.199.76:10566:United Kingdom
+129.152.20.44:6969:Norway
+165.225.199.109:10846:United Kingdom
+92.60.190.74:8080:Ukraine
 129.154.225.163:8100:India
-45.224.148.116:999:Ecuador
-152.70.177.163:4444:United States
+165.225.81.112:10743:United Kingdom
+165.225.81.20:10574:United Kingdom
 177.93.45.154:999:Colombia
 64.225.8.115:9999:United States
 161.97.144.97:3128:Germany
-78.110.195.132:7080:Belgium
+170.83.242.248:999:Paraguay
 78.110.195.241:7080:Belgium
-78.110.195.250:7080:Belgium
-78.110.195.131:7080:Belgium
 168.138.171.113:3128:Singapore
 165.227.128.230:3128:Germany
-103.171.83.210:8080:Indonesia
+20.44.206.138:80:Singapore
+95.217.167.241:8080:Finland
 190.103.178.56:80:United States
 8.218.10.115:3128:Hong Kong
 164.92.96.237:3128:United States
-115.171.217.15:7890:China
 103.18.7.212:80:Vietnam
-200.63.104.45:999:Ecuador
-45.169.92.148:999:Peru
-202.51.192.106:8080:Indonesia
+45.173.12.142:1994:Colombia
+202.138.239.186:9876:Indonesia
+170.79.12.75:9090:Brazil
 196.201.235.6:8080:South Africa
 193.142.59.104:8118:Netherlands
-129.159.112.251:3128:United States
-125.25.32.240:8080:Thailand
 51.38.189.1:3128:France
-103.191.155.2:3128:Seychelles
+84.247.50.78:8443:Norway
 38.52.162.255:999:Dominican Republic
+138.199.48.1:8443:Canada
+103.147.84.141:8080:Indonesia
 24.199.109.66:3128:United States
 47.244.18.136:8088:Hong Kong
+180.183.5.168:8080:Thailand
+175.107.30.94:3128:Pakistan
 116.98.228.222:4007:Vietnam
-45.168.65.2:8080:Brazil
-183.89.11.74:8080:Thailand
-14.232.243.13:8080:Vietnam
+165.225.81.34:11183:United Kingdom
+165.225.197.50:10304:United Kingdom
+171.5.12.133:8081:Thailand
+38.156.233.78:999:Dominican Republic
+165.225.199.81:10568:United Kingdom
+165.225.199.73:11033:United Kingdom
+165.225.81.22:11033:United Kingdom
+165.225.80.135:11166:United Kingdom
+165.225.81.108:11166:United Kingdom
+38.156.233.74:999:Dominican Republic
 171.243.28.38:23775:Vietnam
-171.243.116.208:23775:Vietnam
-171.243.116.95:23775:Vietnam
-116.105.248.240:23775:Vietnam
-75.114.77.35:8080:United States
-116.111.222.201:23775:Vietnam
+165.225.81.24:11039:United Kingdom
+171.227.5.116:23775:Vietnam
+171.227.0.223:23775:Vietnam
+171.243.28.202:23775:Vietnam
+165.225.81.246:11152:United Kingdom
+165.225.197.26:11152:United Kingdom
+165.225.199.109:11152:United Kingdom
+165.225.81.26:11152:United Kingdom
+165.225.197.46:11504:United Kingdom
+165.225.81.22:11504:United Kingdom
+165.225.81.33:11504:United Kingdom
 75.114.77.34:8080:United States
-186.148.175.194:999:Colombia
-171.5.4.241:8081:Thailand
-116.111.218.148:23775:Vietnam
-103.85.102.10:83:India
-171.5.14.21:8081:Thailand
-43.133.69.78:80:South Korea
-165.155.222.11:80:United States
-165.225.81.109:10763:United Kingdom
+165.225.81.108:11307:United Kingdom
+165.225.81.18:11540:United Kingdom
+165.225.197.19:11238:United Kingdom
+171.227.2.104:23775:Vietnam
+165.225.196.41:11198:United Kingdom
+165.225.197.19:10800:United Kingdom
+165.225.81.116:11260:United Kingdom
+165.225.81.118:11260:United Kingdom
+165.225.197.15:11260:United Kingdom
+165.225.81.110:11260:United Kingdom
+189.173.47.81:999:Mexico
+165.225.197.20:10470:United Kingdom
+165.225.196.41:10470:United Kingdom
+165.225.197.13:10470:United Kingdom
+165.225.81.17:11408:United Kingdom
+165.225.81.22:11408:United Kingdom
+165.225.81.38:11343:United Kingdom
+165.225.197.12:11066:United Kingdom
+165.225.81.32:10820:United Kingdom
+165.225.81.36:11152:United Kingdom
+165.225.199.104:11152:United Kingdom
+165.225.197.40:11152:United Kingdom
+165.225.199.94:10919:United Kingdom
+165.225.81.101:21003:United Kingdom
+165.225.197.31:10920:United Kingdom
+189.172.213.215:999:Mexico
+165.225.197.14:11484:United Kingdom
+165.225.199.106:11246:United Kingdom
+165.225.197.47:10808:United Kingdom
+165.225.197.52:10808:United Kingdom
+165.225.81.104:10808:United Kingdom
+165.225.81.111:11056:United Kingdom
+165.225.197.8:11056:United Kingdom
+165.225.199.94:11016:United Kingdom
+165.225.199.82:11056:United Kingdom
+165.225.81.34:10993:United Kingdom
+165.225.81.17:11056:United Kingdom
+165.225.199.94:11056:United Kingdom
+165.225.197.23:11056:United Kingdom
+165.225.197.50:11056:United Kingdom
+165.225.199.103:11056:United Kingdom
+165.225.81.109:11056:United Kingdom
+165.225.199.75:11297:United Kingdom
+165.225.81.239:11297:United Kingdom
+165.225.97.94:11297:Japan
+165.225.197.36:11297:United Kingdom
+165.225.197.17:11297:United Kingdom
+165.225.199.92:11297:United Kingdom
+165.225.81.16:11297:United Kingdom
+165.225.197.12:11297:United Kingdom
+165.225.81.99:11297:United Kingdom
+165.225.199.114:11297:United Kingdom
+165.225.81.21:11297:United Kingdom
+165.225.81.247:11431:United Kingdom
+165.225.81.25:11431:United Kingdom
+165.225.81.26:11431:United Kingdom
+165.225.81.103:11431:United Kingdom
+165.225.81.32:11431:United Kingdom
+165.225.197.38:11431:United Kingdom
+165.225.197.33:11431:United Kingdom
+165.225.81.119:11431:United Kingdom
+165.225.81.37:11431:United Kingdom
+165.225.199.89:11431:United Kingdom
+165.225.197.39:11431:United Kingdom
+165.225.197.19:11431:United Kingdom
+165.225.197.19:9401:United Kingdom
+165.225.81.29:9401:United Kingdom
+165.225.199.109:9401:United Kingdom
+165.225.81.22:10993:United Kingdom
+165.225.197.36:10993:United Kingdom
+165.225.81.99:10993:United Kingdom
+165.225.81.104:10993:United Kingdom
+165.225.81.103:10993:United Kingdom
+165.225.81.239:10993:United Kingdom
+165.225.197.21:10993:United Kingdom
+165.225.81.246:10993:United Kingdom
+165.225.81.116:10993:United Kingdom
+165.225.197.193:10993:United Kingdom
+165.225.81.32:9480:United Kingdom
+165.225.199.96:9480:United Kingdom
+165.225.81.16:9480:United Kingdom
+165.225.97.94:9480:Japan
+165.225.197.28:9480:United Kingdom
+165.225.197.45:9480:United Kingdom
+162.19.7.56:50648:United States
+165.225.199.96:10763:United Kingdom
+165.225.197.26:10763:United Kingdom
+165.225.199.117:10763:United Kingdom
+165.225.197.15:10763:United Kingdom
+165.225.81.17:10763:United Kingdom
+165.225.198.46:10763:United Kingdom
+165.225.199.91:10763:United Kingdom
+165.225.197.13:10763:United Kingdom
 165.225.199.111:10763:United Kingdom
+165.225.197.18:10763:United Kingdom
+165.225.81.37:10763:United Kingdom
+165.225.196.42:10019:United Kingdom
+165.225.199.80:10019:United Kingdom
+165.225.81.119:10019:United Kingdom
+165.225.197.8:10019:United Kingdom
+165.225.197.46:10019:United Kingdom
+165.225.199.78:10019:United Kingdom
+165.225.81.33:10019:United Kingdom
+165.225.97.94:10019:Japan
+165.225.81.36:10019:United Kingdom
 165.225.81.26:10019:United Kingdom
 165.225.199.115:10019:United Kingdom
 66.29.128.243:10984:United States
-34.87.130.129:8080:Singapore
 66.29.128.243:56077:United States
-212.83.143.159:49250:France
-189.173.50.37:999:Mexico
+212.83.143.147:12905:Romania
 51.254.149.59:61064:India
+187.230.115.214:999:Mexico
+34.87.130.15:8080:Singapore
