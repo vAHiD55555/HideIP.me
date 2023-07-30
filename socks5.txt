@@ -20,7 +20,6 @@
 192.111.139.163:19404:Canada
 98.162.96.53:10663:United States
 72.210.252.134:46164:United States
-72.195.34.35:27360:United States
 98.162.25.4:31654:United States
 72.221.164.34:60671:United States
 98.162.25.29:31679:United States
@@ -35,55 +34,33 @@
 68.71.249.153:48606:Canada
 68.71.247.130:4145:Canada
 72.37.217.3:4145:United States
+185.151.86.121:3699:Ukraine
 142.54.232.6:4145:United States
 198.8.84.3:4145:Canada
 199.116.114.11:4145:United States
-194.44.208.62:80:Ukraine
 142.54.236.97:4145:United States
-212.3.112.128:35860:Ukraine
 199.102.106.94:4145:United States
-176.106.34.47:34147:Poland
-31.211.130.237:8192:Bulgaria
+45.185.236.254:1080:Brazil
 70.166.167.38:57728:United States
 184.178.172.13:15311:United States
 65.169.38.73:26592:United States
 192.252.215.5:16137:United States
 72.206.181.105:64935:United States
 198.8.94.174:39078:Canada
-103.174.178.131:1020:Indonesia
-103.174.178.132:1020:Indonesia
-103.174.178.133:1020:Indonesia
-37.187.91.192:21981:France
-163.172.147.89:16379:Netherlands
-178.128.167.129:1080:United Kingdom
-185.33.169.32:45391:Palestine
-165.22.204.32:59166:Netherlands
-217.182.6.206:26379:United States
-144.76.99.207:16003:United Kingdom
-222.243.161.34:7302:China
-43.248.27.8:4646:Indonesia
-27.128.197.184:7300:China
-112.74.115.230:8080:China
-93.185.74.214:9080:Kazakhstan
+163.172.147.89:16379:Switzerland
+129.151.72.85:80:United Kingdom
+176.31.182.123:59166:France
+47.243.236.236:15673:Hong Kong
+101.132.153.45:6000:Hong Kong
 167.71.241.136:33299:United States
-37.60.141.236:8192:Bulgaria
 64.227.108.25:31908:United States
-45.66.135.60:22001:United Kingdom
-167.172.159.43:39019:United States
-5.133.203.13:19104:Sweden
-45.132.75.19:21644:Russia
-159.69.31.188:40263:Germany
-89.58.45.94:41772:Pakistan
-45.91.93.166:31296:Brazil
+78.46.244.4:59188:Germany
+45.91.93.166:23689:Brazil
 45.133.182.18:31348:Canada
-184.168.121.153:19530:Singapore
 103.11.134.43:23101:Indonesia
 147.135.129.229:26080:France
-46.101.235.200:39055:Germany
 159.65.143.105:40728:Singapore
 212.83.137.30:34078:United States
-37.221.193.221:22287:United States
-66.29.128.246:38177:United States
 38.91.107.220:35061:United States
 67.213.212.48:49690:United States
 162.0.220.220:49013:United States
@@ -92,7 +69,6 @@
 162.210.197.69:36914:Canada
 162.19.7.47:46909:United States
 67.213.212.48:65390:United States
-162.0.220.161:15197:United States
 67.213.212.57:17318:United States
 67.213.212.38:35315:United States
 195.154.43.198:34430:United States
@@ -121,7 +97,6 @@
 66.29.129.56:61265:United States
 162.210.197.69:61321:United States
 162.210.192.136:46295:United States
-162.19.7.48:36404:United States
 162.210.197.69:46075:United States
 67.213.212.49:27085:United States
 67.213.212.56:49135:United States
@@ -134,7 +109,6 @@
 162.0.220.161:18529:United States
 67.213.212.51:17130:United States
 67.213.212.38:48858:United States
-66.29.128.241:61252:United States
 66.29.128.243:48973:United States
 38.91.107.229:55235:United States
 172.106.19.157:35281:United States
@@ -152,7 +126,6 @@
 209.159.153.22:15469:United States
 162.210.197.69:48499:United States
 67.213.212.49:49384:United States
-162.0.220.216:49205:United States
 67.213.212.40:60688:United States
 162.210.192.136:48843:United States
 67.213.212.38:54925:United States
@@ -180,7 +153,6 @@
 37.59.213.49:34687:United States
 162.19.7.47:18638:United States
 162.210.192.136:15397:United States
-209.159.153.20:49130:United States
 162.210.197.69:38546:United States
 162.19.7.46:49079:United States
 162.19.7.48:61752:United States
@@ -205,7 +177,6 @@
 174.138.176.74:55546:United States
 67.213.212.48:33034:United States
 212.83.137.142:49467:United States
-162.210.192.136:49448:United States
 162.0.220.219:46365:United States
 67.213.212.51:35152:United States
 67.213.212.36:34464:United States
@@ -263,13 +234,11 @@
 66.29.128.246:49762:United States
 66.29.128.241:49152:United States
 67.213.212.38:16014:United States
-162.19.7.60:16335:United States
 162.210.197.69:16166:United States
 66.29.128.245:54451:United States
 162.0.220.161:16572:United States
 174.138.176.78:35078:United States
 51.254.149.59:38050:United States
-162.0.220.216:34428:United States
 66.29.128.243:28408:United States
 66.29.128.243:28717:United States
 67.213.212.56:35020:United States
@@ -286,7 +255,6 @@
 67.213.212.38:28030:United States
 174.138.176.75:62203:United States
 66.29.129.56:46473:United States
-162.19.7.61:15384:United States
 212.83.138.60:36485:United States
 66.29.128.244:46089:United States
 66.29.128.243:38271:United States
@@ -306,7 +274,7 @@
 162.210.197.69:33847:United States
 66.29.128.241:65144:United States
 162.210.197.69:17911:United States
-46.105.44.29:53153:United States
+162.0.220.216:49637:United States
 67.213.212.48:55619:United States
 66.29.128.246:49181:United States
 66.29.128.243:47680:United States
@@ -316,7 +284,6 @@
 174.138.176.74:49724:United States
 66.29.128.242:34842:United States
 66.29.128.245:49602:United States
-209.159.153.22:60964:United States
 172.106.19.155:35144:United States
 209.159.153.19:17167:United States
 162.19.7.58:35642:United States
