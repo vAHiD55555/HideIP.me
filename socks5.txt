@@ -4,19 +4,19 @@
 72.206.181.123:4145:United States
 67.201.33.10:25283:United States
 184.178.172.14:4145:United States
-192.252.220.92:17328:United States
 184.181.217.206:4145:United States
 184.181.217.194:4145:United States
 192.111.137.37:18762:Canada
-192.252.209.155:14455:United States
 192.252.208.67:14287:United States
 192.111.137.34:18765:Canada
+192.252.208.70:14282:United States
 192.111.135.17:18302:United States
 192.111.135.18:18301:United States
 192.252.211.197:14921:United States
 192.111.129.145:16894:Canada
 192.252.214.20:15864:United States
 192.111.139.163:19404:Canada
+98.162.96.53:10663:United States
 72.210.252.134:46164:United States
 72.195.34.35:27360:United States
 98.162.25.4:31654:United States
@@ -38,51 +38,31 @@
 199.116.114.11:4145:United States
 142.54.236.97:4145:United States
 199.102.106.94:4145:United States
-176.106.34.47:34147:Poland
-51.158.77.220:16379:Sweden
 70.166.167.38:57728:United States
 184.178.172.13:15311:United States
-65.169.38.73:26592:United States
 192.252.215.5:16137:United States
 72.206.181.105:64935:United States
 198.8.94.174:39078:Canada
-103.174.178.132:1020:Indonesia
-103.174.178.137:1020:Indonesia
 157.245.247.84:59166:United States
-8.222.151.218:5566:Singapore
-109.75.254.91:1080:Russia
-51.222.241.8:23392:Canada
-185.214.187.105:1080:Russia
 167.71.241.136:33299:United States
 138.94.92.26:7497:Brazil
-89.148.195.249:1080:Russia
 64.227.108.25:31908:United States
 47.242.124.38:15673:Hong Kong
-178.128.121.221:3128:Pakistan
-181.214.39.72:5719:United States
+89.108.74.82:1080:Russia
 45.91.93.166:30297:United States
 67.213.212.36:25071:United States
-103.234.27.147:1080:Bangladesh
-103.234.27.153:1080:Bangladesh
-136.243.81.231:51528:Germany
-65.21.216.7:1080:Finland
+103.234.27.158:1080:Bangladesh
 45.132.75.19:17624:Indonesia
-205.185.123.58:5556:United States
+173.212.235.6:50881:Germany
 66.29.129.56:35773:United States
-178.128.81.239:46827:Singapore
-92.205.107.238:46445:France
-103.11.134.43:11985:Indonesia
 67.213.212.36:12089:United States
-31.220.43.141:27618:Bulgaria
 67.213.212.40:47240:United States
-67.213.212.38:18921:United States
 162.0.220.215:47347:United States
 67.213.212.57:47547:United States
 67.213.212.52:37258:United States
 67.213.212.53:33819:United States
 162.210.197.69:47720:United States
 67.213.212.56:47069:United States
-38.91.106.214:15701:United States
 162.210.192.135:17544:United States
 67.213.212.47:46940:United States
 162.0.220.218:38635:United States
@@ -92,58 +72,45 @@
 162.210.197.69:15400:United States
 67.213.212.36:15534:United States
 162.210.192.135:49680:United States
-162.210.197.69:46639:United States
 174.138.176.76:38510:United States
 67.213.212.40:33986:United States
-67.213.212.38:37215:United States
-209.159.153.20:35550:United States
 67.213.212.56:38809:United States
 67.213.212.40:38051:United States
-162.210.197.69:61319:United States
 67.213.212.47:65291:United States
 162.210.197.69:30770:United States
-67.213.212.47:31283:United States
 66.29.129.56:47273:United States
-67.213.212.38:31492:United States
 174.138.176.77:46907:United States
-212.83.137.150:36261:United States
 162.210.197.69:16473:United States
 67.213.212.53:37507:United States
+162.0.220.218:31717:United States
 67.213.212.57:56458:United States
-67.213.212.38:35478:United States
 67.213.212.53:65306:United States
 162.210.192.136:17725:United States
-66.29.128.243:16068:United States
 162.210.192.136:49003:United States
 67.213.212.53:34346:United States
 174.138.176.77:18618:United States
 162.210.197.69:28782:United States
 162.210.192.136:48642:United States
-67.213.212.52:55903:United States
 67.213.212.36:52442:United States
 67.213.212.47:16097:United States
-67.213.212.57:25585:United States
-67.213.212.50:29230:United States
 67.213.212.52:16206:United States
 67.213.212.36:16264:United States
 162.210.197.69:13020:United States
-173.236.187.200:16429:United States
 162.0.220.215:12785:United States
 162.210.192.136:32473:United States
+67.213.212.36:29525:United States
 67.213.212.40:18996:United States
 162.210.192.136:36149:United States
 195.154.43.182:48774:United States
 162.210.192.135:60310:United States
-67.213.212.52:16357:United States
 67.213.212.53:39373:United States
 162.210.197.69:30227:United States
 162.210.197.69:29911:United States
-67.213.212.38:47495:United States
+38.91.106.214:33786:United States
 66.29.128.243:59333:United States
+67.213.212.56:65210:United States
 67.213.212.53:35681:United States
-209.159.153.20:33686:United States
 67.213.212.53:48827:United States
-67.213.212.47:48846:United States
 162.210.197.69:34804:United States
 67.213.212.53:47245:United States
 174.138.176.77:32991:United States
