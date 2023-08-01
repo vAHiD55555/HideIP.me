@@ -8,14 +8,11 @@
 184.181.217.206:4145:United States
 184.181.217.194:4145:United States
 192.111.137.37:18762:Canada
-192.252.209.155:14455:United States
 192.252.208.67:14287:United States
 192.111.137.34:18765:Canada
-192.252.208.70:14282:United States
 192.111.135.17:18302:United States
 192.111.135.18:18301:United States
 192.252.211.197:14921:United States
-192.111.129.145:16894:Canada
 192.252.214.20:15864:United States
 192.111.139.163:19404:Canada
 98.162.96.53:10663:United States
@@ -35,49 +32,193 @@
 68.71.249.153:48606:Canada
 68.71.247.130:4145:Canada
 72.37.217.3:4145:United States
-103.5.127.213:50806:Cambodia
+8.142.3.145:3306:China
+185.151.86.121:3699:Ukraine
 142.54.232.6:4145:United States
 198.8.84.3:4145:Canada
 199.116.114.11:4145:United States
+31.217.221.74:8192:Austria
 142.54.236.97:4145:United States
-212.3.112.128:35860:Ukraine
 199.102.106.94:4145:United States
+31.211.130.237:8192:Bulgaria
 70.166.167.38:57728:United States
 184.178.172.13:15311:United States
+65.169.38.73:26592:United States
 72.206.181.105:64935:United States
 198.8.94.174:39078:Canada
-163.172.131.178:16379:Germany
+103.174.178.133:1020:Indonesia
+163.172.169.27:16379:Iceland
 176.31.182.123:59166:France
-43.248.27.8:4646:Indonesia
-213.133.99.229:35103:Germany
+157.245.247.84:59166:United States
+188.235.11.89:1080:Russia
 45.132.75.19:27160:Brazil
-69.164.206.96:42563:United States
 45.132.75.19:25993:Indonesia
+167.71.241.136:33299:United States
 138.94.92.26:7497:Brazil
 64.227.108.25:31908:United States
 103.150.214.225:33586:China
 47.242.124.38:15673:Hong Kong
 45.91.93.166:17017:Brazil
-89.108.74.82:1080:Russia
+45.132.75.19:12865:Brazil
+45.91.93.166:26194:United States
 51.254.149.60:29353:United Kingdom
-116.122.64.155:1080:South Korea
 51.83.116.7:33019:Hong Kong
 45.132.75.19:19301:India
-103.234.27.158:1080:Bangladesh
-103.234.27.168:1080:Bangladesh
 89.58.45.94:46102:India
-144.76.32.106:60129:Germany
 45.91.93.166:22567:Brazil
 65.21.216.7:1080:Finland
 45.91.93.166:36171:Brazil
 167.86.83.109:3080:Germany
-103.174.178.145:2005:Indonesia
-89.218.8.152:1080:Kazakhstan
 45.132.75.19:16291:Brazil
 43.154.18.106:2444:Hong Kong
 45.91.93.166:22453:Brazil
 45.132.75.19:33985:Brazil
 78.135.83.40:50060:Turkey
+212.83.137.239:12935:United Kingdom
+195.154.43.182:34475:United Kingdom
 51.83.116.3:45011:United Kingdom
 162.210.192.171:37986:United States
+162.0.220.220:34544:United Kingdom
 51.83.116.10:15741:Canada
+38.91.107.220:54369:United States
+162.210.197.91:36866:United States
+162.19.7.60:46778:United States
+174.138.176.74:46815:United States
+67.213.212.57:47215:United States
+172.106.13.202:40653:United States
+38.91.106.214:32535:United States
+162.210.197.69:62862:United States
+38.91.107.220:52354:United States
+172.106.13.202:17254:United States
+172.106.19.157:12755:United States
+172.106.19.158:60166:United States
+67.213.212.51:34826:United States
+172.106.19.156:26395:United States
+51.254.149.59:36235:United States
+67.213.212.49:41657:United States
+172.106.19.158:37180:United States
+66.29.128.243:62279:United States
+67.213.212.47:63725:United States
+172.106.19.157:23704:United States
+67.213.212.49:40855:United States
+67.213.212.47:61413:United States
+67.213.212.54:64794:United States
+67.213.212.58:23487:United States
+174.138.176.74:24678:United States
+67.213.212.49:14098:United States
+67.213.212.57:32342:United States
+162.0.220.220:61724:United States
+67.213.212.57:18248:United States
+67.213.212.50:61011:United States
+193.29.62.48:36797:United States
+162.0.220.215:64489:United States
+209.159.153.20:46958:United States
+162.0.220.215:47275:United States
+38.91.107.224:36092:United States
+172.106.19.158:32121:United States
+162.0.220.220:59823:United States
+162.0.220.161:65391:United States
+172.106.19.156:27420:United States
+134.195.90.170:22013:United States
+67.213.212.51:56749:United States
+172.106.19.156:65154:United States
+67.213.212.50:46892:United States
+162.0.220.215:15654:United States
+162.19.7.58:13199:United States
+162.19.7.60:47474:United States
+162.0.220.220:19031:United States
+67.213.212.57:63784:United States
+67.213.212.54:60020:United States
+174.138.176.74:46074:United States
+67.213.212.49:18239:United States
+67.213.212.58:26574:United States
+162.0.220.215:56724:United States
+162.210.197.91:19062:United States
+67.213.212.50:30721:United States
+66.29.128.243:47664:United States
+67.213.212.47:12383:United States
+67.213.212.54:53558:United States
+38.91.106.214:35743:United States
+172.106.13.202:17156:United States
+162.19.7.48:19868:United States
+67.213.212.58:36944:United States
+162.19.7.60:64056:United States
+162.19.7.49:24553:United States
+67.213.212.54:46597:United States
+38.91.107.224:31804:United States
+67.213.212.50:43690:United States
+67.213.212.57:32713:United States
+67.213.212.58:32667:United States
+67.213.212.57:61413:United States
+174.138.176.74:29086:United States
+209.159.153.22:14109:United States
+162.19.7.58:64337:United States
+66.29.128.241:63825:United States
+172.106.19.156:47110:United States
+172.106.19.158:64625:United States
+162.0.220.161:14105:United States
+209.159.153.22:14461:United States
+67.213.212.50:62012:United States
+209.159.153.22:46121:United States
+67.213.212.47:24374:United States
+51.68.244.19:34751:United States
+209.159.153.20:31751:United States
+67.213.212.49:14473:United States
+67.213.212.51:36120:United States
+38.91.107.220:46919:United States
+209.159.153.22:47392:United States
+67.213.212.58:11780:United States
+162.0.220.161:46859:United States
+38.91.107.224:17576:United States
+209.159.153.20:53641:United States
+67.213.212.57:14934:United States
+209.159.153.22:40993:United States
+67.213.212.57:15090:United States
+172.106.19.156:21469:United States
+162.0.220.218:26294:United States
+38.91.107.224:23223:United States
+66.29.128.243:20248:United States
+51.254.149.59:62881:United States
+66.29.128.243:13911:United States
+172.106.19.156:29310:United States
+172.106.19.157:14433:United States
+162.19.7.48:11123:United States
+67.213.212.50:20268:United States
+67.213.212.58:32336:United States
+67.213.212.58:15988:United States
+67.213.212.50:27253:United States
+172.106.19.156:61305:United States
+51.254.149.59:36694:United States
+38.91.106.214:28740:United States
+67.213.212.58:34715:United States
+172.106.13.202:50105:United States
+67.213.212.49:28512:United States
+162.19.7.60:26441:United States
+38.91.106.214:47336:United States
+209.159.153.22:49840:United States
+172.106.19.157:37496:United States
+162.210.192.171:24638:United States
+162.0.220.218:64497:United States
+209.159.153.22:18664:United States
+162.0.220.220:20906:United States
+67.213.212.54:64682:United States
+162.19.7.58:14227:United States
+162.19.7.48:47018:United States
+67.213.212.54:11212:United States
+38.91.107.220:60694:United States
+209.159.153.21:27390:United States
+51.254.149.59:63068:United States
+172.106.13.202:64409:United States
+66.29.128.241:64631:United States
+104.200.17.112:29676:United States
+172.106.19.157:48432:United States
+67.213.212.51:39725:United States
+38.91.106.214:60422:United States
+38.91.107.224:16064:United States
+67.213.212.54:22490:United States
+67.213.212.50:16050:United States
+172.106.13.202:36664:United States
+51.254.149.59:59731:United States
+67.213.212.54:64143:United States
+67.213.212.51:17411:United States
+172.106.19.158:15978:United States
