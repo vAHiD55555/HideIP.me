@@ -1,5 +1,8 @@
+185.139.56.133:4145:Georgia
 72.49.49.11:31034:United States
 72.195.114.184:4145:United States
+24.249.199.4:4145:United States
+24.249.199.12:4145:United States
 174.77.111.196:4145:United States
 174.64.199.82:4145:United States
 174.77.111.197:4145:United States
@@ -17,8 +20,8 @@
 72.195.114.169:4145:United States
 98.188.47.150:4145:United States
 72.195.34.59:4145:United States
-98.162.96.41:4145:United States
 72.195.34.42:4145:United States
+201.217.51.9:4145:Paraguay
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.178.172.17:4145:United States
@@ -36,7 +39,6 @@
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.221.171.135:4145:United States
-72.195.34.41:4145:United States
 98.162.96.52:4145:United States
 72.221.171.130:4145:United States
 184.178.172.23:4145:United States
@@ -48,15 +50,12 @@
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
 68.71.254.6:4145:Canada
-104.37.135.145:4145:United States
 192.252.216.81:4145:United States
 98.181.137.83:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-155.254.9.2:36510:United States
 74.119.147.209:4145:United States
 74.119.144.60:4145:United States
-184.170.245.148:4145:United States
 184.170.248.5:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
@@ -71,21 +70,26 @@
 192.111.134.10:4145:United States
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
+107.152.98.5:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
+95.143.8.182:50285:Russia
 162.253.68.97:4145:United States
-36.37.251.171:5678:Cambodia
+82.103.118.42:1099:Bulgaria
 67.201.59.70:4145:United States
+77.85.46.56:1080:Bulgaria
+185.236.146.68:512:Austria
 68.1.210.189:4145:United States
-200.71.97.1:80:Brazil
+164.138.43.14:1080:Kazakhstan
 36.92.81.181:4145:Indonesia
-36.89.252.90:5678:Indonesia
-186.219.56.1:59518:Brazil
-115.127.82.138:9090:Bangladesh
-102.91.17.18:5678:Nigeria
-178.212.52.92:5678:Poland
-103.174.180.133:1080:Indonesia
+170.210.80.161:4153:Argentina
+138.97.117.181:35010:Brazil
+115.127.81.122:9090:Bangladesh
+115.127.79.234:1080:Bangladesh
+105.214.89.168:5678:South Africa
+149.56.79.108:31756:Canada
+134.35.170.229:4145:Yemen
+134.35.203.40:4145:Yemen
 177.36.200.55:25566:Brazil
-105.214.90.178:5678:South Africa
-105.214.93.79:5678:South Africa
+168.205.217.99:4145:Brazil
