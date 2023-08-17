@@ -1,3 +1,4 @@
+178.48.68.61:4145:Hungary
 72.49.49.11:31034:United States
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
@@ -22,7 +23,6 @@
 98.162.96.41:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
-94.253.95.241:3629:Russia
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.178.172.17:4145:United States
@@ -34,11 +34,13 @@
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
+192.111.130.2:4145:Canada
 72.221.232.152:4145:United States
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
+190.110.165.124:5678:Chile
 72.221.171.135:4145:United States
 72.195.34.41:4145:United States
 98.162.96.52:4145:United States
@@ -46,13 +48,10 @@
 184.178.172.23:4145:United States
 198.8.94.170:4145:Canada
 72.210.252.137:4145:United States
-103.150.110.202:9969:Indonesia
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
-213.6.36.146:5678:Palestine
-46.171.28.162:59311:Poland
 184.185.2.12:4145:United States
 68.71.254.6:4145:Canada
 104.37.135.145:4145:United States
@@ -60,7 +59,6 @@
 98.181.137.83:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-74.119.147.209:4145:United States
 74.119.144.60:4145:United States
 184.170.245.148:4145:United States
 184.170.248.5:4145:United States
@@ -82,30 +80,15 @@
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
 107.181.161.81:4145:United States
-177.69.72.122:4153:Brazil
-85.196.151.2:4153:Bulgaria
 199.102.104.70:4145:United States
-199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
 117.251.103.186:8080:India
-134.122.21.142:33346:United States
-203.98.76.139:4153:Mongolia
-81.16.9.222:3629:Armenia
-186.194.234.18:4153:Brazil
-82.137.250.156:4145:Syria
-169.255.131.197:4153:South Africa
 64.227.108.25:31908:United States
-190.112.136.141:1080:Argentina
-144.91.78.34:20269:Germany
-200.116.227.98:33337:Colombia
+177.36.200.55:25566:Brazil
 36.92.81.181:4145:Indonesia
-102.38.50.65:4153:Somalia
-95.38.75.233:4145:Iran
-105.214.94.128:5678:South Africa
-45.168.158.84:4153:Brazil
+179.107.53.48:4153:Brazil
 95.38.75.199:4145:Iran
-177.125.206.232:4145:Brazil
 46.161.225.135:4145:Yemen
