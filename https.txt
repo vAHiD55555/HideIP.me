@@ -1,9 +1,11 @@
+5.161.107.192:8888:United States
 156.238.128.21:80:Hong Kong
 5.161.108.56:8888:United States
 5.161.109.67:8888:United States
 5.161.109.163:8888:United States
 5.161.109.189:8888:United States
 5.161.111.35:8888:United States
+134.209.108.115:8888:Singapore
 5.161.99.117:8888:United States
 5.161.130.29:8888:United States
 5.161.130.109:8888:United States
@@ -631,10 +633,10 @@
 5.161.154.63:8888:United States
 159.69.177.167:8888:Germany
 45.63.87.228:8888:United States
+138.201.158.20:8888:Germany
 45.32.81.34:8888:United States
 104.156.230.37:8888:United States
 88.99.15.85:8888:Germany
-88.99.34.57:8888:Germany
 5.161.41.190:8888:United States
 5.161.155.198:8888:United States
 66.115.142.154:9002:Canada
@@ -4186,6 +4188,7 @@
 206.188.208.101:8443:United States
 206.188.208.117:8443:United States
 143.198.240.30:443:United Kingdom
+206.188.208.134:8443:United States
 206.188.208.148:8443:United States
 206.188.208.155:8443:United States
 206.188.208.159:8443:United States
@@ -4196,9 +4199,11 @@
 206.188.208.201:8443:United States
 206.188.208.224:8443:United States
 206.188.208.227:8443:United States
+206.188.208.235:8443:United States
 206.188.208.246:8443:United States
 206.188.209.4:8443:United States
 206.188.209.22:8443:United States
+206.188.209.25:8443:United States
 206.188.209.27:8443:United States
 206.188.209.36:8443:United States
 206.188.209.61:8443:United States
@@ -4237,12 +4242,12 @@
 206.188.209.191:8443:United States
 206.188.209.192:8443:United States
 206.188.209.195:8443:United States
+206.188.209.198:8443:United States
 206.188.209.206:8443:United States
 206.188.209.221:8443:United States
 206.188.209.224:8443:United States
 206.188.209.229:8443:United States
 206.188.209.253:8443:United States
-206.188.212.2:8443:United States
 206.188.212.3:8443:United States
 206.188.212.4:8443:United States
 206.188.212.6:8443:United States
@@ -4267,6 +4272,7 @@
 206.188.212.87:8443:United States
 206.188.212.94:8443:United States
 206.188.212.101:8443:United States
+206.188.212.103:8443:United States
 206.188.212.104:8443:United States
 206.188.212.107:8443:United States
 206.188.212.113:8443:United States
@@ -4275,7 +4281,6 @@
 206.188.212.118:8443:United States
 206.188.212.123:8443:United States
 206.188.212.128:8443:United States
-206.188.212.130:8443:United States
 206.188.212.132:8443:United States
 206.188.212.149:8443:United States
 206.188.212.154:8443:United States
@@ -4284,6 +4289,7 @@
 206.188.212.160:8443:United States
 206.188.212.161:8443:United States
 206.188.212.162:8443:United States
+206.188.212.163:8443:United States
 206.188.212.164:8443:United States
 206.188.212.165:8443:United States
 206.188.212.168:8443:United States
@@ -4309,6 +4315,7 @@
 206.188.212.230:8443:United States
 206.188.212.235:8443:United States
 206.188.212.236:8443:United States
+206.188.212.238:8443:United States
 206.188.212.239:8443:United States
 206.188.212.240:8443:United States
 206.188.212.245:8443:United States
@@ -4472,6 +4479,7 @@
 37.9.171.157:443:Slovakia
 162.144.233.16:443:United States
 107.161.20.80:443:United States
+202.61.204.51:443:Austria
 182.72.203.246:443:India
 74.103.66.15:443:United States
 162.144.236.128:443:United States
@@ -4505,9 +4513,9 @@
 221.121.139.164:80:Australia
 221.121.139.164:443:Australia
 221.121.142.194:443:Australia
-91.121.88.53:443:France
 157.245.97.60:443:India
 41.204.63.118:443:Ghana
+47.90.126.138:443:Hong Kong
 152.228.217.116:443:France
 138.186.63.138:443:Paraguay
 172.105.197.49:8443:Japan
@@ -4806,7 +4814,6 @@
 196.1.95.128:443:Senegal
 162.243.7.18:443:United States
 206.81.26.113:443:Germany
-20.187.98.142:443:Hong Kong
 23.254.161.181:443:United States
 141.148.41.219:443:United States
 116.62.226.124:8888:China
@@ -4824,6 +4831,7 @@
 75.84.199.80:443:United States
 172.105.156.246:8443:United States
 164.92.187.201:443:Germany
+197.255.125.12:443:Ghana
 121.161.134.245:8888:South Korea
 195.78.54.109:9002:Netherlands
 195.78.54.110:9002:Netherlands
@@ -4964,7 +4972,6 @@
 23.106.249.37:443:Singapore
 207.244.71.79:443:United States
 147.182.180.242:443:United States
-165.225.240.95:8080:Netherlands
 23.106.56.43:443:United Kingdom
 143.110.211.227:443:Canada
 50.7.93.27:443:Netherlands
@@ -4974,10 +4981,10 @@
 23.106.56.22:443:United Kingdom
 8.134.115.2:443:China
 13.81.217.201:443:Netherlands
+104.129.205.9:8080:United States
 207.244.71.84:443:United States
 51.79.248.152:443:Singapore
 50.7.93.84:443:Netherlands
-104.129.205.15:8080:United States
 156.146.49.1:443:United States
 156.146.49.1:80:United States
 154.65.39.7:443:Senegal
@@ -5047,7 +5054,7 @@
 3.121.199.130:3128:Germany
 198.16.70.52:443:Netherlands
 198.16.66.100:443:Netherlands
-101.34.210.237:9091:China
+144.34.162.125:443:United States
 23.106.248.251:443:Singapore
 207.244.89.166:443:United States
 207.244.89.162:443:United States
@@ -5055,6 +5062,7 @@
 18.224.28.100:3128:United States
 116.254.125.237:443:Indonesia
 165.225.110.77:8080:Japan
+171.221.210.114:443:China
 185.51.134.83:9002:Greece
 185.51.134.84:9002:Greece
 185.51.134.85:9002:Greece
@@ -5151,14 +5159,12 @@
 23.106.56.38:443:United Kingdom
 198.16.70.53:443:Netherlands
 197.249.5.150:8443:Mozambique
-165.225.72.149:11066:Germany
-165.225.72.151:11066:Germany
+165.225.72.150:11066:Germany
 165.225.113.220:11066:Singapore
 23.106.56.12:443:United Kingdom
 220.226.202.146:443:India
 198.16.70.29:443:Netherlands
 35.212.22.70:443:United States
-165.225.72.149:11267:Germany
 140.228.24.19:9002:Canada
 93.20.25.100:443:France
 140.228.24.10:9002:Canada
@@ -5242,8 +5248,8 @@
 136.244.118.98:8888:France
 185.99.3.58:9002:Bosnia and Herzegovina
 185.99.3.130:9002:Bosnia and Herzegovina
+165.225.96.112:8080:Japan
 128.199.195.19:8888:Singapore
-220.243.154.189:8080:China
 91.90.124.147:9002:Isle of Man
 91.90.124.148:9002:Isle of Man
 91.90.124.149:9002:Isle of Man
@@ -5262,8 +5268,6 @@
 172.104.40.168:3128:Singapore
 172.105.92.104:3128:Germany
 124.123.108.15:443:India
-165.225.113.214:11267:Singapore
-165.225.113.216:11267:Singapore
 165.225.113.216:11066:Singapore
 34.69.233.166:443:United States
 95.179.219.210:8888:France
@@ -5281,6 +5285,7 @@
 45.79.189.49:3128:United States
 162.0.238.147:443:United States
 202.60.194.23:443:Thailand
+173.249.37.45:5050:Germany
 80.66.64.64:443:Russia
 141.148.63.29:443:United States
 69.70.244.34:443:Canada
@@ -5291,6 +5296,7 @@
 104.248.224.71:3129:United States
 170.187.228.157:3128:Singapore
 170.187.228.110:3128:Singapore
+51.68.132.48:8443:France
 167.172.78.155:8888:Singapore
 167.172.69.79:8888:Singapore
 199.168.175.179:443:United States
@@ -5320,44 +5326,40 @@
 78.141.197.234:8888:United Kingdom
 78.141.193.27:8888:United Kingdom
 104.129.194.105:11267:United States
-104.129.194.46:11267:United States
 104.129.194.99:11267:United States
-104.129.194.45:11267:United States
+104.129.194.103:11267:United States
 165.225.72.38:11267:Germany
-104.129.194.38:11267:United States
-104.129.194.104:11267:United States
-165.225.72.155:11267:Germany
+165.225.72.154:11267:Germany
 23.19.74.170:9002:United States
-165.225.72.38:11066:Germany
 104.129.194.43:11066:United States
 23.19.74.169:9002:United States
+165.225.72.154:11066:Germany
 104.129.194.46:11066:United States
 23.19.74.165:9002:United States
 23.19.74.167:9002:United States
 23.19.74.168:9002:United States
+104.129.194.103:11066:United States
 104.129.194.100:11066:United States
 23.19.74.166:9002:United States
 51.83.98.90:443:France
 47.243.181.85:8081:United States
 23.19.74.164:9002:United States
 54.39.207.190:443:Canada
+165.225.72.155:11066:Germany
+165.225.72.156:11066:Germany
 154.28.188.229:9002:Germany
 82.146.37.145:443:Russia
-104.129.194.101:11066:United States
 198.16.78.45:443:Netherlands
-104.129.194.105:11066:United States
 198.251.72.26:443:United States
 172.105.102.220:3128:Canada
 172.233.192.236:3128:United States
 34.75.202.63:443:United States
 164.132.170.100:443:France
 104.129.203.245:11267:United States
-104.129.203.244:11267:United States
-104.129.203.248:11267:United States
-104.129.203.247:11066:United States
+104.129.203.246:11267:United States
+104.129.203.244:11066:United States
 104.129.194.99:11066:United States
 104.129.194.44:11066:United States
-104.129.194.38:11066:United States
 52.24.80.166:443:United States
 212.231.198.100:443:Spain
 139.59.72.73:443:India
@@ -5425,11 +5427,13 @@
 194.32.122.14:9002:Lithuania
 194.32.122.5:9002:Lithuania
 194.32.122.21:9002:Lithuania
+74.119.146.98:443:United States
 194.32.122.18:9002:Lithuania
 45.158.186.90:443:United States
 194.32.122.17:9002:Lithuania
 167.99.75.230:443:Singapore
 68.183.100.186:443:United States
+82.157.4.158:7777:China
 194.32.122.11:9002:Lithuania
 194.32.122.22:9002:Lithuania
 194.32.122.28:9002:Lithuania
