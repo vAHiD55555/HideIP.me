@@ -2,10 +2,13 @@
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
+174.77.111.196:4145:United States
+174.64.199.82:4145:United States
 174.77.111.197:4145:United States
 174.64.199.79:4145:United States
 72.195.34.58:4145:United States
 98.162.25.23:4145:United States
+72.206.181.103:4145:United States
 72.221.172.203:4145:United States
 72.217.216.239:4145:United States
 72.221.232.155:4145:United States
@@ -18,6 +21,7 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.178.172.17:4145:United States
 184.181.217.213:4145:United States
@@ -25,7 +29,6 @@
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
-192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
 192.252.211.197:14921:United States
 192.111.130.2:4145:Canada
@@ -34,13 +37,10 @@
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
-72.221.171.135:4145:United States
 72.195.34.41:4145:United States
 72.221.171.130:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
-184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -67,28 +67,11 @@
 107.181.168.145:4145:United States
 107.181.161.81:4145:United States
 199.102.104.70:4145:United States
-103.156.14.179:2021:Indonesia
 162.253.68.97:4145:United States
 202.86.138.18:8080:Macao
-115.69.214.68:5678:Bangladesh
 67.201.59.70:4145:United States
-45.115.115.42:4153:Bangladesh
-103.237.78.102:4996:Bangladesh
 68.1.210.189:4145:United States
 117.251.103.186:8080:India
-200.50.249.224:4153:Argentina
-176.57.75.111:5678:Russia
-64.227.108.25:31908:United States
-143.255.177.161:4153:Chile
-177.36.200.55:25566:Brazil
-213.74.223.69:4153:Turkey
-102.64.116.97:4145:Congo Republic
 36.92.81.181:4145:Indonesia
-102.222.174.29:33333:Ghana
-45.71.184.65:35010:Ecuador
-212.79.107.116:5678:Czechia
-45.91.93.166:15880:Singapore
-168.121.253.18:1080:Brazil
-179.107.60.165:4145:Brazil
-5.160.1.66:9106:Finland
-34.72.92.32:9203:United States
+134.122.35.17:19901:Canada
+103.113.3.237:4145:Indonesia
