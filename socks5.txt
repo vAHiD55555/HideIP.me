@@ -1,5 +1,6 @@
 208.102.51.6:58208:United States
 69.61.200.104:36181:United States
+66.42.224.229:41679:United States
 72.206.181.123:4145:United States
 67.201.33.10:25283:United States
 184.178.172.14:4145:United States
@@ -32,34 +33,32 @@
 72.221.196.157:35904:United States
 68.71.249.153:48606:Canada
 74.119.144.60:4145:United States
+125.227.225.157:3389:Taiwan
 184.170.248.5:4145:United States
 199.58.185.9:4145:United States
 199.58.184.97:4145:United States
+8.142.3.145:3306:China
 142.54.229.249:4145:United States
 142.54.236.97:4145:United States
-199.102.105.242:4145:United States
 199.102.106.94:4145:United States
+193.216.224.108:8192:Lithuania
 70.166.167.38:57728:United States
 184.178.172.13:15311:United States
-65.169.38.73:26592:United States
 192.252.215.5:16137:United States
 72.206.181.105:64935:United States
 198.8.94.174:39078:Canada
-194.233.78.142:49653:Singapore
+103.174.178.131:1020:Indonesia
+103.174.178.139:1020:Indonesia
+113.176.118.150:1080:Vietnam
 167.71.241.136:33299:United States
-59.48.152.182:7302:China
-70.35.199.99:50420:United States
 176.58.125.163:40001:United Kingdom
+92.205.107.238:49172:France
 192.241.149.84:37455:United States
-37.221.193.221:10127:United States
-92.205.107.238:46445:France
 43.134.2.174:30001:Hong Kong
 212.83.143.223:12973:Germany
 212.83.143.223:37002:Netherlands
-212.83.143.211:12627:Germany
 212.83.143.223:41831:Italy
 66.29.128.245:65353:United States
-212.83.143.211:28723:Germany
 209.159.153.19:11582:United States
 174.138.176.77:21355:United States
 67.213.212.40:29026:United States
@@ -67,7 +66,6 @@
 162.210.192.136:35528:United States
 209.159.153.19:35270:United States
 38.91.107.2:13438:Canada
-23.105.170.32:12828:United States
 174.138.176.77:29385:United States
 174.138.176.78:26563:United States
 162.0.220.215:40399:United States
@@ -78,12 +76,10 @@
 38.91.107.2:32398:United States
 134.195.90.170:37040:Netherlands
 162.210.192.136:28584:United States
-162.0.220.215:20323:United States
 195.154.43.182:52814:Germany
 69.163.220.240:59866:United States
 38.91.107.2:37708:United States
 212.83.137.94:14134:United States
-212.83.143.211:28925:Germany
 195.154.43.184:17430:United States
 162.210.192.136:51417:United States
 209.159.153.19:30771:United States
@@ -99,7 +95,6 @@
 195.154.43.189:51177:Canada
 174.138.176.77:31680:United States
 212.83.143.223:42218:Germany
-23.105.170.32:28068:United States
 174.138.176.74:34957:United States
 67.213.212.40:63731:United States
 162.0.220.215:43237:United States
@@ -115,15 +110,11 @@
 103.11.65.76:11940:United States
 173.236.168.122:13033:United States
 195.154.43.189:18145:United Kingdom
-212.83.143.211:41024:United Kingdom
 174.138.176.77:49874:United States
-212.83.143.211:15771:Netherlands
 209.236.71.75:32376:United States
 38.91.107.2:12350:United States
 38.91.106.214:34693:United States
 174.138.176.76:17247:United States
-23.105.170.32:29526:United States
-212.83.143.211:40148:Germany
 212.83.143.223:47667:Netherlands
 162.0.220.214:13061:United States
 38.91.107.2:27840:Canada
@@ -135,7 +126,6 @@
 198.211.110.125:55053:United States
 162.210.192.136:58950:United States
 67.213.212.56:42332:United States
-66.29.128.244:56752:United States
 154.9.233.61:30000:United States
 195.154.43.182:44164:United States
 69.164.197.178:15964:United States
@@ -147,39 +137,32 @@
 162.0.220.214:33466:United States
 212.83.143.223:22403:Germany
 198.12.255.164:6812:United States
+208.113.173.90:61861:United States
 195.154.43.184:47072:United Kingdom
+141.94.238.246:15979:United States
 208.113.185.238:49755:United States
 107.174.172.169:52248:United States
 195.154.43.189:38246:United Kingdom
-212.83.143.211:28227:United Kingdom
-66.29.128.244:23379:United States
-66.29.128.242:29317:United States
-66.29.128.244:25573:United States
 66.29.128.242:26571:United States
 195.154.43.189:34497:United States
-23.105.170.32:62554:United States
 162.0.220.220:33847:United States
-23.105.170.32:29346:United States
 66.23.233.210:35767:United States
 66.29.128.245:58814:United States
 209.159.153.19:34726:United States
 67.213.212.40:15959:United States
 178.79.165.164:11412:United Kingdom
-174.138.176.78:29702:United States
 174.138.176.77:40572:United States
 67.213.212.56:34255:United States
 162.210.192.136:64604:United States
 212.83.143.223:35341:Canada
 38.91.107.2:30687:United States
 38.91.107.2:10161:Canada
-212.83.143.211:10035:Netherlands
 67.213.212.40:22114:United States
 38.91.106.214:28564:United States
 162.0.220.215:12619:United States
 195.154.43.189:40908:Germany
 162.210.192.136:22156:United States
 174.138.176.76:49053:United States
-66.29.128.244:20701:United States
 67.213.212.56:26898:United States
 38.91.107.2:32673:United States
 209.160.107.19:36852:United States
@@ -187,7 +170,6 @@
 67.213.212.56:20298:United States
 38.91.106.214:15630:United States
 162.210.192.136:12124:United States
-23.105.170.32:34780:United States
 67.213.212.56:29131:United States
 46.105.43.192:58377:United Kingdom
 46.105.43.192:61336:United Kingdom
@@ -197,7 +179,10 @@
 195.154.43.184:44074:United Kingdom
 46.105.43.192:32855:United Kingdom
 46.105.43.192:61983:United Kingdom
+5.42.65.67:24711:Jamaica
 46.105.43.192:63331:United Kingdom
 46.105.43.192:49851:United Kingdom
 51.83.116.3:33300:United Kingdom
 46.105.43.192:13678:United Kingdom
+5.42.65.67:36893:Indonesia
+174.138.176.76:56237:Germany
