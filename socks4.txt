@@ -20,13 +20,14 @@
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
+184.178.172.11:4145:United States
 184.178.172.17:4145:United States
 184.181.217.213:4145:United States
-184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
+192.111.139.162:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -34,7 +35,6 @@
 72.195.34.41:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
-184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -44,39 +44,26 @@
 98.181.137.83:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 184.170.249.65:4145:United States
+199.229.254.129:4145:United States
 142.54.239.1:4145:United States
-192.111.134.10:4145:United States
 142.54.235.9:4145:United States
-142.54.237.34:4145:United States
 107.152.98.5:4145:United States
 199.116.114.11:4145:United States
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
-104.200.135.46:4145:United States
 107.181.161.81:4145:United States
 199.102.104.70:4145:United States
 199.102.107.145:4145:United States
-200.85.52.254:5678:Paraguay
-91.185.236.24:4145:Russia
 162.253.68.97:4145:United States
-136.228.163.150:5678:Myanmar
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
 117.251.103.186:8080:India
-12.131.183.66:30504:United States
-190.216.56.177:4153:Argentina
-91.199.139.246:1111:Ukraine
 64.227.108.25:31908:United States
-103.163.51.42:1080:Bangladesh
-91.92.204.188:35010:Iran
-176.241.84.125:4145:Iraq
-154.72.73.214:1080:Tanzania
+50.199.46.20:32100:United States
+14.102.94.78:33333:India
+140.250.88.110:1080:China
 103.196.6.25:33333:India
-134.122.21.142:57535:United States
-217.73.171.50:5678:Romania
-82.146.37.83:30002:Germany
-103.87.171.235:5678:India
+95.38.75.197:4145:Iran
