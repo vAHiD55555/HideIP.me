@@ -1,21 +1,13 @@
 187.1.57.206:20183:Brazil
 201.91.82.155:3128:Brazil
-116.197.131.29:8080:Indonesia
 89.43.31.134:3128:Turkey
 103.76.12.42:80:Indonesia
-103.76.12.42:8181:Indonesia
-116.197.131.52:88:Indonesia
-203.174.15.138:8080:Indonesia
-103.48.68.37:83:India
-103.39.50.218:3128:Indonesia
-175.106.11.172:8080:Indonesia
-200.105.215.22:33630:Bolivia
-46.231.72.244:8080:Czechia
-1.10.141.115:8080:Thailand
-67.73.184.178:8081:Colombia
-167.249.29.220:999:Chile
+193.138.178.6:8282:Russia
+103.187.117.10:8080:Indonesia
+118.70.12.171:53281:Vietnam
+103.48.68.106:83:India
+24.230.33.96:3128:United States
 146.190.59.60:3128:United States
-45.174.87.18:999:Mexico
 24.199.106.229:3128:United States
 24.199.106.236:3128:United States
 24.199.106.237:3128:United States
@@ -23,90 +15,72 @@
 24.199.106.240:3128:United States
 24.199.106.243:3128:United States
 200.25.254.193:54240:Colombia
-103.179.182.185:8181:Indonesia
 146.190.39.22:3128:United States
+170.83.242.249:999:Paraguay
+101.255.117.138:2020:Indonesia
 176.98.234.124:8080:Kazakhstan
 147.161.161.30:9480:United Arab Emirates
 147.161.160.187:10939:United Arab Emirates
-147.161.160.205:11056:United Arab Emirates
-147.161.160.182:11056:United Arab Emirates
-103.184.180.233:8080:Indonesia
+147.161.160.103:10568:United Arab Emirates
 147.161.161.108:10800:United Arab Emirates
 147.161.160.48:10808:United Arab Emirates
+147.161.160.175:10101:United Arab Emirates
 147.161.160.191:10101:United Arab Emirates
 147.161.160.26:10802:United Arab Emirates
 147.161.160.191:10802:United Arab Emirates
 147.161.161.8:10566:United Arab Emirates
-147.161.160.45:10619:United Arab Emirates
 147.161.161.101:10619:United Arab Emirates
 147.161.161.84:21002:United Arab Emirates
 147.161.161.90:21002:United Arab Emirates
-190.239.220.33:999:Peru
-188.190.40.44:8080:Ukraine
-210.57.211.9:8080:Indonesia
-212.129.15.88:8080:France
 147.161.161.19:10101:United Arab Emirates
 147.161.161.91:10993:United Arab Emirates
 147.161.160.189:10763:United Arab Emirates
 147.161.160.182:10805:United Arab Emirates
+147.161.160.254:9443:United Arab Emirates
 147.161.160.115:10919:United Arab Emirates
 147.161.160.94:10939:United Arab Emirates
 147.161.160.126:10939:United Arab Emirates
 147.161.160.115:10939:United Arab Emirates
+147.161.160.90:10470:United Arab Emirates
 147.161.160.85:10802:United Arab Emirates
 147.161.160.81:10808:United Arab Emirates
 147.161.160.14:10808:United Arab Emirates
-147.161.160.101:9480:United Arab Emirates
 147.161.161.90:10743:United Arab Emirates
 147.161.160.48:10936:United Arab Emirates
 147.161.161.113:11336:United Arab Emirates
-147.161.160.48:11336:United Arab Emirates
 147.161.161.113:11116:United Arab Emirates
-103.152.232.74:8080:Indonesia
+181.191.94.126:8999:Brazil
 147.161.160.178:9480:United Arab Emirates
 147.161.161.5:9480:United Arab Emirates
 147.161.160.176:11788:United Arab Emirates
-147.161.160.164:11788:United Arab Emirates
 147.161.160.201:11788:United Arab Emirates
 147.161.161.85:11238:United Arab Emirates
 147.161.161.108:10086:United Arab Emirates
 147.161.161.74:11240:United Arab Emirates
 147.161.161.84:11240:United Arab Emirates
-170.83.242.248:999:Paraguay
-147.161.160.113:10805:United Arab Emirates
 147.161.161.75:21002:United Arab Emirates
 147.161.160.45:10964:United Arab Emirates
-147.161.161.83:10846:United Arab Emirates
-41.57.15.12:8080:South Africa
-147.161.160.88:10014:United Arab Emirates
-147.161.161.24:9443:United Arab Emirates
+103.78.35.186:10000:Malaysia
 37.187.17.89:3128:France
 147.161.161.85:9401:United Arab Emirates
 147.161.160.248:10101:United Arab Emirates
 147.161.161.7:10101:United Arab Emirates
-181.65.139.228:999:Peru
-147.161.161.81:10997:United Arab Emirates
-91.238.211.110:8080:Russia
-123.126.158.50:80:China
 190.103.178.56:80:United States
 5.75.150.14:3128:Germany
-216.66.89.10:8080:United States
-38.156.238.180:999:Dominican Republic
 164.92.96.237:3128:United States
 147.161.160.83:10305:United Arab Emirates
-147.161.160.104:11111:United Arab Emirates
-147.161.160.120:10306:United Arab Emirates
 147.161.160.94:10306:United Arab Emirates
+147.161.160.14:11005:United Arab Emirates
 147.161.160.126:11005:United Arab Emirates
 121.236.215.7:443:China
-121.236.215.13:9443:China
 147.161.160.164:11680:United Arab Emirates
 147.161.160.201:11846:United Arab Emirates
 147.161.160.194:11846:United Arab Emirates
 147.161.160.252:9443:United Arab Emirates
-202.138.239.245:1212:Indonesia
+147.161.161.19:9443:United Arab Emirates
 45.169.92.148:999:Peru
-103.169.254.186:8061:Indonesia
+51.255.141.242:3128:France
+202.8.74.14:8080:Cambodia
 147.161.160.248:10453:United Arab Emirates
 147.161.161.94:3128:United Arab Emirates
 147.161.161.74:11522:United Arab Emirates
@@ -117,183 +91,117 @@
 147.161.160.26:11023:United Arab Emirates
 147.161.160.15:11023:United Arab Emirates
 147.161.160.92:10279:United Arab Emirates
-147.161.160.15:10862:United Arab Emirates
 147.161.160.115:11010:United Arab Emirates
 47.244.18.136:8088:Hong Kong
-87.126.65.11:1388:Bulgaria
 147.161.161.81:11267:United Arab Emirates
-147.161.160.194:11297:United Arab Emirates
-147.161.161.74:11297:United Arab Emirates
+147.161.160.115:21003:United Arab Emirates
 147.161.161.98:9401:United Arab Emirates
 147.161.161.30:10763:United Arab Emirates
+91.82.113.253:8080:Hungary
 155.94.134.166:3128:United States
+45.143.108.10:8080:Georgia
 181.176.148.141:999:Peru
-197.98.201.6:11336:South Africa
-117.71.154.171:8089:China
-65.109.204.90:8080:Finland
-45.167.26.1:999:Chile
-197.98.201.6:10800:South Africa
 197.98.201.122:9480:South Africa
-147.161.161.93:10722:United Arab Emirates
 197.98.201.122:10800:South Africa
 58.20.21.227:2323:China
-147.161.160.119:10895:United Arab Emirates
+147.161.160.85:10895:United Arab Emirates
 147.161.160.88:10382:United Arab Emirates
 147.161.160.103:10382:United Arab Emirates
 147.161.160.187:10000:United Arab Emirates
-197.98.201.129:10832:South Africa
+147.161.160.198:10000:United Arab Emirates
+147.161.160.48:10832:United Arab Emirates
+197.98.201.129:11028:South Africa
 147.161.161.84:11028:United Arab Emirates
-147.161.161.113:11028:United Arab Emirates
 197.98.201.129:10954:South Africa
 147.161.161.93:11066:United Arab Emirates
-197.98.201.6:11066:South Africa
-197.98.201.122:10846:South Africa
-197.98.201.6:10987:South Africa
 144.48.38.39:8443:Australia
-197.98.201.6:10831:South Africa
+147.161.161.73:10677:United Arab Emirates
 197.98.201.6:10761:South Africa
 197.98.201.122:10799:South Africa
-197.98.201.129:10808:South Africa
-147.161.160.252:10831:United Arab Emirates
+147.161.161.98:9480:United Arab Emirates
+103.84.177.28:8083:Philippines
 147.161.161.1:10831:United Arab Emirates
-147.161.161.12:10832:United Arab Emirates
-181.78.95.48:999:Paraguay
 103.171.157.133:8080:Indonesia
-147.161.161.30:10810:United Arab Emirates
 147.161.161.7:10810:United Arab Emirates
 197.98.201.129:54321:South Africa
 147.161.160.25:10883:United Arab Emirates
 147.161.160.208:11679:United Arab Emirates
-147.161.160.38:10939:United Arab Emirates
 147.161.161.5:10985:United Arab Emirates
 147.161.161.21:10985:United Arab Emirates
-197.98.201.6:10957:South Africa
-136.226.36.82:9480:United States
-8.212.131.161:8084:Philippines
-190.107.236.177:999:Ecuador
-103.169.130.202:8080:Indonesia
-147.161.161.91:11066:United Arab Emirates
-45.173.6.102:8080:Colombia
-144.49.99.190:8080:Singapore
-39.98.225.204:30002:China
-197.98.201.129:11316:South Africa
-45.225.207.179:999:Chile
-45.161.32.97:8082:Ecuador
-197.98.201.129:9401:South Africa
+197.98.201.6:10763:South Africa
+45.181.123.97:999:Chile
+45.161.33.1:8082:Ecuador
 197.98.201.6:11016:South Africa
-49.48.66.126:8080:Thailand
 197.98.201.6:11091:South Africa
-24.152.50.117:999:Dominican Republic
-24.152.50.116:999:Dominican Republic
 24.152.50.114:999:Dominican Republic
 197.98.201.6:10351:South Africa
 197.98.201.129:10781:South Africa
 147.161.161.77:10831:United Arab Emirates
-147.161.161.83:10509:United Arab Emirates
 147.161.161.81:11548:United Arab Emirates
-147.161.160.207:10305:United Arab Emirates
-147.161.160.83:21002:United Arab Emirates
 197.98.201.122:21002:South Africa
 147.161.160.104:10619:United Arab Emirates
 147.161.160.37:10619:United Arab Emirates
 147.161.161.23:10883:United Arab Emirates
+182.78.60.250:83:India
 147.161.161.90:10781:United Arab Emirates
 147.161.161.3:10089:United Arab Emirates
 147.161.160.189:11674:United Arab Emirates
 147.161.161.30:10223:United Arab Emirates
-45.189.252.243:999:Mexico
-168.227.11.34:8090:Brazil
 147.161.160.252:10089:United Arab Emirates
-147.161.161.24:10781:United Arab Emirates
-147.161.160.38:10089:United Arab Emirates
-197.98.201.6:10933:South Africa
 197.98.201.129:10933:South Africa
 147.161.161.24:10933:United Arab Emirates
 147.161.161.85:10933:United Arab Emirates
 147.161.160.50:10933:United Arab Emirates
 147.161.160.45:10923:United Arab Emirates
 147.161.160.191:11776:United Arab Emirates
-162.252.151.113:8282:United States
-190.237.116.56:999:Peru
-147.161.161.75:9443:United Arab Emirates
-147.161.160.92:10800:United Arab Emirates
+147.161.160.124:10714:United Arab Emirates
 147.161.161.94:11416:United Arab Emirates
 147.161.161.77:54321:United Arab Emirates
+147.161.160.198:11565:United Arab Emirates
 147.161.160.88:10766:United Arab Emirates
 147.161.160.250:10256:United Arab Emirates
 147.161.161.108:11095:United Arab Emirates
-93.190.139.207:39385:Indonesia
-147.161.160.108:11099:United Arab Emirates
-147.161.160.119:10637:United Arab Emirates
-197.98.201.6:11504:South Africa
 147.161.160.166:11909:United Arab Emirates
 45.171.220.2:999:Chile
-190.94.212.198:999:Venezuela
-1.54.250.30:8080:Vietnam
-140.0.151.206:8080:Indonesia
+31.223.235.200:8080:Hungary
+102.0.3.222:8080:Kenya
 31.134.122.163:8080:Ukraine
-103.189.96.98:8080:Indonesia
-113.53.211.30:8080:Thailand
-139.255.33.242:8080:Indonesia
-103.152.93.156:8080:Indonesia
-103.165.150.21:8080:Indonesia
-190.43.92.33:999:Peru
+223.205.214.199:8080:Thailand
+85.117.60.162:8080:Georgia
+202.53.162.194:8080:Bangladesh
 147.161.161.73:10781:United Arab Emirates
 147.161.160.88:10781:United Arab Emirates
 147.161.160.119:10781:United Arab Emirates
-147.161.160.117:10781:United Arab Emirates
 147.161.160.50:10781:United Arab Emirates
-147.161.161.74:10781:United Arab Emirates
-147.161.160.254:10781:United Arab Emirates
 147.161.160.110:10892:United Arab Emirates
-147.161.160.14:10892:United Arab Emirates
-147.161.160.87:10892:United Arab Emirates
-101.51.102.56:8080:Thailand
 197.98.201.129:10892:South Africa
 147.161.160.108:10892:United Arab Emirates
-147.161.161.85:10892:United Arab Emirates
 147.161.160.83:10892:United Arab Emirates
 223.215.177.24:8089:China
-41.193.81.7:80:South Africa
+27.157.130.174:8089:China
+64.225.4.17:10006:United States
 197.98.201.122:10801:South Africa
 147.161.161.10:10801:United Arab Emirates
-197.98.201.129:10801:South Africa
 194.62.98.234:3128:Spain
-103.170.132.39:3128:India
-90.188.45.216:8080:Russia
-134.17.137.218:28080:Belarus
-43.153.31.2:8080:Canada
 194.62.98.172:3128:Spain
-38.48.96.100:28080:United States
-38.48.98.61:28080:United States
 147.161.160.88:10832:United Arab Emirates
+147.161.160.103:10832:United Arab Emirates
 147.161.161.21:10832:United Arab Emirates
-147.161.160.94:10832:United Arab Emirates
 147.161.160.122:10832:United Arab Emirates
 147.161.161.26:10832:United Arab Emirates
-147.161.160.126:10832:United Arab Emirates
 147.161.160.90:10832:United Arab Emirates
 147.161.160.14:10832:United Arab Emirates
+147.161.160.87:10832:United Arab Emirates
 147.161.160.110:10832:United Arab Emirates
-147.161.160.119:10832:United Arab Emirates
-147.161.160.115:10832:United Arab Emirates
-104.129.206.162:10832:United States
-147.161.160.244:10832:United Arab Emirates
 147.161.160.245:10832:United Arab Emirates
 147.161.160.104:10832:United Arab Emirates
-147.161.160.113:10832:United Arab Emirates
-147.161.160.85:10832:United Arab Emirates
-147.161.160.15:10832:United Arab Emirates
-183.88.132.103:8080:Thailand
-147.161.160.108:10919:United Arab Emirates
-147.161.160.194:10919:United Arab Emirates
 147.161.160.13:10919:United Arab Emirates
 147.161.160.113:10919:United Arab Emirates
-147.161.161.85:10919:United Arab Emirates
 147.161.160.103:10919:United Arab Emirates
 147.161.160.81:10919:United Arab Emirates
-147.161.160.87:10919:United Arab Emirates
 147.161.160.85:10919:United Arab Emirates
-147.161.160.208:10919:United Arab Emirates
 147.161.160.205:10919:United Arab Emirates
 147.161.160.14:10919:United Arab Emirates
+147.161.161.93:10919:United Arab Emirates
+147.161.160.126:10919:United Arab Emirates
+147.161.160.166:10919:United Arab Emirates
