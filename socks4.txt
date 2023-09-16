@@ -24,9 +24,7 @@
 184.181.217.201:4145:United States
 184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
-192.111.137.34:18765:Canada
 192.111.139.162:4145:Canada
-192.252.211.197:14921:United States
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -34,7 +32,6 @@
 72.195.34.41:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
-184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -44,37 +41,38 @@
 98.181.137.83:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-72.37.217.3:4145:United States
+74.119.147.209:4145:United States
 72.37.216.68:4145:United States
 184.170.249.65:4145:United States
 199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 192.111.134.10:4145:United States
+198.8.84.3:4145:Canada
 142.54.235.9:4145:United States
-142.54.237.34:4145:United States
 107.152.98.5:4145:United States
 199.116.114.11:4145:United States
 104.200.152.30:4145:United States
+107.181.168.145:4145:United States
 107.181.161.81:4145:United States
 199.102.104.70:4145:United States
 199.102.106.94:4145:United States
 199.102.107.145:4145:United States
-177.22.35.82:4153:Brazil
 162.253.68.97:4145:United States
+180.250.91.50:5678:Indonesia
 67.201.59.70:4145:United States
+177.67.136.237:4153:Brazil
 68.1.210.189:4145:United States
-103.229.83.106:6789:Bangladesh
 64.227.108.25:31908:United States
-105.113.7.243:33333:Nigeria
 176.241.84.125:4145:Iraq
-112.78.162.53:5678:Indonesia
+79.7.101.98:5678:Italy
 199.187.210.54:4145:United States
 176.241.89.244:50547:Iraq
-135.181.199.44:8090:Finland
-103.30.201.39:3001:China
+112.86.206.23:7890:Japan
+43.154.107.138:3001:Hong Kong
 95.38.75.7:4145:Iran
 105.214.23.78:5678:South Africa
 105.214.20.102:5678:South Africa
 105.214.10.46:5678:South Africa
 105.214.8.198:5678:South Africa
 105.214.0.22:5678:South Africa
+212.83.143.60:13021:United Kingdom
