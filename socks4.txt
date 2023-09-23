@@ -10,7 +10,6 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
-93.175.194.154:3629:Ukraine
 184.181.217.210:4145:United States
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
@@ -21,6 +20,7 @@
 72.210.208.101:4145:United States
 184.178.172.17:4145:United States
 184.181.217.213:4145:United States
+184.181.217.201:4145:United States
 184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
@@ -36,21 +36,21 @@
 98.162.25.16:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
-213.6.68.94:5678:Palestine
 184.185.2.12:4145:United States
 68.71.254.6:4145:Canada
-104.37.135.145:4145:United States
+68.71.247.130:4145:Canada
 192.252.216.81:4145:United States
 98.181.137.83:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-74.119.147.209:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
 199.229.254.129:4145:United States
 142.54.239.1:4145:United States
+192.111.134.10:4145:United States
+142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
 199.116.114.11:4145:United States
@@ -62,16 +62,9 @@
 199.102.106.94:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
-115.69.214.68:5678:Bangladesh
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
-82.137.250.156:4145:Syria
-5.8.240.92:4153:Iraq
-213.14.32.70:4153:Turkey
-181.111.175.234:4153:Argentina
-50.235.92.65:32100:United States
+176.241.84.125:4145:Iraq
 199.187.210.54:4145:United States
-182.75.249.98:4145:India
-45.91.93.166:11295:Brazil
-45.91.93.166:29546:Brazil
+180.180.50.139:5678:Thailand
 134.35.218.190:5678:Yemen
