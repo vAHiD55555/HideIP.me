@@ -1,5 +1,4 @@
 208.102.51.6:58208:United States
-69.61.200.104:36181:United States
 66.42.224.229:41679:United States
 72.206.181.123:4145:United States
 67.201.33.10:25283:United States
@@ -9,12 +8,8 @@
 192.111.137.37:18762:Canada
 192.111.130.5:17002:Canada
 192.252.209.155:14455:United States
-192.252.208.70:14282:United States
 192.111.135.17:18302:United States
-192.111.135.18:18301:United States
 192.111.129.145:16894:Canada
-192.252.214.20:15864:United States
-192.111.139.163:19404:Canada
 72.210.252.134:46164:United States
 72.195.34.35:27360:United States
 98.162.25.4:31654:United States
@@ -31,122 +26,60 @@
 184.170.248.5:4145:United States
 199.58.185.9:4145:United States
 199.58.184.97:4145:United States
-46.0.203.140:4890:Russia
+8.142.3.145:3306:China
 142.54.236.97:4145:United States
 43.132.175.181:81:Hong Kong
 199.102.105.242:4145:United States
-31.211.142.115:8192:Bulgaria
 70.166.167.38:57728:United States
-65.169.38.73:26592:United States
 192.252.215.5:16137:United States
 72.206.181.105:64935:United States
 198.8.94.174:39078:Canada
-218.64.255.198:7302:China
-103.174.178.144:1020:Indonesia
-51.15.209.188:16379:Luxembourg
-194.233.78.142:41215:Singapore
-122.10.101.145:3333:Hong Kong
-178.251.111.117:24572:Ukraine
-115.127.89.202:1088:Bangladesh
 167.71.241.136:33299:United States
-115.127.39.18:9090:Bangladesh
-144.76.32.106:60129:Germany
-85.143.254.38:1080:Russia
-115.127.85.221:1088:Bangladesh
-115.127.85.186:1088:Bangladesh
-115.127.67.170:1088:Bangladesh
 212.33.248.45:1080:Russia
-31.25.24.67:1080:Russia
+103.213.118.46:1080:Indonesia
 115.127.69.194:1088:Bangladesh
-157.245.139.82:13321:United States
-5.44.42.115:10526:United Arab Emirates
-5.130.185.31:10801:Russia
-207.60.173.22:10810:United States
-103.234.27.113:9990:Bangladesh
-103.234.24.138:9990:Bangladesh
-103.234.24.42:9990:Bangladesh
-198.23.143.24:6969:United States
-23.95.247.35:15673:United States
-185.2.100.97:41014:Germany
-185.32.189.189:52898:Portugal
-102.68.79.53:2001:Kenya
-211.21.48.185:38081:Taiwan
+91.218.102.187:1080:Russia
+43.156.231.205:15673:Singapore
+8.219.67.223:26688:Singapore
 51.15.135.81:1080:France
 176.197.219.74:1080:Russia
-115.127.83.178:1088:Bangladesh
 27.102.129.236:8889:South Korea
 27.102.129.238:8889:South Korea
-5.161.183.125:64844:United States
+202.168.225.141:1088:Bangladesh
 37.221.193.221:15104:United States
-46.241.57.29:1080:Russia
 193.29.62.48:10653:Singapore
-188.34.140.205:1080:Germany
-115.127.107.218:1088:Bangladesh
 172.105.105.132:1080:Canada
-174.138.95.39:59855:United States
-162.55.100.161:53714:Germany
-50.7.67.27:62875:United States
-50.31.134.16:57743:United States
-50.7.66.18:62875:United States
-50.7.67.219:62875:United States
-119.148.45.185:9990:Bangladesh
-119.148.46.101:9990:Bangladesh
-50.7.67.219:59153:United States
 202.70.34.72:65530:Mongolia
-143.42.173.173:1080:United States
+119.148.51.26:9990:Bangladesh
 119.148.51.114:9990:Bangladesh
-115.127.78.1:9990:Bangladesh
-119.148.55.110:9990:Bangladesh
-115.127.12.41:9990:Bangladesh
-115.127.13.154:9990:Bangladesh
-115.127.126.182:9990:Bangladesh
-115.127.127.9:9990:Bangladesh
-115.127.83.58:9990:Bangladesh
-220.247.162.70:9990:Bangladesh
+119.148.55.122:9990:Bangladesh
 115.127.129.251:9990:Bangladesh
 115.127.74.17:9990:Bangladesh
-115.127.119.190:9990:Bangladesh
-115.127.117.241:9990:Bangladesh
-115.127.116.81:9990:Bangladesh
-162.241.137.197:55084:United States
-115.127.24.250:9990:Bangladesh
-167.71.100.140:18324:United States
-115.127.99.114:9990:Bangladesh
-115.127.99.113:9990:Bangladesh
+115.127.29.108:9990:Bangladesh
+115.127.28.17:9990:Bangladesh
+115.127.99.115:9990:Bangladesh
 45.91.93.166:25874:Brazil
-119.148.31.202:9990:Bangladesh
-167.172.159.43:49633:United States
-119.148.36.249:9990:Bangladesh
+119.148.31.249:9990:Bangladesh
 50.7.67.26:59153:United States
-119.148.34.45:9990:Bangladesh
-50.7.67.29:57378:United States
 172.232.185.237:1080:United States
-162.241.137.197:30738:United States
-50.7.67.28:55950:United States
-50.7.67.213:55950:United States
-50.7.67.222:55950:United States
-50.7.67.222:59153:United States
-172.232.146.193:1080:United States
-119.148.39.29:9990:Bangladesh
+139.144.100.156:1080:Australia
 172.232.159.89:1080:United States
 172.232.161.81:1080:United States
-170.187.137.244:1080:United States
-50.7.67.36:64838:United States
+168.100.10.52:1931:Netherlands
+172.232.60.102:1080:United States
+172.234.16.64:1080:United States
 50.7.67.214:63919:United States
 172.233.206.112:1080:United States
-134.209.36.143:26510:United States
 50.7.67.38:53903:United States
 50.7.67.36:53903:United States
-172.105.174.220:1080:Australia
-45.32.172.135:49431:United States
-50.7.67.3:63812:United States
-50.7.67.36:63812:United States
-50.7.67.212:63812:United States
+50.7.67.26:63812:United States
+50.7.67.214:63812:United States
+50.7.67.220:63812:United States
 172.234.29.17:1080:United States
 119.148.1.41:9990:Bangladesh
 212.83.142.145:64483:Hungary
-66.29.128.244:57252:United States
 66.29.128.246:65007:United States
 50.7.67.26:53903:United States
 50.7.66.21:53903:United States
 50.7.67.6:53903:United States
+45.91.93.166:24419:India
