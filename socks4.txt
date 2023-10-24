@@ -1,9 +1,7 @@
-185.139.56.133:4145:Georgia
-72.195.114.184:4145:United States
+208.102.51.6:58208:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
 174.77.111.196:4145:United States
-174.64.199.82:4145:United States
 174.77.111.197:4145:United States
 72.195.34.58:4145:United States
 98.162.25.23:4145:United States
@@ -15,13 +13,14 @@
 98.188.47.132:4145:United States
 72.195.114.169:4145:United States
 98.188.47.150:4145:United States
+72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
-184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.178.172.17:4145:United States
 184.181.217.213:4145:United States
-184.181.217.201:4145:United States
 184.181.217.220:4145:United States
+192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
 192.111.130.2:4145:Canada
@@ -35,7 +34,6 @@
 184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
-91.147.235.99:4145:Hungary
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
@@ -43,11 +41,8 @@
 98.181.137.83:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-74.119.147.209:4145:United States
-184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
-206.220.175.2:4145:United States
 184.170.249.65:4145:United States
 199.229.254.129:4145:United States
 142.54.239.1:4145:United States
@@ -63,7 +58,6 @@
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
 142.54.236.97:4145:United States
-89.151.134.157:3629:Russia
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
@@ -71,16 +65,17 @@
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
 154.72.78.146:5678:Tanzania
-103.189.96.116:1080:Indonesia
-36.67.14.5:5678:Indonesia
-49.156.33.154:5678:Cambodia
+1.4.195.114:4145:Thailand
+175.203.138.160:5678:South Korea
 199.187.210.54:4145:United States
-37.17.53.108:3629:Belarus
-83.235.22.245:5678:Greece
-102.91.17.18:5678:Nigeria
+208.65.90.21:4145:United States
 72.217.158.202:4145:United States
-177.129.63.142:4153:Brazil
-154.236.191.44:33333:Egypt
-105.214.3.226:5678:South Africa
-162.144.35.38:8885:United States
+45.128.135.249:1080:Romania
+45.122.45.49:5678:India
+95.38.75.4:4145:Iran
+62.201.214.45:5678:Iraq
+167.71.250.32:49179:United States
 179.107.50.91:4153:Brazil
+105.214.14.30:5678:South Africa
+194.213.8.34:5678:Moldova
+157.230.87.10:8085:United States
