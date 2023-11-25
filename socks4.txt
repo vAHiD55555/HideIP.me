@@ -1,4 +1,3 @@
-72.49.49.11:31034:United States
 208.102.51.6:58208:United States
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
@@ -13,6 +12,7 @@
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
 184.181.217.210:4145:United States
+118.67.216.94:4145:Bangladesh
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
 72.195.114.169:4145:United States
@@ -22,6 +22,8 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.181.217.213:4145:United States
+184.181.217.201:4145:United States
 192.111.139.165:4145:Canada
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
@@ -32,20 +34,20 @@
 184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
-184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
+213.6.68.94:5678:Palestine
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
 192.252.216.81:4145:United States
-114.4.200.222:5678:Indonesia
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
 184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
+184.170.249.65:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
@@ -55,45 +57,36 @@
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
-185.79.243.153:38431:Poland
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
+217.145.199.47:56746:Slovakia
 142.54.236.97:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
-100.1.53.24:5678:United States
 68.1.210.189:4145:United States
-202.131.246.250:5678:Mongolia
-103.121.39.158:1080:Bangladesh
-124.158.149.66:4153:Indonesia
-138.36.150.17:1080:Argentina
-199.187.210.54:4145:United States
-175.100.47.191:5678:Cambodia
+187.216.144.170:5678:Mexico
 72.217.158.202:4145:United States
-103.134.214.131:1648:Indonesia
-116.202.213.207:52682:Germany
 192.252.220.89:4145:United States
-62.171.165.74:8975:Germany
-167.71.250.32:55993:United States
-200.48.160.100:5678:Peru
-196.40.117.114:5678:Mozambique
+202.131.234.107:5678:Mongolia
 174.75.211.222:4145:United States
-49.229.32.173:4153:Thailand
-105.214.80.53:5678:South Africa
+159.192.142.24:5678:Thailand
+174.138.38.114:11398:United States
+69.167.170.149:58722:United States
 105.214.89.34:5678:South Africa
 134.35.121.52:1080:Yemen
 134.35.0.93:1080:Yemen
 182.253.121.87:4145:Indonesia
 203.121.203.141:5678:Australia
-134.35.116.193:1080:Yemen
 203.121.203.181:5678:Australia
 105.214.88.192:5678:South Africa
-134.35.228.233:1080:Yemen
-183.88.75.230:4153:Thailand
 134.35.15.129:1080:Yemen
 178.130.85.175:1080:Yemen
-180.183.93.202:4153:Thailand
-134.35.189.190:1080:Yemen
+134.35.230.236:1080:Yemen
+105.214.82.162:5678:South Africa
+105.214.82.189:5678:South Africa
+105.214.83.11:5678:South Africa
+105.214.93.52:5678:South Africa
+134.35.8.151:1080:Yemen
