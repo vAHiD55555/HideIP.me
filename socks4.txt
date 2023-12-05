@@ -20,10 +20,12 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.178.172.17:4145:United States
 184.181.217.213:4145:United States
-184.181.217.220:4145:United States
+192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
+192.252.211.197:14921:United States
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -46,13 +48,11 @@
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
-199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
 192.111.134.10:4145:United States
-198.8.84.3:4145:Canada
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
@@ -62,16 +62,32 @@
 142.54.236.97:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
+203.124.53.122:5678:Pakistan
 162.253.68.97:4145:United States
+51.15.210.79:16379:United States
 68.1.210.189:4145:United States
+213.210.67.186:3629:Russia
+109.68.189.22:54643:Russia
+85.116.120.106:3629:Russia
+46.48.126.226:4153:Russia
+92.42.8.21:4145:Russia
+195.116.155.169:3629:Poland
+181.209.96.226:4153:Argentina
 199.187.210.54:4145:United States
-119.148.40.186:9990:Bangladesh
-45.118.74.113:4153:India
+181.212.97.74:5678:Chile
+213.14.32.68:4153:Turkey
+190.216.69.231:4153:Argentina
 72.217.158.202:4145:United States
-102.69.177.126:10081:South Africa
 192.252.220.89:4145:United States
-37.18.73.60:5566:Sweden
+103.160.12.138:4145:Indonesia
+50.207.130.198:54321:United States
+143.202.136.49:5678:Argentina
+37.18.73.60:5566:United States
 174.75.211.222:4145:United States
-190.104.8.142:14888:Bolivia
-67.227.196.235:56977:United States
-192.163.204.80:10694:United States
+103.157.81.58:5678:Indonesia
+170.84.252.22:5678:Turkey
+45.231.90.20:4153:Brazil
+154.19.185.254:1234:United States
+45.65.118.246:45491:United Kingdom
+198.178.123.93:64206:United States
+134.35.233.93:1080:Yemen
