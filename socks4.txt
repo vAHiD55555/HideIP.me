@@ -1,4 +1,3 @@
-72.49.49.11:31034:United States
 208.102.51.6:58208:United States
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
@@ -13,6 +12,7 @@
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
 184.181.217.210:4145:United States
+45.187.76.2:3629:Argentina
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
 72.195.114.169:4145:United States
@@ -20,12 +20,11 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
-184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.181.217.213:4145:United States
+192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
-192.252.211.197:14921:United States
+192.111.137.35:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -43,6 +42,7 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+202.162.212.165:4153:Indonesia
 184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
@@ -64,20 +64,29 @@
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 162.253.68.97:4145:United States
+191.34.253.74:4153:Brazil
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
-110.78.82.233:5678:Thailand
+216.169.73.65:60221:United States
 199.187.210.54:4145:United States
+203.205.55.161:5678:Vietnam
+98.6.220.90:8899:United States
+46.231.72.35:5678:Czechia
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
-110.232.81.178:5678:Indonesia
+37.18.73.60:5566:Ukraine
+51.38.50.249:9224:France
 174.75.211.222:4145:United States
-38.7.2.98:1080:Venezuela
-103.121.91.38:39998:Vietnam
-184.168.121.153:45134:Singapore
-51.75.126.150:53227:France
-148.72.23.56:42972:United States
-45.91.92.45:23885:Brazil
-220.90.95.76:56452:South Korea
-107.180.89.55:60756:United States
-171.97.107.72:4145:Thailand
+51.158.77.220:16379:United States
+92.241.92.218:14888:Georgia
+46.98.199.154:1111:Ukraine
+41.215.82.214:4673:Kenya
+162.144.36.208:52517:United States
+162.144.36.208:27531:United States
+1.20.91.246:5678:Thailand
+192.163.204.80:31104:United States
+207.180.222.186:17182:Germany
+192.169.226.96:32074:United States
+178.115.255.177:5678:Austria
+162.214.188.67:48368:United States
+162.241.6.97:60870:United States
