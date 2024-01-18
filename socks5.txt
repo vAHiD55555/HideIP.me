@@ -1,15 +1,12 @@
 69.61.200.104:36181:United States
-66.42.224.229:41679:United States
 72.206.181.123:4145:United States
-184.178.172.14:4145:United States
 192.252.220.92:17328:United States
 184.181.217.206:4145:United States
 184.181.217.194:4145:United States
 192.111.137.37:18762:Canada
-192.252.209.155:14455:United States
+192.111.130.5:17002:Canada
 192.252.208.70:14282:United States
-192.111.129.145:16894:Canada
-192.111.139.163:19404:Canada
+192.111.135.17:18302:United States
 72.210.252.134:46164:United States
 72.195.34.35:27360:United States
 98.162.25.4:31654:United States
@@ -18,57 +15,46 @@
 98.178.72.21:10919:United States
 72.195.34.60:27391:United States
 184.178.172.28:15294:United States
-184.178.172.25:15291:United States
-184.178.172.18:15280:United States
-184.178.172.5:15303:United States
 198.8.94.170:4145:Canada
 184.185.2.12:4145:United States
 98.181.137.83:4145:United States
+74.119.144.60:4145:United States
 199.58.185.9:4145:United States
 142.54.226.214:4145:United States
 199.116.114.11:4145:United States
-46.36.70.104:46964:Lithuania
 199.102.106.94:4145:United States
 70.166.167.38:57728:United States
 184.178.172.13:15311:United States
 65.169.38.73:26592:United States
 72.206.181.105:64935:United States
-198.8.94.174:39078:Canada
-64.227.108.25:31908:United States
-221.134.152.75:7302:India
-185.231.115.246:7237:The Netherlands
+176.115.79.195:1080:Russia
 212.83.138.132:55699:Türkiye
-94.23.252.168:9180:France
+195.14.26.9:1080:Poland
 109.75.254.91:1080:Russia
 43.153.107.218:9876:United States
 47.254.91.248:3737:United States
+207.180.222.186:24764:Germany
 62.3.41.56:5129:Canada
-5.252.23.220:1080:Slovakia
-207.180.222.186:52404:Germany
 122.155.223.165:10203:Thailand
+207.180.222.186:18844:Germany
 80.82.77.2:62725:The Netherlands
-51.75.126.150:6786:France
+80.82.77.2:30398:The Netherlands
+23.95.209.149:15673:United States
+80.82.77.2:5771:The Netherlands
 80.82.77.2:34887:The Netherlands
-80.82.77.2:28790:The Netherlands
 80.82.77.2:49670:The Netherlands
-207.180.222.186:15717:Germany
-94.131.107.45:1080:The Netherlands
-69.55.49.177:38172:United States
+185.18.198.163:54331:Spain
 37.120.162.180:34958:South Korea
 80.82.77.2:41441:The Netherlands
+128.199.25.48:44575:India
 80.82.77.2:10970:The Netherlands
-128.199.25.48:61526:India
 149.56.147.85:12334:Canada
 149.56.147.188:12334:Canada
 43.128.2.177:1080:Hong Kong
-171.244.140.160:3991:Vietnam
-116.105.19.225:1080:Vietnam
-80.82.77.2:1817:The Netherlands
 47.236.10.43:1080:Singapore
 108.181.23.18:11322:United States
 108.181.23.19:11322:United States
 108.181.23.20:11322:United States
-108.181.23.21:11322:United States
 108.181.23.22:11322:United States
 80.82.77.2:56056:The Netherlands
 109.70.187.44:1080:Russia
@@ -76,9 +62,9 @@
 80.82.77.2:46128:The Netherlands
 80.82.77.2:39783:The Netherlands
 162.0.220.217:36921:United States
-135.181.213.184:40004:Cyprus
+94.130.21.228:40462:Germany
+213.136.78.200:46064:Germany
 66.29.128.241:49027:United States
-145.239.2.102:2661:Germany
 31.220.43.141:35567:Mexico
 162.210.192.135:29376:United States
 185.244.36.240:33403:South Korea
@@ -86,3 +72,6 @@
 139.162.238.184:16081:United Kingdom
 67.213.212.51:12374:United States
 23.105.170.33:41093:United States
+167.99.123.158:14241:United States
+188.164.193.178:47573:Spain
+162.210.192.136:47239:United States
