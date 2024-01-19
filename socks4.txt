@@ -1,3 +1,5 @@
+72.49.49.11:31034:United States
+208.102.51.6:58208:United States
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
@@ -5,7 +7,6 @@
 174.64.199.82:4145:United States
 174.77.111.197:4145:United States
 174.64.199.79:4145:United States
-72.195.34.58:4145:United States
 98.162.25.23:4145:United States
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
@@ -25,7 +26,7 @@
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
-192.111.130.2:4145:Canada
+192.252.211.197:14921:United States
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -43,11 +44,9 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
-184.170.249.65:4145:United States
 199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
@@ -61,6 +60,7 @@
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
+103.165.175.71:5678:India
 142.54.236.97:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
@@ -68,22 +68,30 @@
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
-176.99.2.43:1080:Russia
 199.187.210.54:4145:United States
+187.44.211.118:4153:Brazil
 72.217.158.202:4145:United States
+89.38.11.16:60355:Romania
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-151.251.40.74:5678:Bulgaria
+184.168.121.153:41256:Singapore
 184.168.121.153:51206:Singapore
 184.168.121.153:17673:Singapore
+77.65.50.118:34159:Poland
 184.168.121.153:29782:Singapore
 184.168.121.153:60681:Singapore
-163.53.186.250:5678:Indonesia
+192.169.205.131:7031:United States
 184.168.121.153:2752:Singapore
 184.168.121.153:13658:Singapore
 184.168.121.153:15696:Singapore
+139.255.54.106:4145:Indonesia
 82.148.2.112:10800:Uzbekistan
+171.248.213.139:1080:Vietnam
+162.241.158.204:37854:United States
+171.248.218.152:1080:Vietnam
+66.29.128.243:17101:United States
 116.105.28.33:5000:Vietnam
 116.105.28.209:5000:Vietnam
+27.65.240.228:1080:Vietnam
 116.105.28.33:5004:Vietnam
 134.35.217.201:1080:Yemen
