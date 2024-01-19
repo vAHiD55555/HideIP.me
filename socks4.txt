@@ -19,17 +19,22 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+159.69.153.169:5566:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.181.217.213:4145:United States
 184.181.217.201:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
+192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
+189.195.176.99:5678:Mexico
+184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
@@ -41,6 +46,7 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
@@ -56,28 +62,34 @@
 107.152.98.5:4145:United States
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
+104.200.135.46:4145:United States
 142.54.236.97:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
+45.6.101.97:4153:Brazil
 68.1.210.189:4145:United States
+216.169.73.65:60221:United States
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+209.14.112.1:1080:Colombia
 184.168.121.153:51206:Singapore
 184.168.121.153:17673:Singapore
+103.78.25.99:5678:Indonesia
+163.172.144.132:16379:United States
 184.168.121.153:29782:Singapore
 184.168.121.153:60681:Singapore
 184.168.121.153:2752:Singapore
 184.168.121.153:13658:Singapore
+41.58.169.214:5678:Nigeria
 184.168.121.153:15696:Singapore
-189.201.191.19:4145:Mexico
 64.126.122.234:1080:United States
-94.131.14.66:1080:Lithuania
+64.176.41.164:23937:Japan
+171.247.247.142:1080:Vietnam
 67.213.212.55:15657:United States
-162.241.158.204:37854:United States
 116.105.28.33:5000:Vietnam
 116.105.28.33:5004:Vietnam
 87.238.192.13:8715:Germany
