@@ -1,4 +1,5 @@
 72.49.49.11:31034:United States
+208.102.51.6:58208:United States
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
@@ -25,15 +26,15 @@
 184.181.217.213:4145:United States
 184.181.217.201:4145:United States
 184.181.217.220:4145:United States
+192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
-192.111.139.165:4145:Canada
-192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
+184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
@@ -41,7 +42,6 @@
 72.210.221.223:4145:United States
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
-104.37.135.145:4145:United States
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
@@ -59,6 +59,7 @@
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
+178.72.90.70:5678:Russia
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
@@ -69,14 +70,30 @@
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
-216.169.73.65:60221:United States
+154.72.78.146:5678:Tanzania
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
+103.66.177.127:32251:Bangladesh
 174.75.211.222:4145:United States
+141.94.174.6:3096:France
+141.94.174.6:4393:France
+163.172.158.70:16379:Germany
+103.158.253.32:5678:Indonesia
+31.170.19.233:4153:Latvia
+103.159.220.157:5678:Indonesia
+5.252.23.220:1080:Slovakia
+203.121.203.74:5678:Australia
 64.126.122.234:1080:United States
+51.75.125.208:22589:France
+162.241.137.197:54213:United States
+94.131.14.66:1080:Lithuania
+51.75.126.150:4362:France
+210.211.122.40:45684:Vietnam
+197.245.20.66:5678:South Africa
+194.233.79.104:52049:Singapore
 95.217.73.19:8080:Finland
-162.241.66.135:35038:United States
-162.214.227.68:34956:United States
+162.241.66.135:50179:United States
+105.214.82.76:5678:South Africa
 142.93.66.21:8464:United States
 88.198.10.91:8104:Germany
