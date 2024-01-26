@@ -1,4 +1,3 @@
-185.139.56.133:4145:Georgia
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
@@ -21,12 +20,12 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.178.172.17:4145:United States
 184.181.217.213:4145:United States
 184.181.217.201:4145:United States
-184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
+192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
 192.252.211.197:14921:United States
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
@@ -38,6 +37,7 @@
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
+72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
@@ -45,6 +45,7 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+74.119.147.209:4145:United States
 184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
@@ -61,23 +62,25 @@
 107.152.98.5:4145:United States
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
-104.200.135.46:4145:United States
+103.112.162.241:5678:Indonesia
 142.54.236.97:4145:United States
-51.83.184.241:9191:Germany
+107.181.161.81:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
-91.201.240.84:5678:Ukraine
 68.1.210.189:4145:United States
+103.148.45.167:4145:Indonesia
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-189.206.175.169:4153:Mexico
-122.3.139.85:1080:Philippines
-154.16.112.204:63432:United States
-141.94.174.6:39796:France
+64.64.152.248:39593:United States
+36.93.138.75:5678:Indonesia
+207.180.222.186:20255:Germany
+67.225.255.197:57752:United States
 190.104.8.142:14888:Bolivia
-51.79.51.174:57119:Canada
-94.228.162.155:33731:France
+94.228.162.155:31003:France
+94.228.162.155:36584:France
+162.240.16.171:37277:United States
+66.29.128.243:45445:United States
