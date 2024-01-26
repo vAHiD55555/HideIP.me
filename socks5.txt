@@ -1,5 +1,4 @@
 208.102.51.6:58208:United States
-69.61.200.104:36181:United States
 72.206.181.123:4145:United States
 184.178.172.14:4145:United States
 192.252.220.92:17328:United States
@@ -7,9 +6,10 @@
 184.181.217.194:4145:United States
 192.111.137.37:18762:Canada
 192.111.130.5:17002:Canada
+192.252.209.155:14455:United States
 192.252.208.70:14282:United States
+192.111.135.17:18302:United States
 192.111.129.145:16894:Canada
-192.252.214.20:15864:United States
 192.111.139.163:19404:Canada
 72.210.252.134:46164:United States
 72.195.34.35:27360:United States
@@ -21,10 +21,9 @@
 184.178.172.28:15294:United States
 184.178.172.25:15291:United States
 184.178.172.18:15280:United States
-184.178.172.5:15303:United States
+198.8.94.170:4145:Canada
 184.185.2.12:4145:United States
 98.181.137.83:4145:United States
-74.119.144.60:4145:United States
 199.58.185.9:4145:United States
 199.58.184.97:4145:United States
 142.54.226.214:4145:United States
@@ -35,22 +34,21 @@
 65.169.38.73:26592:United States
 72.206.181.105:64935:United States
 198.8.94.174:39078:Canada
-64.227.108.25:31908:United States
 185.231.115.246:7237:The Netherlands
+94.23.252.168:9180:France
 43.153.107.218:9876:United States
-207.180.222.186:23639:Germany
-5.45.73.25:4761:Argentina
-37.18.73.60:5566:United States
-209.159.153.19:31725:United States
+5.45.73.25:26681:United States
+122.155.223.165:10203:Thailand
+74.252.14.169:60056:United States
 198.199.115.151:35792:United States
+141.94.238.246:40380:United States
 172.245.16.124:15673:United States
-162.241.6.97:37575:United States
-162.241.6.97:33215:United States
-92.205.108.94:63840:France
+162.241.6.97:38172:United States
+182.160.126.108:9990:Bangladesh
+141.94.238.246:51341:United States
 108.181.133.59:43197:United States
-167.71.41.191:54524:Germany
-45.56.220.210:61941:Canada
 5.161.98.204:37901:United States
+38.91.107.2:42953:United States
 142.93.66.21:15496:United States
 37.32.98.160:41096:Spain
 92.205.107.162:46361:France
@@ -60,6 +58,9 @@
 138.201.21.238:13311:Canada
 108.181.132.115:63362:United States
 67.213.212.55:46979:United States
+198.12.253.60:5398:United States
 162.240.72.139:35592:United States
+144.76.96.180:5566:United States
 134.195.91.76:37760:United States
 67.227.196.237:62888:United States
+66.29.128.245:11112:United States
