@@ -1,16 +1,15 @@
 72.49.49.11:31034:United States
 208.102.51.6:58208:United States
-69.61.200.104:36181:United States
 72.206.181.123:4145:United States
 184.178.172.14:4145:United States
 192.252.220.92:17328:United States
 184.181.217.206:4145:United States
 184.181.217.194:4145:United States
 192.111.137.37:18762:Canada
-192.111.130.5:17002:Canada
 192.252.208.70:14282:United States
-192.111.129.145:16894:Canada
+192.111.135.17:18302:United States
 192.252.214.20:15864:United States
+192.111.139.163:19404:Canada
 72.210.252.134:46164:United States
 72.195.34.35:27360:United States
 98.162.25.4:31654:United States
@@ -21,11 +20,14 @@
 184.178.172.28:15294:United States
 184.178.172.25:15291:United States
 184.178.172.18:15280:United States
+184.178.172.5:15303:United States
 198.8.94.170:4145:Canada
 184.185.2.12:4145:United States
 98.181.137.83:4145:United States
+74.119.144.60:4145:United States
 184.170.248.5:4145:United States
 199.58.185.9:4145:United States
+199.58.184.97:4145:United States
 142.54.226.214:4145:United States
 199.116.114.11:4145:United States
 199.102.106.94:4145:United States
@@ -37,36 +39,65 @@
 43.134.20.174:15673:Singapore
 51.38.63.124:6133:France
 43.153.107.218:9876:United States
-207.180.222.186:62668:Germany
+207.180.222.186:23639:Germany
+185.151.86.86:3699:Ukraine
+43.128.2.177:1080:Hong Kong
+51.254.167.41:41001:France
+178.33.162.89:58178:Spain
+158.69.55.204:49644:Canada
+88.80.148.190:9876:United States
 94.7.25.56:1080:France
+43.155.160.200:15673:South Korea
 31.170.22.127:1080:Latvia
-51.255.79.92:60174:France
-82.165.242.18:64975:Germany
-144.76.96.180:5566:Germany
-23.105.170.34:31971:United States
+152.228.134.212:33737:France
+141.94.22.200:61919:France
+167.172.159.43:4385:United States
+79.137.194.122:1234:The Netherlands
+67.227.196.237:62888:United States
+66.29.128.245:11112:United States
+37.220.85.131:6116:United States
+51.38.63.124:31900:France
 74.252.14.169:51128:United States
 74.252.14.248:51128:United States
 74.252.14.210:51128:United States
+162.214.227.68:35837:United States
+162.19.7.47:58599:United States
 162.210.192.135:16628:United States
-195.154.43.184:10183:The Netherlands
 45.79.134.70:58862:United States
 79.137.204.40:32283:The Netherlands
+79.137.204.40:34322:The Netherlands
+79.137.204.40:30708:The Netherlands
+79.137.204.40:30478:The Netherlands
+79.137.205.64:33806:The Netherlands
 162.19.7.61:35861:United States
-188.165.223.112:5670:France
-162.241.6.97:63352:United States
+68.178.204.46:10406:United States
+67.213.210.62:61472:United States
 74.252.14.169:50692:United States
 79.137.204.40:34302:The Netherlands
-91.103.252.113:32034:The Netherlands
+79.137.204.40:33861:The Netherlands
+162.241.41.87:39859:United States
+167.86.69.65:54446:Germany
+66.29.129.54:13596:United States
 79.137.205.64:31150:The Netherlands
-46.38.230.49:32440:Austria
+46.105.44.29:51832:United States
+72.167.38.7:49607:United States
+162.214.227.68:38677:United States
 79.137.204.40:33355:The Netherlands
+79.137.204.40:33328:The Netherlands
+79.137.204.40:30849:The Netherlands
 162.241.158.204:59403:United States
 188.165.223.112:29124:France
 185.23.118.252:51095:Spain
 148.72.212.125:56845:Singapore
 173.236.169.236:35618:United States
 41.76.109.72:50799:South Africa
+66.29.129.54:34809:United States
 79.137.205.64:32896:The Netherlands
 66.29.128.243:16444:United States
 207.180.234.220:39323:Germany
-23.105.170.32:65334:United States
+67.213.212.39:24590:United States
+64.202.186.2:7093:United States
+66.29.128.243:56007:United States
+92.205.105.119:31545:France
+142.4.9.155:5043:United States
+162.210.192.135:39973:United States
