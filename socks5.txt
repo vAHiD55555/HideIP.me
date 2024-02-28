@@ -1,5 +1,4 @@
 72.49.49.11:31034:United States
-69.61.200.104:36181:United States
 66.42.224.229:41679:United States
 72.206.181.123:4145:United States
 184.178.172.14:4145:United States
@@ -11,13 +10,10 @@
 192.252.209.155:14455:United States
 192.252.208.70:14282:United States
 192.111.135.17:18302:United States
-192.252.214.20:15864:United States
-192.111.139.163:19404:Canada
 72.210.252.134:46164:United States
 72.195.34.35:27360:United States
 98.162.25.4:31654:United States
 98.162.25.29:31679:United States
-174.77.111.198:49547:United States
 98.178.72.21:10919:United States
 72.195.34.60:27391:United States
 184.178.172.28:15294:United States
@@ -26,7 +22,6 @@
 184.178.172.5:15303:United States
 198.8.94.170:4145:Canada
 184.185.2.12:4145:United States
-98.181.137.83:4145:United States
 74.119.144.60:4145:United States
 184.170.248.5:4145:United States
 199.58.185.9:4145:United States
@@ -39,32 +34,20 @@
 65.169.38.73:26592:United States
 72.206.181.105:64935:United States
 198.8.94.174:39078:Canada
-113.176.118.150:1080:Vietnam
-219.243.212.118:8443:China
 45.91.92.45:10139:Russia
-54.36.108.149:56367:France
 47.242.234.237:80:Hong Kong
-107.180.101.226:51526:United States
+147.45.42.147:33587:Russia
+67.213.212.58:58456:United States
 195.248.243.149:7237:The Netherlands
-198.12.152.216:28095:United States
-89.145.128.212:1080:Russia
 134.195.90.170:33448:Canada
 108.181.23.20:26189:United States
 108.181.23.21:26189:United States
 108.181.23.22:26189:United States
-162.55.87.48:5566:The Netherlands
-92.205.107.159:60632:France
+162.55.87.48:5566:Seychelles
 23.105.170.30:24666:United States
 162.0.220.215:46323:United States
-64.92.125.43:58314:United States
-64.92.125.145:58314:United States
-162.215.212.160:35678:United States
-146.59.18.246:29066:France
 167.99.123.158:5211:United States
 23.88.121.205:36822:United States
-38.242.136.254:6797:Germany
-162.240.79.167:33831:United States
-162.214.227.68:52208:United States
 51.83.116.3:10406:Spain
 107.180.90.248:43240:United States
 51.75.125.208:2736:France
@@ -75,4 +58,4 @@
 66.29.131.58:14170:United States
 162.241.137.197:40604:United States
 212.83.143.211:50728:United States
-212.83.137.142:48578:Singapore
+67.213.212.40:62337:United States
