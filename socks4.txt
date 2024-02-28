@@ -2,20 +2,14 @@
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
 174.77.111.196:4145:United States
-174.64.199.82:4145:United States
-174.77.111.197:4145:United States
 174.64.199.79:4145:United States
-72.195.34.58:4145:United States
 98.162.25.23:4145:United States
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
 184.181.217.210:4145:United States
-98.175.31.195:4145:United States
 98.188.47.132:4145:United States
-72.195.114.169:4145:United States
 98.188.47.150:4145:United States
-72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
@@ -23,8 +17,6 @@
 184.181.217.213:4145:United States
 184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
-192.111.137.34:18765:Canada
-192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -41,7 +33,6 @@
 104.37.135.145:4145:United States
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
-184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
@@ -57,25 +48,19 @@
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
-142.54.236.97:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
-68.1.210.189:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
-174.75.211.222:4145:United States
-82.132.19.108:4153:Croatia
-103.156.15.121:5678:Indonesia
 72.195.101.99:4145:United States
-109.107.181.243:33736:Germany
-200.108.190.153:9800:Venezuela
-37.187.73.7:64052:France
-167.86.69.142:46411:Germany
-147.45.43.69:33086:Russia
-147.45.40.110:34236:Russia
+147.45.40.110:32999:Russia
+103.230.126.123:60511:Malaysia
+147.45.42.4:31080:Russia
+147.45.40.110:34061:Russia
+109.107.181.243:33902:Germany
 162.240.19.133:63605:United States
 162.240.10.35:63605:United States
 178.79.165.164:57471:United Kingdom
