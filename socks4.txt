@@ -1,3 +1,4 @@
+109.94.182.128:4145:Russia
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
@@ -18,11 +19,13 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.178.172.17:4145:United States
 184.181.217.213:4145:United States
+184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
-192.111.137.34:18765:Canada
+192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
 192.252.211.197:14921:United States
 98.170.57.249:4145:United States
@@ -42,6 +45,7 @@
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
 74.119.147.209:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
@@ -52,6 +56,7 @@
 142.54.232.6:4145:United States
 192.111.134.10:4145:United States
 198.8.84.3:4145:United States
+142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
 104.200.152.30:4145:United States
@@ -64,12 +69,25 @@
 162.253.68.97:4145:United States
 68.1.210.189:4145:United States
 199.187.210.54:4145:United States
+114.32.176.158:4145:Taiwan
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-144.76.96.180:5566:United States
+221.120.216.57:5678:Pakistan
+47.251.34.170:1080:United States
+144.76.96.180:5566:Germany
 36.92.81.181:4145:Indonesia
-192.162.232.15:1080:Ukraine
-101.185.129.64:5678:Australia
+85.30.215.48:60541:Russia
+190.104.8.142:14888:Bolivia
 72.195.101.99:4145:United States
-161.97.74.176:30000:United States
+148.72.23.56:36111:United States
+72.167.222.113:12581:United States
+115.74.158.135:1080:Vietnam
+167.86.102.169:23157:Germany
+148.72.212.212:12598:Singapore
+167.99.123.158:15905:United States
+141.147.30.53:1080:Germany
+54.38.179.162:55824:France
+157.230.250.104:45051:Singapore
+67.213.212.51:36662:United States
+51.83.116.4:55819:Austria
