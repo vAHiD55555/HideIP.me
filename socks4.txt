@@ -10,7 +10,6 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
-121.200.60.122:4153:Bangladesh
 184.181.217.210:4145:United States
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
@@ -19,13 +18,11 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
-184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.181.217.213:4145:United States
-184.181.217.220:4145:United States
+184.178.172.17:4145:United States
+184.181.217.201:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
-192.111.139.165:4145:Canada
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
@@ -43,10 +40,10 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
+199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
@@ -59,26 +56,31 @@
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
-142.54.236.97:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
+110.139.128.232:4145:Indonesia
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
+103.225.125.161:4153:India
 174.75.211.222:4145:United States
-122.3.139.85:1080:Philippines
-103.131.8.27:5678:Pakistan
-200.25.254.174:35010:Colombia
+177.234.249.218:4153:Ecuador
+190.14.5.162:5678:Guatemala
+51.158.72.165:16379:United States
+94.131.107.45:1080:The Netherlands
 144.76.96.180:5566:United States
 36.92.81.181:4145:Indonesia
 72.195.101.99:4145:United States
-161.97.74.176:30000:United States
-45.120.178.197:1080:The Netherlands
+91.134.140.160:56495:France
+162.214.227.68:37976:United States
+5.10.249.159:1080:The Netherlands
 141.147.30.53:1080:Germany
-92.204.135.37:8623:United States
+178.128.82.105:33225:Singapore
+162.214.227.68:55392:United States
+41.184.212.3:4153:Nigeria
 138.68.155.22:35650:United Kingdom
 138.201.21.227:41755:United Kingdom
