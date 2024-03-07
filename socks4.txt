@@ -18,11 +18,12 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
-184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.178.172.17:4145:United States
 184.181.217.213:4145:United States
-192.111.137.34:18765:Canada
+184.181.217.220:4145:United States
+192.111.138.29:4145:Canada
+192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -44,6 +45,7 @@
 184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 206.220.175.2:4145:United States
+184.170.249.65:4145:United States
 199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
@@ -55,28 +57,38 @@
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
 104.200.152.30:4145:United States
-107.181.168.145:4145:United States
 104.200.135.46:4145:United States
 142.54.236.97:4145:United States
+14.241.241.185:4145:Vietnam
+203.81.87.186:5678:Myanmar
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
+117.102.72.114:4153:Indonesia
 199.187.210.54:4145:United States
+181.48.243.194:4153:Colombia
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
-154.64.217.128:36468:United States
+50.207.130.198:54321:United States
 174.75.211.222:4145:United States
-94.131.107.45:1080:The Netherlands
-144.76.96.180:5566:Poland
+115.127.180.90:5678:Bangladesh
+103.35.189.217:1080:United States
+194.61.24.198:1080:Russia
 36.92.81.181:4145:Indonesia
 192.162.232.15:1080:Ukraine
 72.195.101.99:4145:United States
-147.45.43.212:31904:Russia
-171.248.219.80:1080:Vietnam
+86.8.163.88:9150:The Netherlands
+203.96.177.211:12183:Australia
+144.91.66.30:51110:Germany
+148.66.130.53:54209:Singapore
+67.213.212.52:13987:United States
+163.172.147.89:16379:United States
+138.68.155.22:12324:United Kingdom
+27.65.112.192:1080:Vietnam
 134.35.148.26:1080:Yemen
-134.35.116.204:1080:Yemen
-162.241.79.22:35318:United States
+31.41.67.11:1080:Ukraine
+165.22.98.229:46611:Morocco
 113.53.61.48:4145:Thailand
