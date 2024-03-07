@@ -19,17 +19,16 @@
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
 184.178.172.11:4145:United States
-184.178.172.17:4145:United States
 184.181.217.213:4145:United States
 184.181.217.201:4145:United States
+184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
+192.111.137.35:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
-72.195.34.41:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
@@ -41,10 +40,10 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
-199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
@@ -54,45 +53,51 @@
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
+101.109.245.200:4153:Thailand
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
 142.54.236.97:4145:United States
-51.83.184.241:9191:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
+203.81.95.70:4153:Myanmar
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
-82.137.250.156:4145:Syria
+62.201.212.198:4673:Iraq
+1.179.147.5:52210:Thailand
 199.187.210.54:4145:United States
+111.68.31.134:40385:Indonesia
+188.124.15.13:3629:Türkiye
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 123.200.5.146:57775:Bangladesh
 174.75.211.222:4145:United States
-51.158.119.71:16379:United States
-95.216.181.107:9080:Germany
-94.131.14.66:1080:Lithuania
-154.79.242.178:10801:Kenya
-202.163.127.244:5678:Pakistan
+203.79.29.198:1080:Indonesia
+159.255.162.197:25566:Iraq
+118.91.175.146:5678:Nepal
+115.127.172.70:5678:Bangladesh
+95.216.181.107:9080:United States
+94.131.107.45:1080:The Netherlands
+190.0.15.18:5678:Colombia
 154.79.242.78:35010:Kenya
-220.247.164.11:9990:Bangladesh
-144.76.96.180:5566:Germany
+144.76.96.180:5566:United States
+212.103.118.77:5678:Russia
 36.92.81.181:4145:Indonesia
-192.162.232.15:1080:Ukraine
-146.196.63.177:4145:India
+171.247.96.237:1080:Vietnam
 72.195.101.99:4145:United States
-27.66.93.55:1080:Vietnam
-199.241.139.7:9050:Austria
-92.205.110.118:54440:France
+43.225.21.193:4145:India
+199.241.139.7:9050:United States
+124.29.249.56:5678:Pakistan
 198.199.86.169:9050:The Netherlands
-162.0.220.234:28531:United States
-5.161.67.80:6910:United States
+88.202.230.103:13638:United Kingdom
+110.93.13.10:1080:Indonesia
+5.10.249.159:1080:The Netherlands
 45.120.178.197:1080:The Netherlands
-138.68.155.22:10760:United Kingdom
-203.76.110.186:4145:Bangladesh
-138.68.155.22:34173:United Kingdom
+107.180.101.226:37150:United States
+51.158.125.135:16379:United States
 148.72.206.84:41691:Singapore
+116.106.106.230:1080:Vietnam
 134.35.148.26:1080:Yemen
 31.41.67.11:1080:Ukraine
 171.236.88.137:1080:Vietnam
