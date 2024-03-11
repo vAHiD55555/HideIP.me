@@ -7,7 +7,6 @@
 174.64.199.79:4145:United States
 72.195.34.58:4145:United States
 98.162.25.23:4145:United States
-72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
 184.181.217.210:4145:United States
@@ -20,8 +19,13 @@
 72.210.208.101:4145:United States
 184.178.172.11:4145:United States
 184.178.172.17:4145:United States
-184.181.217.213:4145:United States
+184.181.217.201:4145:United States
+184.181.217.220:4145:United States
+192.111.138.29:4145:Canada
+192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
+192.252.211.197:14921:United States
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -39,11 +43,12 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
+199.229.254.129:4145:United States
 142.54.239.1:4145:United States
-142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
 192.111.134.10:4145:United States
@@ -65,9 +70,13 @@
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+91.134.140.160:20896:France
+144.76.96.180:5566:Luxembourg
 36.92.81.181:4145:Indonesia
 72.195.101.99:4145:United States
-132.148.167.243:9354:United States
-152.228.140.225:45636:France
-104.236.0.129:53343:United States
-192.99.207.129:2542:Canada
+92.205.110.118:60314:France
+94.16.112.223:9351:Seychelles
+5.161.67.80:6910:United States
+104.248.151.220:63997:Singapore
+62.171.131.101:37447:Germany
+107.180.88.41:54045:United States
