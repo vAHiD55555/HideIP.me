@@ -18,11 +18,11 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.178.172.17:4145:United States
 184.181.217.213:4145:United States
-184.181.217.220:4145:United States
-192.111.137.34:18765:Canada
-192.111.137.35:4145:Canada
+192.111.139.165:4145:Canada
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
@@ -31,7 +31,6 @@
 72.195.34.41:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
-184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -41,7 +40,7 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-74.119.147.209:4145:United States
+184.170.245.148:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
@@ -50,18 +49,16 @@
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
-142.54.231.38:4145:United States
 142.54.232.6:4145:United States
 192.111.134.10:4145:United States
 198.8.84.3:4145:United States
+142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
-91.203.114.71:42905:Ukraine
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
+104.200.135.46:4145:United States
 142.54.236.97:4145:United States
-107.181.161.81:4145:United States
-197.232.47.102:52567:Kenya
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
@@ -70,13 +67,8 @@
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
-51.158.108.165:16379:United States
 174.75.211.222:4145:United States
-104.238.111.107:7757:United States
-182.23.108.164:4153:Indonesia
-101.185.129.64:5678:Australia
 72.195.101.99:4145:United States
-159.223.71.71:53741:Singapore
-115.127.2.230:5678:Bangladesh
-103.215.139.32:57421:Malaysia
+95.154.75.180:45735:Russia
+186.103.133.91:5678:Chile
 116.110.240.99:5050:Vietnam
