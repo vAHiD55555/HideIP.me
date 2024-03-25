@@ -2,6 +2,7 @@
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
 174.77.111.196:4145:United States
+174.64.199.82:4145:United States
 174.77.111.197:4145:United States
 174.64.199.79:4145:United States
 72.195.34.58:4145:United States
@@ -11,16 +12,23 @@
 98.170.57.231:4145:United States
 184.181.217.210:4145:United States
 98.175.31.195:4145:United States
+195.219.98.27:5678:Germany
 98.188.47.132:4145:United States
+72.195.114.169:4145:United States
 98.188.47.150:4145:United States
+72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
-184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.178.172.17:4145:United States
 184.181.217.213:4145:United States
+184.181.217.201:4145:United States
+184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
+192.252.211.197:14921:United States
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
@@ -37,8 +45,8 @@
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
-192.252.216.81:4145:United States
 68.1.210.163:4145:United States
+98.181.137.80:4145:United States
 184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
@@ -46,6 +54,7 @@
 199.58.185.9:4145:United States
 199.229.254.129:4145:United States
 142.54.239.1:4145:United States
+185.186.17.57:5678:Poland
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
@@ -60,24 +69,27 @@
 142.54.236.97:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
-199.102.107.145:4145:United States
 162.253.68.97:4145:United States
 68.1.210.189:4145:United States
+62.122.201.246:50129:Ukraine
+36.64.27.123:5678:Indonesia
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
+187.103.74.137:5678:Brazil
 174.75.211.222:4145:United States
-118.173.230.149:1080:Thailand
-178.212.51.166:33333:Poland
-94.131.14.66:1080:Lithuania
-103.95.98.36:1088:Bangladesh
+51.158.98.211:16379:Moldova
+5.252.23.249:1080:Slovakia
+103.164.174.42:4673:Indonesia
+201.182.188.232:4153:Argentina
 72.195.101.99:4145:United States
-185.95.199.103:1099:Poland
-111.90.150.109:1080:Malaysia
-94.232.125.200:5678:Lithuania
-31.24.44.92:56467:Spain
-157.230.250.185:21278:Singapore
+12.178.231.252:5678:United States
+177.74.200.69:5678:Argentina
+51.158.79.76:16379:The Netherlands
+171.244.140.160:60571:Vietnam
+160.153.245.187:62146:The Netherlands
+207.244.254.30:2123:United States
 51.75.126.150:57261:France
 115.76.199.192:24634:Vietnam
 116.99.238.17:30214:Vietnam
-160.153.254.240:9921:The Netherlands
+43.134.9.126:9050:Austria
