@@ -9,7 +9,6 @@
 5.161.102.88:8888:United States
 5.161.104.22:8888:United States
 5.161.120.159:8888:United States
-5.161.72.12:8888:United States
 5.161.124.53:8888:United States
 134.209.108.22:8888:Singapore
 134.209.108.84:8888:Singapore
@@ -80,7 +79,6 @@
 45.77.189.171:8888:United States
 5.78.43.70:8888:United States
 45.77.187.120:8888:United States
-206.188.208.12:8443:United States
 206.188.208.83:8443:United States
 206.188.208.84:8443:United States
 206.188.208.101:8443:United States
@@ -92,7 +90,6 @@
 206.188.208.174:8443:United States
 206.188.208.179:8443:United States
 206.188.208.181:8443:United States
-206.188.208.185:8443:United States
 206.188.208.201:8443:United States
 206.188.208.224:8443:United States
 206.188.208.227:8443:United States
@@ -101,7 +98,6 @@
 206.188.209.4:8443:United States
 206.188.209.22:8443:United States
 206.188.209.25:8443:United States
-206.188.209.61:8443:United States
 206.188.209.65:8443:United States
 206.188.209.69:8443:United States
 206.188.209.73:8443:United States
@@ -123,17 +119,13 @@
 206.188.209.173:8443:United States
 206.188.209.174:8443:United States
 206.188.209.177:8443:United States
-206.188.209.178:8443:United States
-206.188.209.179:8443:United States
 206.188.209.180:8443:United States
 206.188.209.181:8443:United States
 206.188.209.182:8443:United States
 206.188.209.183:8443:United States
 206.188.209.185:8443:United States
 206.188.209.186:8443:United States
-206.188.209.188:8443:United States
 206.188.209.189:8443:United States
-206.188.209.191:8443:United States
 206.188.209.192:8443:United States
 206.188.209.195:8443:United States
 206.188.209.206:8443:United States
@@ -145,7 +137,6 @@
 206.188.212.6:8443:United States
 206.188.212.11:8443:United States
 206.188.212.12:8443:United States
-206.188.212.16:8443:United States
 206.188.212.35:8443:United States
 206.188.212.56:8443:United States
 206.188.212.57:8443:United States
@@ -154,13 +145,10 @@
 206.188.212.67:8443:United States
 206.188.212.68:8443:United States
 206.188.212.74:8443:United States
-206.188.212.76:8443:United States
 206.188.212.78:8443:United States
 206.188.212.80:8443:United States
 206.188.212.87:8443:United States
 206.188.212.94:8443:United States
-206.188.212.101:8443:United States
-206.188.212.103:8443:United States
 206.188.212.104:8443:United States
 206.188.212.115:8443:United States
 206.188.212.116:8443:United States
@@ -196,7 +184,6 @@
 206.188.212.239:8443:United States
 206.188.212.240:8443:United States
 206.188.212.247:8443:United States
-206.188.212.249:8443:United States
 206.188.212.251:8443:United States
 206.188.207.251:8443:United States
 206.188.207.229:8443:United States
@@ -216,7 +203,6 @@
 206.188.206.162:8443:United States
 206.188.206.141:8443:United States
 206.188.206.101:8443:United States
-206.188.206.48:8443:United States
 206.188.206.44:8443:United States
 206.188.206.34:8443:United States
 206.188.205.157:8443:United States
@@ -265,7 +251,6 @@
 209.126.6.159:443:United States
 91.121.88.53:443:France
 157.245.97.60:443:India
-41.204.63.118:443:Ghana
 41.74.91.190:443:Ghana
 144.217.46.29:443:Canada
 31.28.4.192:443:Russia
@@ -371,19 +356,15 @@
 23.106.56.54:443:United Kingdom
 23.106.56.38:443:United Kingdom
 197.249.5.150:8443:Mozambique
-165.225.72.150:11066:Germany
 23.106.56.12:443:United Kingdom
-165.225.113.220:11267:Singapore
 198.16.70.29:443:The Netherlands
 138.201.47.105:8443:Germany
 116.203.117.22:443:Germany
-211.144.19.75:8080:China
 45.32.144.208:8888:France
 45.32.146.61:8888:France
 45.76.44.65:8888:France
 136.244.112.199:8888:France
 65.108.104.111:443:Finland
-165.225.113.214:11267:Singapore
 45.77.63.9:8888:France
 202.60.194.23:443:Thailand
 141.148.63.29:443:United States
@@ -395,7 +376,6 @@
 78.141.193.27:8888:United Kingdom
 104.129.194.46:11267:United States
 104.129.194.104:11267:United States
-104.129.194.104:11066:United States
 82.146.37.145:443:Russia
 184.168.123.21:443:Singapore
 5.189.154.210:443:Germany
@@ -584,7 +564,6 @@
 205.178.137.11:8443:United States
 205.178.137.19:8443:United States
 205.178.137.21:8443:United States
-205.178.137.24:8443:United States
 205.178.137.27:8443:United States
 205.178.137.30:8443:United States
 205.178.137.31:8443:United States
@@ -617,12 +596,10 @@
 205.178.137.101:8443:United States
 205.178.137.102:8443:United States
 205.178.137.106:8443:United States
-205.178.137.112:8443:United States
 205.178.137.116:8443:United States
 205.178.137.119:8443:United States
 205.178.137.121:8443:United States
 205.178.137.123:8443:United States
-205.178.137.126:8443:United States
 205.178.137.132:8443:United States
 205.178.137.135:8443:United States
 205.178.137.137:8443:United States
@@ -648,7 +625,6 @@
 205.178.137.185:8443:United States
 205.178.137.187:8443:United States
 205.178.137.193:8443:United States
-205.178.137.198:8443:United States
 205.178.137.201:8443:United States
 205.178.137.203:8443:United States
 205.178.137.205:8443:United States
@@ -696,7 +672,6 @@
 205.178.144.112:8443:United States
 205.178.144.114:8443:United States
 205.178.144.119:8443:United States
-205.178.144.123:8443:United States
 205.178.144.129:8443:United States
 205.178.144.130:8443:United States
 205.178.144.133:8443:United States
@@ -706,7 +681,6 @@
 205.178.144.147:8443:United States
 205.178.144.148:8443:United States
 205.178.144.150:8443:United States
-205.178.144.156:8443:United States
 205.178.144.157:8443:United States
 205.178.144.160:8443:United States
 205.178.144.161:8443:United States
@@ -744,7 +718,6 @@
 205.178.186.3:8443:United States
 205.178.186.4:8443:United States
 205.178.186.7:8443:United States
-205.178.186.8:8443:United States
 205.178.186.11:8443:United States
 205.178.186.12:8443:United States
 205.178.186.14:8443:United States
@@ -799,7 +772,6 @@
 205.178.186.128:8443:United States
 205.178.186.132:8443:United States
 205.178.186.133:8443:United States
-205.178.186.134:8443:United States
 205.178.186.137:8443:United States
 205.178.186.138:8443:United States
 205.178.186.148:8443:United States
@@ -809,7 +781,6 @@
 205.178.186.172:8443:United States
 205.178.186.174:8443:United States
 205.178.186.176:8443:United States
-205.178.186.177:8443:United States
 205.178.186.178:8443:United States
 205.178.186.182:8443:United States
 205.178.186.183:8443:United States
@@ -828,8 +799,6 @@
 205.178.186.237:8443:United States
 205.178.186.247:8443:United States
 205.178.144.244:8443:United States
-205.178.144.146:8443:United States
-205.178.144.224:8443:United States
 205.178.136.101:8443:United States
 205.178.186.49:8443:United States
 205.178.186.60:8443:United States
@@ -874,7 +843,6 @@
 205.178.137.4:8447:United States
 205.178.137.6:8447:United States
 205.178.137.7:8447:United States
-205.178.137.11:8447:United States
 205.178.137.19:8447:United States
 205.178.137.21:8447:United States
 205.178.137.24:8447:United States
@@ -885,7 +853,6 @@
 205.178.137.42:8447:United States
 205.178.137.44:8447:United States
 205.178.137.49:8447:United States
-205.178.137.50:8447:United States
 205.178.137.51:8447:United States
 205.178.137.53:8447:United States
 205.178.137.58:8447:United States
@@ -929,7 +896,6 @@
 205.178.137.170:8447:United States
 205.178.137.173:8447:United States
 205.178.137.174:8447:United States
-205.178.137.176:8447:United States
 205.178.137.179:8447:United States
 205.178.137.181:8447:United States
 205.178.137.183:8447:United States
@@ -938,7 +904,6 @@
 205.178.137.187:8447:United States
 205.178.137.193:8447:United States
 205.178.137.198:8447:United States
-205.178.137.201:8447:United States
 205.178.137.203:8447:United States
 205.178.137.205:8447:United States
 205.178.137.207:8447:United States
@@ -981,7 +946,6 @@
 205.178.144.95:8447:United States
 205.178.144.96:8447:United States
 205.178.144.97:8447:United States
-205.178.144.104:8447:United States
 205.178.144.110:8447:United States
 205.178.144.114:8447:United States
 205.178.144.115:8447:United States
@@ -1010,7 +974,6 @@
 205.178.144.187:8447:United States
 205.178.144.193:8447:United States
 205.178.144.196:8447:United States
-205.178.144.202:8447:United States
 205.178.144.206:8447:United States
 205.178.144.208:8447:United States
 205.178.144.209:8447:United States
@@ -1053,7 +1016,6 @@
 205.178.136.118:8447:United States
 205.178.136.111:8447:United States
 205.178.136.101:8447:United States
-205.178.136.100:8447:United States
 205.178.136.99:8447:United States
 205.178.136.90:8447:United States
 205.178.136.80:8447:United States
@@ -1089,7 +1051,6 @@
 205.178.186.2:8447:United States
 206.188.212.2:8447:United States
 205.178.186.3:8447:United States
-206.188.212.3:8447:United States
 205.178.186.4:8447:United States
 206.188.212.4:8447:United States
 206.188.212.6:8447:United States
@@ -1105,7 +1066,6 @@
 205.178.186.17:8447:United States
 205.178.186.18:8447:United States
 205.178.186.19:8447:United States
-206.188.212.16:8447:United States
 206.188.208.12:8447:United States
 205.178.186.23:8447:United States
 205.178.186.24:8447:United States
@@ -1115,7 +1075,6 @@
 205.178.186.30:8447:United States
 205.178.186.31:8447:United States
 205.178.186.32:8447:United States
-205.178.186.33:8447:United States
 205.178.186.35:8447:United States
 205.178.186.36:8447:United States
 205.178.186.37:8447:United States
@@ -1124,30 +1083,25 @@
 205.178.186.43:8447:United States
 205.178.186.45:8447:United States
 205.178.186.46:8447:United States
-205.178.137.30:8447:United States
 205.178.186.49:8447:United States
 205.178.136.32:8447:United States
 205.178.136.33:8447:United States
 205.178.136.42:8447:United States
 205.178.186.55:8447:United States
 205.178.186.56:8447:United States
-205.178.186.57:8447:United States
 205.178.186.58:8447:United States
 205.178.186.59:8447:United States
-205.178.136.45:8447:United States
 205.178.186.63:8447:United States
 206.188.212.35:8447:United States
 205.178.186.65:8447:United States
 205.178.186.66:8447:United States
 205.178.186.69:8447:United States
 205.178.186.72:8447:United States
-205.178.186.73:8447:United States
 206.188.206.34:8447:United States
 205.178.186.75:8447:United States
 205.178.186.77:8447:United States
 205.178.186.79:8447:United States
 205.178.186.80:8447:United States
-205.178.186.81:8447:United States
 205.178.186.84:8447:United States
 206.188.212.48:8447:United States
 205.178.186.88:8447:United States
@@ -1157,7 +1111,6 @@
 205.178.186.104:8447:United States
 206.188.212.64:8447:United States
 206.188.212.65:8447:United States
-206.188.212.67:8447:United States
 206.188.212.68:8447:United States
 206.188.212.70:8447:United States
 205.178.186.109:8447:United States
@@ -1168,7 +1121,6 @@
 205.178.137.106:8447:United States
 206.188.212.76:8447:United States
 206.188.212.78:8447:United States
-205.178.186.118:8447:United States
 206.188.212.80:8447:United States
 205.178.186.121:8447:United States
 206.188.212.86:8447:United States
@@ -1182,7 +1134,6 @@
 205.178.186.138:8447:United States
 206.188.208.83:8447:United States
 206.188.208.84:8447:United States
-206.188.212.103:8447:United States
 206.188.212.107:8447:United States
 205.178.186.148:8447:United States
 205.178.186.156:8447:United States
@@ -1228,7 +1179,6 @@
 206.188.212.178:8447:United States
 205.178.186.217:8447:United States
 205.178.186.219:8447:United States
-205.178.136.211:8447:United States
 206.188.208.155:8447:United States
 205.178.186.223:8447:United States
 206.188.212.183:8447:United States
@@ -1241,7 +1191,6 @@
 205.178.136.227:8447:United States
 206.188.212.196:8447:United States
 205.178.186.237:8447:United States
-206.188.206.162:8447:United States
 205.178.136.231:8447:United States
 206.188.212.200:8447:United States
 206.188.208.174:8447:United States
@@ -1254,7 +1203,6 @@
 205.178.136.242:8447:United States
 205.178.144.235:8447:United States
 206.188.212.213:8447:United States
-206.188.208.185:8447:United States
 205.178.144.239:8447:United States
 205.178.136.248:8447:United States
 205.178.136.249:8447:United States
@@ -1289,14 +1237,12 @@
 206.188.209.91:8447:United States
 206.188.207.77:8447:United States
 206.188.209.100:8447:United States
-206.188.209.101:8447:United States
 206.188.207.81:8447:United States
 206.188.209.109:8447:United States
 206.188.207.88:8447:United States
 206.188.207.90:8447:United States
 206.188.207.91:8447:United States
 206.188.209.132:8447:United States
-206.188.207.112:8447:United States
 206.188.209.146:8447:United States
 206.188.209.148:8447:United States
 206.188.209.161:8447:United States
@@ -1309,7 +1255,6 @@
 206.188.209.182:8447:United States
 206.188.209.183:8447:United States
 206.188.209.185:8447:United States
-206.188.209.186:8447:United States
 206.188.209.188:8447:United States
 206.188.209.189:8447:United States
 206.188.209.190:8447:United States
@@ -1348,7 +1293,6 @@
 206.188.212.56:8447:United States
 206.188.212.57:8447:United States
 206.188.212.101:8447:United States
-205.178.186.163:8447:United States
 205.178.186.183:8447:United States
 206.188.209.61:8447:United States
 206.188.207.229:8447:United States
@@ -1357,7 +1301,6 @@
 206.188.204.148:8447:United States
 206.188.204.145:8447:United States
 206.188.204.128:8447:United States
-206.188.205.4:8447:United States
 206.188.204.17:8447:United States
 206.188.204.19:8447:United States
 206.188.204.99:8447:United States
@@ -1388,7 +1331,6 @@
 92.222.159.124:443:France
 23.106.249.52:443:Singapore
 139.162.53.76:3128:Singapore
-165.225.72.38:8080:Germany
 162.210.194.2:443:United States
 37.97.201.252:443:The Netherlands
 158.178.241.16:1234:Singapore
@@ -1633,7 +1575,6 @@
 5.45.110.13:443:Germany
 217.112.80.252:443:United Kingdom
 23.254.231.55:443:United States
-165.225.72.154:11066:Germany
 109.205.182.7:8081:Germany
 162.210.194.4:443:United States
 51.195.40.90:443:France
@@ -1642,11 +1583,9 @@
 5.35.92.156:443:Russia
 173.255.119.18:443:United States
 172.235.15.75:443:India
-83.98.243.181:443:The Netherlands
 159.203.103.28:443:United States
 23.106.249.44:443:Singapore
 51.75.74.18:443:Germany
-114.79.148.218:443:India
 199.247.11.210:8888:France
 195.90.221.3:443:Germany
 46.59.10.59:443:Sweden
