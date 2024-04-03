@@ -1,5 +1,4 @@
 185.139.56.133:4145:Georgia
-41.223.234.116:37259:Burkina Faso
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
@@ -8,7 +7,6 @@
 174.77.111.197:4145:United States
 174.64.199.79:4145:United States
 72.195.34.58:4145:United States
-101.51.121.29:4153:Thailand
 98.162.25.23:4145:United States
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
@@ -25,22 +23,23 @@
 184.178.172.11:4145:United States
 184.178.172.17:4145:United States
 184.181.217.213:4145:United States
+184.181.217.201:4145:United States
+184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
-192.111.130.2:4145:Canada
+192.111.139.162:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
-201.93.159.234:4145:Brazil
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
+184.185.2.12:4145:United States
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
@@ -51,12 +50,9 @@
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
 199.58.185.9:4145:United States
-199.229.254.129:4145:United States
 142.54.239.1:4145:United States
-98.103.88.158:46104:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
-142.54.231.38:4145:United States
 142.54.232.6:4145:United States
 192.111.134.10:4145:United States
 198.8.84.3:4145:United States
@@ -65,63 +61,30 @@
 107.152.98.5:4145:United States
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
+104.200.135.46:4145:United States
 142.54.236.97:4145:United States
 199.102.104.70:4145:United States
 199.102.107.145:4145:United States
-187.62.89.252:4153:Brazil
 162.253.68.97:4145:United States
+136.228.163.150:5678:Myanmar
 67.201.59.70:4145:United States
+103.18.47.79:4145:Indonesia
 68.1.210.189:4145:United States
-202.40.177.94:5678:Bangladesh
-103.121.39.158:1080:Bangladesh
-1.32.57.85:5678:Malaysia
-103.107.68.5:5430:Indonesia
 199.187.210.54:4145:United States
-103.165.64.86:4153:India
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
-154.64.217.128:36468:United States
 174.75.211.222:4145:United States
-117.74.125.210:1133:Indonesia
-37.44.238.2:60796:France
+192.162.232.15:1080:Ukraine
+45.117.179.179:3547:Vietnam
 72.195.101.99:4145:United States
+203.161.32.242:59220:United States
 135.148.10.161:31696:United States
-164.92.237.188:59045:Germany
-31.169.80.165:1080:Türkiye
-93.117.72.27:55770:Moldova
-180.250.91.50:5678:Indonesia
-45.81.232.17:5709:Germany
-95.31.42.199:3629:Russia
-144.91.66.30:18772:Germany
+92.204.134.38:7785:United States
+36.92.81.181:4145:Indonesia
 103.234.26.74:1080:Bangladesh
-109.86.228.165:5678:Ukraine
-154.12.253.232:40136:United States
-51.161.131.84:26385:Australia
-162.214.225.223:35464:United States
-45.81.232.17:38968:Germany
-162.214.225.223:38004:United States
-135.148.10.161:35411:United States
-162.214.225.223:38007:United States
-162.214.225.223:34213:United States
+162.214.227.68:58351:United States
 162.214.225.223:55893:United States
+5.39.69.35:41852:France
 117.250.3.58:8080:India
-162.214.225.223:51069:United States
-162.214.225.223:47487:United States
 162.214.227.68:45911:United States
-162.214.225.223:35714:United States
-195.177.217.131:1643:Poland
-162.214.225.223:63685:United States
-162.214.225.223:43713:United States
-162.214.227.68:45640:United States
-162.214.227.68:33113:United States
-132.148.167.243:12306:United States
-128.199.5.121:6670:United States
-207.180.198.241:36395:Germany
-162.214.225.223:35898:United States
-162.214.227.68:51147:United States
-162.144.32.209:28687:United States
-162.214.225.223:39189:United States
-51.75.126.150:48491:France
-162.214.227.68:45024:United States
-130.255.166.220:28392:Sweden
 45.14.247.72:30335:Russia
