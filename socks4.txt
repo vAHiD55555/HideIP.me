@@ -18,17 +18,20 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.181.217.213:4145:United States
 184.181.217.201:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
+184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
@@ -36,15 +39,16 @@
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
 68.71.247.130:4145:Canada
-104.37.135.145:4145:United States
 192.252.216.81:4145:United States
+68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+72.37.217.3:4145:United States
+72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
 199.58.185.9:4145:United States
 199.229.254.129:4145:United States
 142.54.239.1:4145:United States
-95.31.35.210:3629:Russia
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
@@ -58,31 +62,29 @@
 104.200.135.46:4145:United States
 142.54.236.97:4145:United States
 199.102.104.70:4145:United States
+199.102.105.242:4145:United States
 199.102.107.145:4145:United States
-95.143.8.182:50285:Russia
 162.253.68.97:4145:United States
-67.201.59.70:4145:United States
-177.67.136.237:4153:Brazil
 68.1.210.189:4145:United States
-109.238.229.233:4145:Georgia
-77.39.8.165:3629:Russia
+190.54.12.74:5678:Chile
 199.187.210.54:4145:United States
-103.23.101.97:4145:Indonesia
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
-155.133.57.22:4153:Poland
-187.103.74.137:5678:Brazil
 174.75.211.222:4145:United States
-103.221.254.102:54409:Bangladesh
+178.115.255.177:5678:Austria
+94.131.107.45:1080:The Netherlands
+192.162.232.15:1080:Ukraine
 72.195.101.99:4145:United States
-212.244.235.217:4153:Poland
+103.130.218.135:4002:Vietnam
+139.162.238.184:29870:United Kingdom
+109.123.254.43:9927:Germany
+51.89.173.40:40179:United Kingdom
+128.199.221.91:33564:Singapore
 36.92.81.181:4145:Indonesia
 117.250.3.58:8080:India
-173.212.223.23:9905:Germany
-166.0.235.197:12139:United States
-166.0.235.3:12139:United States
-54.36.122.16:51576:France
-166.0.235.197:64839:United States
-162.214.102.195:56437:United States
+180.127.240.171:8989:China
+45.65.233.227:4145:Colombia
+186.167.81.108:1080:Venezuela
+184.168.121.153:7655:Singapore
+122.151.193.136:4153:Australia
 5.182.87.90:30374:Germany
-194.31.79.75:43145:Türkiye
