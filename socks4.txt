@@ -10,6 +10,7 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
+185.97.114.179:3629:Kazakhstan
 184.181.217.210:4145:United States
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
@@ -19,7 +20,8 @@
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
 184.178.172.11:4145:United States
-184.181.217.201:4145:United States
+184.181.217.213:4145:United States
+184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
@@ -43,12 +45,11 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
-184.170.249.65:4145:United States
 199.58.185.9:4145:United States
-199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
@@ -60,25 +61,31 @@
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
-142.54.236.97:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
-199.102.107.145:4145:United States
-201.159.103.97:31337:Mexico
 162.253.68.97:4145:United States
+136.228.163.150:5678:Myanmar
+67.201.59.70:4145:United States
+177.67.136.109:4153:Brazil
 68.1.210.189:4145:United States
-36.93.157.49:5678:Indonesia
+213.6.38.50:59422:Palestine
+77.39.8.165:3629:Russia
 199.187.210.54:4145:United States
+187.44.211.118:4153:Brazil
+45.236.185.1:4153:Chile
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-119.235.50.5:4145:India
-200.85.34.174:4153:Paraguay
-181.129.138.114:32185:Colombia
-192.162.232.15:1080:Ukraine
+118.173.230.149:1080:Thailand
 72.195.101.99:4145:United States
-51.158.78.200:16379:United States
-197.232.47.122:5678:Kenya
+161.97.74.176:30000:United States
 36.92.81.181:4145:Indonesia
-135.148.10.161:51589:United States
+117.54.201.94:5678:Indonesia
+190.53.45.222:33333:Nicaragua
 117.250.3.58:8080:India
+190.211.161.211:32410:Chile
+103.92.235.60:27324:India
+185.193.157.39:9121:United States
+45.14.247.64:30337:Russia
+23.105.170.33:26566:United States
+46.101.203.132:4080:Germany
