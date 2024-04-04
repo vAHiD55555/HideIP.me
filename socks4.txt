@@ -21,6 +21,7 @@
 184.178.172.11:4145:United States
 184.181.217.213:4145:United States
 192.111.138.29:4145:Canada
+192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
@@ -40,9 +41,7 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-184.170.245.148:4145:United States
 72.37.217.3:4145:United States
-72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 199.58.185.9:4145:United States
 142.54.239.1:4145:United States
@@ -67,9 +66,10 @@
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+181.129.138.114:32185:Colombia
+192.162.232.15:1080:Ukraine
 72.195.101.99:4145:United States
-181.204.4.74:5678:Colombia
 36.92.81.181:4145:Indonesia
 117.250.3.58:8080:India
-102.39.139.56:1080:South Africa
 148.72.211.168:22744:Singapore
+178.62.7.98:35943:United Arab Emirates
