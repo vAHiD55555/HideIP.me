@@ -20,12 +20,9 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.178.172.17:4145:United States
-184.181.217.213:4145:United States
-184.181.217.201:4145:United States
+184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
-192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
@@ -35,6 +32,7 @@
 72.195.34.41:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
+184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -50,7 +48,6 @@
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
 199.58.185.9:4145:United States
-199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
@@ -72,15 +69,16 @@
 68.1.210.189:4145:United States
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
-213.145.137.102:37447:Kyrgyzstan
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-36.37.244.41:5678:Cambodia
 72.195.101.99:4145:United States
+135.148.10.161:41146:United States
+135.148.10.161:52506:United States
 36.92.81.181:4145:Indonesia
-41.58.169.214:5678:Nigeria
-51.75.71.110:11139:Germany
-117.250.3.58:8080:India
-207.55.240.19:63712:United States
-135.148.10.161:28284:United States
-146.59.18.246:39039:France
+51.161.131.84:58012:Australia
+135.148.10.161:46594:United States
+181.212.136.34:43474:Chile
+115.76.202.200:44458:Vietnam
+213.252.245.221:9054:Austria
+171.247.247.78:1080:Vietnam
+125.24.62.187:4145:Thailand
