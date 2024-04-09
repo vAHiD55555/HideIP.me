@@ -4,11 +4,11 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 
 ### Donate 💸
-- [Visa / MasterCard / PayPal](https://www.donationalerts.com/c/zloyuser)
 - BTC - ```1KbXEYvGY4oURR7HCBvCMfhbyEcU3jM8mL```
 - [Other Coins](https://nowpayments.io/donation/hideip)
 - Payeer - ```P1072424404```
 - [МИР / ЮMoney](https://yoomoney.ru/to/410014392099996)
+- [WebMoney / USDt / ETH ...](https://pay.web.money/d/fwxz)
 
 #### HTTPS proxy example
 
