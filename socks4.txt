@@ -10,6 +10,7 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
+184.181.217.210:4145:United States
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
 72.195.114.169:4145:United States
@@ -17,9 +18,7 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
-184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.181.217.201:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
@@ -30,9 +29,9 @@
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
+184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -42,10 +41,12 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+74.119.147.209:4145:United States
 184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
+184.170.249.65:4145:United States
 199.58.185.9:4145:United States
 199.229.254.129:4145:United States
 142.54.228.193:4145:United States
@@ -56,6 +57,7 @@
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
+186.145.192.251:5678:Colombia
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
@@ -71,13 +73,11 @@
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
-200.108.190.153:9800:Venezuela
 72.214.108.67:4145:United States
-46.141.74.122:1080:Italy
-46.141.15.10:1080:Italy
-171.248.222.144:1080:Vietnam
-115.76.203.105:30070:Vietnam
-115.76.203.105:25234:Vietnam
-134.35.107.234:1080:Yemen
+194.26.229.46:20009:Russia
+27.65.243.39:1080:Vietnam
+51.75.125.208:11978:France
+45.6.15.119:5678:Brazil
+115.76.203.105:25050:Vietnam
 115.76.203.105:24194:Vietnam
 177.38.5.114:4153:Brazil
