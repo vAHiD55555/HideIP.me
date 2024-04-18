@@ -10,7 +10,6 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
-184.181.217.210:4145:United States
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
 72.195.114.169:4145:United States
@@ -18,8 +17,10 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.181.217.213:4145:United States
+184.181.217.201:4145:United States
+192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
@@ -32,7 +33,6 @@
 184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
-184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -48,7 +48,6 @@
 206.220.175.2:4145:United States
 199.58.185.9:4145:United States
 199.229.254.129:4145:United States
-142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
@@ -67,26 +66,18 @@
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
-154.72.73.214:1080:Tanzania
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-72.167.8.5:44774:United States
 72.195.101.99:4145:United States
-37.18.73.60:5566:United States
-117.250.3.58:8080:India
-51.68.164.77:24378:France
-82.165.198.169:2131:Germany
-5.39.69.35:27905:France
-82.165.198.169:4151:Germany
+200.108.190.153:9800:Venezuela
 72.214.108.67:4145:United States
-166.0.235.144:35481:United States
-27.75.151.186:1080:Vietnam
-51.89.173.40:32239:United Kingdom
-27.68.172.213:1080:Vietnam
-115.76.203.105:25050:Vietnam
+46.141.74.122:1080:Italy
+46.141.15.10:1080:Italy
+171.248.222.144:1080:Vietnam
 115.76.203.105:30070:Vietnam
 115.76.203.105:25234:Vietnam
+134.35.107.234:1080:Yemen
 115.76.203.105:24194:Vietnam
 177.38.5.114:4153:Brazil
