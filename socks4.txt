@@ -10,25 +10,25 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
-184.181.217.210:4145:United States
 98.175.31.195:4145:United States
+98.188.47.132:4145:United States
+72.195.114.169:4145:United States
 98.188.47.150:4145:United States
+72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.181.217.213:4145:United States
-184.181.217.201:4145:United States
+184.178.172.17:4145:United States
+184.181.217.220:4145:United States
 192.111.137.34:18765:Canada
-192.111.139.165:4145:Canada
-192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
-192.252.211.197:14921:United States
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
+192.158.15.201:50877:Canada
 72.195.34.41:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
@@ -47,6 +47,7 @@
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
 199.58.185.9:4145:United States
+199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
@@ -56,7 +57,6 @@
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
-101.109.245.200:4153:Thailand
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
@@ -65,24 +65,28 @@
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
+203.81.95.70:4153:Myanmar
+197.234.58.102:32767:Nigeria
 68.1.210.189:4145:United States
+82.137.250.156:4145:Syria
+188.133.160.22:4145:Russia
+185.195.129.116:4153:Italy
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-192.162.232.15:1080:Ukraine
+51.15.139.59:16379:Denmark
+159.223.71.71:51935:Singapore
 72.195.101.99:4145:United States
-37.18.73.60:5566:Luxembourg
-109.86.190.92:1080:Ukraine
-180.178.104.110:5678:Indonesia
-46.98.185.160:5678:Ukraine
-2.135.223.134:5678:Kazakhstan
+51.158.105.125:16379:Luxembourg
+37.18.73.60:5566:Poland
+62.109.0.18:24301:Canada
 117.250.3.58:8080:India
-103.132.92.110:1080:Bangladesh
+87.106.254.50:48175:Germany
 72.214.108.67:4145:United States
-116.98.53.141:5020:Vietnam
-77.90.13.41:9273:Germany
-103.130.218.135:55165:Vietnam
-162.241.73.195:31202:United States
-165.227.85.112:8809:United States
+195.177.217.131:46600:Poland
+54.36.122.16:20384:France
+171.6.90.169:4153:Thailand
+77.90.13.41:17084:Germany
+147.124.212.31:41041:United States
 162.241.53.72:35244:United States
