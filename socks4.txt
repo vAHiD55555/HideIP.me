@@ -4,6 +4,7 @@
 174.77.111.196:4145:United States
 174.64.199.82:4145:United States
 174.77.111.197:4145:United States
+174.64.199.79:4145:United States
 72.195.34.58:4145:United States
 98.162.25.23:4145:United States
 72.206.181.103:4145:United States
@@ -25,13 +26,11 @@
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
-192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
@@ -44,6 +43,7 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+74.119.147.209:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
@@ -60,20 +60,33 @@
 107.152.98.5:4145:United States
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
-104.200.135.46:4145:United States
 142.54.236.97:4145:United States
+107.181.161.81:4145:United States
+78.128.124.108:5678:Bulgaria
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
+123.253.124.28:5678:India
+91.185.236.239:4145:Russia
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
 199.187.210.54:4145:United States
+192.141.232.12:33998:Brazil
 72.217.158.202:4145:United States
+124.41.213.174:5678:Nepal
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-103.73.164.190:8470:Cambodia
-51.158.111.76:16379:United States
+163.172.144.132:16379:Seychelles
+187.86.153.254:30660:Brazil
 72.195.101.99:4145:United States
-37.18.73.60:5566:United States
+117.250.3.58:8080:India
+61.7.183.32:4145:Thailand
 72.214.108.67:4145:United States
+188.164.197.178:8860:Spain
+64.202.185.19:1822:United States
+119.42.113.218:4145:Thailand
+116.99.234.192:40462:Vietnam
+192.163.202.88:46505:United States
+116.99.234.192:40574:Vietnam
 118.173.79.130:4145:Thailand
+38.91.106.214:39236:United States
