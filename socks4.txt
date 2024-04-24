@@ -1,3 +1,4 @@
+200.80.227.234:4145:Argentina
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
@@ -10,8 +11,13 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
+191.102.82.83:4153:Colombia
+103.235.66.198:5678:Indonesia
 184.181.217.210:4145:United States
+109.69.0.179:5678:Albania
+212.220.13.98:4153:Russia
 98.175.31.195:4145:United States
+93.90.212.2:4153:Russia
 98.188.47.132:4145:United States
 72.195.114.169:4145:United States
 98.188.47.150:4145:United States
@@ -20,7 +26,10 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.178.172.17:4145:United States
 184.181.217.213:4145:United States
+184.181.217.201:4145:United States
+184.181.217.220:4145:United States
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
 98.170.57.249:4145:United States
@@ -31,6 +40,7 @@
 184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
+184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -40,6 +50,7 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
@@ -48,37 +59,77 @@
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
+142.54.231.38:4145:United States
 142.54.232.6:4145:United States
 192.111.134.10:4145:United States
 198.8.84.3:4145:United States
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
+198.89.91.90:5678:Kazakhstan
+180.250.159.49:4153:Indonesia
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
-104.200.135.46:4145:United States
 142.54.236.97:4145:United States
+122.252.179.66:5678:Cambodia
+203.81.87.186:5678:Myanmar
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
+185.40.80.143:4153:Czechia
+67.201.59.70:4145:United States
 68.1.210.189:4145:United States
+195.78.100.186:3629:Ukraine
 199.187.210.54:4145:United States
+41.79.10.218:4673:Kenya
+103.197.32.205:5678:India
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
+177.39.211.113:1080:Brazil
+94.154.221.91:5678:Ukraine
 174.75.211.222:4145:United States
+51.158.72.165:16379:United States
+111.90.169.178:5678:India
+103.159.220.157:5678:Indonesia
+220.247.164.11:9990:Bangladesh
+102.219.77.243:4153:South Africa
+103.130.218.135:11923:Vietnam
 72.195.101.99:4145:United States
-37.18.73.60:5566:United States
-103.40.122.194:1080:Indonesia
+212.69.128.72:5678:Czechia
+103.166.39.85:3629:Bangladesh
+37.18.73.60:5566:Germany
+163.172.166.35:16379:Luxembourg
+190.121.158.142:5678:Colombia
+116.254.100.165:50536:Indonesia
 117.250.3.58:8080:India
+104.238.96.52:43437:United States
+192.169.226.96:7251:United States
+89.58.45.94:35071:Spain
+81.162.195.35:4153:Czechia
+82.165.198.169:4151:Germany
 72.214.108.67:4145:United States
+166.0.235.136:35481:United States
+166.0.235.142:35481:United States
+213.251.185.168:16600:France
+137.184.133.124:41572:United States
+198.12.248.208:18667:United States
+165.227.85.112:15257:United States
+168.205.217.99:4145:Brazil
+51.161.33.206:57283:Canada
 119.42.113.218:4145:Thailand
+157.230.82.155:22291:United States
 116.99.234.192:25410:Vietnam
+162.241.46.40:39147:United States
+162.241.46.6:39147:United States
 116.99.234.192:40462:Vietnam
 116.99.234.192:40574:Vietnam
-137.184.182.145:7995:United States
+162.144.32.209:30669:United States
 116.99.234.192:24850:Vietnam
+188.164.193.178:30669:Spain
+92.205.105.134:40264:France
+194.233.91.22:21764:Singapore
 116.99.234.192:24418:Vietnam
-137.184.133.124:33130:United States
-67.213.212.40:23685:United States
+134.236.117.137:4145:Thailand
+116.100.219.104:1080:Vietnam
 89.58.45.94:38547:United States
