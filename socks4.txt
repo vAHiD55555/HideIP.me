@@ -7,6 +7,7 @@
 174.64.199.79:4145:United States
 72.195.34.58:4145:United States
 98.162.25.23:4145:United States
+179.27.86.36:4153:Uruguay
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
@@ -18,15 +19,17 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.181.217.213:4145:United States
+184.181.217.201:4145:United States
 184.181.217.220:4145:United States
-192.111.137.35:4145:Canada
+192.111.138.29:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
+184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
@@ -36,13 +39,13 @@
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
+192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
-199.58.185.9:4145:United States
+184.170.249.65:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
@@ -67,13 +70,26 @@
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
 37.18.73.60:5566:Poland
+109.86.228.165:5678:Ukraine
+194.31.79.75:21384:Türkiye
 117.250.3.58:8080:India
-168.205.79.15:25566:Brazil
 82.165.198.169:64670:Germany
-82.165.198.169:2131:Germany
-93.184.9.9:1080:Palestine
-82.165.198.169:36293:Germany
+82.165.198.169:4151:Germany
 72.214.108.67:4145:United States
 82.165.198.169:19519:Germany
+213.251.185.168:23457:France
+64.202.187.166:44415:United States
+192.99.207.129:57283:Canada
+105.214.73.10:5678:South Africa
+51.161.131.84:2429:Australia
+27.77.239.250:1080:Vietnam
 162.214.201.57:12766:United States
+91.134.140.160:45525:France
+171.233.177.229:1080:Vietnam
+168.119.63.87:39249:Germany
+209.126.105.203:62532:United States
+171.234.34.120:1080:Vietnam
+188.164.193.178:58951:Spain
+157.230.82.155:63862:United States
 82.165.198.169:4855:Germany
+110.77.212.53:4145:Thailand
