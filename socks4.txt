@@ -21,15 +21,16 @@
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.181.217.213:4145:United States
-192.111.138.29:4145:Canada
+184.181.217.201:4145:United States
 192.111.137.34:18765:Canada
+192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
@@ -39,13 +40,19 @@
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
+192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
+184.170.249.65:4145:United States
+199.58.185.9:4145:United States
+142.54.239.1:4145:United States
+103.102.141.39:4145:Indonesia
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
+142.54.232.6:4145:United States
 192.111.134.10:4145:United States
 198.8.84.3:4145:United States
 142.54.235.9:4145:United States
@@ -61,13 +68,31 @@
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
+103.148.130.5:1080:Indonesia
 199.187.210.54:4145:United States
+85.89.184.87:5678:Poland
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+104.37.12.129:1080:United States
 72.195.101.99:4145:United States
+192.171.119.166:53149:United States
+82.193.103.54:5678:Ukraine
 117.250.3.58:8080:India
+94.40.90.49:5678:Poland
+103.104.214.239:1080:Pakistan
 185.82.218.52:1080:Bulgaria
 72.214.108.67:4145:United States
-51.161.131.84:50827:Australia
-105.214.1.136:5678:South Africa
+46.141.17.29:1080:Italy
+139.162.238.184:24569:United Kingdom
+164.92.86.113:64575:United States
+138.94.201.46:5678:Brazil
+103.130.218.135:8132:Vietnam
+198.12.249.249:59708:United States
+146.59.18.246:61407:France
+51.75.126.150:12774:France
+146.59.18.246:58993:France
+116.104.2.238:1080:Vietnam
+171.250.217.248:1080:Vietnam
+180.180.155.71:4153:Thailand
+162.214.103.84:1235:United States
