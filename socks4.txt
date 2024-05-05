@@ -18,9 +18,11 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.178.172.17:4145:United States
-192.111.137.34:18765:Canada
+184.181.217.213:4145:United States
+184.181.217.201:4145:United States
+192.111.138.29:4145:Canada
 192.111.137.35:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
@@ -38,10 +40,12 @@
 104.37.135.145:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 199.58.185.9:4145:United States
+142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
@@ -49,6 +53,7 @@
 198.8.84.3:4145:United States
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
+107.152.98.5:4145:United States
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
@@ -64,18 +69,18 @@
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
 37.18.73.60:5566:Luxembourg
-117.250.3.58:8080:India
+185.226.113.180:38030:Ukraine
 184.168.121.153:31523:Singapore
 72.214.108.67:4145:United States
 184.168.121.153:41323:Singapore
 184.168.121.153:43976:Singapore
 184.168.121.153:9520:Singapore
 184.168.121.153:52524:Singapore
+92.204.135.37:60832:United States
 184.168.121.153:20263:Singapore
 184.168.121.153:5537:Singapore
-173.212.237.43:50290:Germany
 184.168.121.153:24289:Singapore
-94.23.220.136:17577:France
-134.35.201.61:1080:Yemen
-188.209.236.6:1080:Yemen
+51.75.126.150:32726:France
+51.161.33.206:49474:Canada
 134.35.26.2:1080:Yemen
+110.77.241.17:4145:Thailand
