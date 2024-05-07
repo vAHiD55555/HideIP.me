@@ -18,10 +18,12 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.178.172.17:4145:United States
 184.181.217.213:4145:United States
-192.111.139.162:4145:Canada
+184.181.217.201:4145:United States
+192.111.137.34:18765:Canada
+192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -29,6 +31,7 @@
 72.195.34.41:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
+184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -46,28 +49,39 @@
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
 192.111.134.10:4145:United States
+198.8.84.3:4145:United States
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
-50.250.205.21:32100:United States
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
 142.54.236.97:4145:United States
 199.102.104.70:4145:United States
+199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
+197.234.58.102:32767:Nigeria
 68.1.210.189:4145:United States
 199.187.210.54:4145:United States
+119.148.40.186:9990:Bangladesh
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+103.221.254.102:54409:Bangladesh
 72.195.101.99:4145:United States
-37.18.73.60:5566:The Netherlands
+37.18.73.60:5566:United States
+109.86.228.165:5678:Ukraine
 117.250.3.58:8080:India
 72.214.108.67:4145:United States
-27.77.224.195:1080:Vietnam
+46.161.240.105:1080:Yemen
+177.66.243.89:5678:Brazil
+51.75.126.150:26795:France
+148.72.212.252:48022:Singapore
 148.72.210.224:24247:Singapore
-138.201.47.200:38179:Germany
 51.161.131.84:28604:Australia
-162.214.162.180:8592:United States
+173.212.237.43:50714:Germany
+208.109.13.24:21795:Singapore
+134.35.208.7:1080:Yemen
+178.130.105.251:1080:Yemen
+119.42.86.152:4145:Thailand
