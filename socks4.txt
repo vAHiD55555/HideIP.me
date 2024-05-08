@@ -20,8 +20,9 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.178.172.17:4145:United States
 184.181.217.213:4145:United States
-184.181.217.220:4145:United States
+184.181.217.201:4145:United States
 192.111.138.29:4145:Canada
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
@@ -39,17 +40,17 @@
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
-192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
+199.58.185.9:4145:United States
 199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
+142.54.229.249:4145:United States
 142.54.232.6:4145:United States
 192.111.134.10:4145:United States
 198.8.84.3:4145:United States
@@ -59,6 +60,7 @@
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
 142.54.236.97:4145:United States
+203.81.87.186:5678:Myanmar
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
@@ -69,17 +71,29 @@
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
-37.18.73.60:5566:Poland
-117.250.3.58:8080:India
+195.178.197.71:1080:Russia
 72.214.108.67:4145:United States
+50.63.12.33:49267:United States
+192.99.207.129:59541:Canada
+162.240.75.108:52450:United States
 51.161.131.84:50827:Australia
-51.161.131.84:33614:Australia
-185.109.184.150:56988:Italy
-51.161.131.84:37763:Australia
+51.161.131.84:31632:Australia
+109.123.254.43:52043:Germany
+168.119.63.87:61638:Germany
+107.180.92.72:46407:United States
+51.38.64.38:57557:United Kingdom
+171.244.140.160:41252:Vietnam
+146.59.18.246:59768:France
+159.203.162.25:48131:United States
+50.63.13.3:30691:United States
+207.55.243.5:63712:United States
+192.64.115.90:13827:United States
 51.161.131.84:20250:Australia
 51.161.131.84:28604:Australia
+104.200.17.152:7768:United States
 51.75.126.150:12129:France
 164.92.86.113:56230:United States
+147.182.195.54:57901:United States
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
 159.203.162.25:36785:United States
