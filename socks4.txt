@@ -25,7 +25,7 @@
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
-192.111.130.2:4145:Canada
+192.111.139.162:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -42,12 +42,11 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
-199.229.254.129:4145:United States
 142.54.239.1:4145:United States
+212.231.197.29:4145:Spain
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
@@ -56,15 +55,16 @@
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
-177.234.244.173:32213:Ecuador
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
 142.54.236.97:4145:United States
+187.252.154.90:4153:Mexico
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
+67.201.59.70:4145:United States
 68.1.210.189:4145:United States
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
@@ -72,13 +72,25 @@
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
 12.178.231.252:5678:United States
+111.90.150.109:1080:Malaysia
+37.18.73.60:5566:United States
+104.238.111.107:29015:United States
 117.250.3.58:8080:India
+122.151.193.136:4153:Australia
 187.17.201.203:38737:Brazil
 72.214.108.67:4145:United States
-198.12.248.208:17351:United States
-170.79.181.188:60606:Argentina
+41.190.232.26:1080:DR Congo
+51.89.173.40:1723:United Kingdom
+51.38.64.38:37665:United Kingdom
+5.39.69.35:21732:France
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
+64.202.185.223:33401:United States
+103.196.7.38:4153:India
+67.227.230.5:28885:United States
 208.109.14.49:9417:Singapore
+171.253.63.9:1080:Vietnam
+171.250.217.64:1080:Vietnam
+115.72.174.229:8030:Vietnam
 134.35.199.197:1080:Yemen
 134.35.200.250:1080:Yemen
