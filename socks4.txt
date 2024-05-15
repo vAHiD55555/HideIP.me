@@ -1,8 +1,8 @@
-66.42.224.229:41679:United States
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
 174.77.111.196:4145:United States
+174.64.199.82:4145:United States
 174.77.111.197:4145:United States
 174.64.199.79:4145:United States
 72.195.34.58:4145:United States
@@ -18,12 +18,15 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.178.172.17:4145:United States
 184.181.217.213:4145:United States
 184.181.217.201:4145:United States
 184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
+192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
 192.252.211.197:14921:United States
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
@@ -47,17 +50,19 @@
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
 199.58.185.9:4145:United States
+199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
+142.54.231.38:4145:United States
 142.54.232.6:4145:United States
 192.111.134.10:4145:United States
 198.8.84.3:4145:United States
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
+107.152.98.5:4145:United States
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
-104.200.135.46:4145:United States
 142.54.236.97:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
@@ -68,15 +73,24 @@
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-45.128.133.145:1080:United Kingdom
 72.195.101.99:4145:United States
 36.92.81.181:4145:Indonesia
 117.250.3.58:8080:India
+185.82.218.52:1080:Bulgaria
 72.214.108.67:4145:United States
+51.161.131.84:50194:Australia
+162.240.75.108:52450:United States
+51.161.131.84:2429:Australia
 162.240.75.108:41485:United States
 162.240.75.108:49260:United States
+148.72.212.252:53976:Singapore
+181.212.136.34:12304:Chile
+51.161.131.84:37763:Australia
+51.161.131.84:28604:Australia
+198.12.255.193:61704:United States
 51.75.126.150:51241:France
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
 162.241.45.22:63900:United States
 162.241.45.22:43144:United States
+184.168.121.153:4174:Singapore
