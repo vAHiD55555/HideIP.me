@@ -22,14 +22,12 @@
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.181.217.213:4145:United States
-184.181.217.201:4145:United States
 184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
 192.252.211.197:14921:United States
-98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
@@ -39,17 +37,19 @@
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
 72.210.221.197:4145:United States
+72.210.221.223:4145:United States
 184.185.2.12:4145:United States
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+74.119.147.209:4145:United States
 184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
+206.220.175.2:4145:United States
 184.170.249.65:4145:United States
-199.58.185.9:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
@@ -73,13 +73,20 @@
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
+37.18.73.60:5566:Ukraine
+37.238.168.250:5678:Iraq
+62.141.66.110:4145:Russia
 117.250.3.58:8080:India
+185.82.218.52:1080:Bulgaria
 5.58.33.187:5678:Ukraine
+143.255.140.28:5678:Paraguay
 45.91.92.45:22342:India
 72.214.108.67:4145:United States
+213.21.59.134:4153:Russia
+37.120.162.180:32863:India
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-50.63.13.3:53451:United States
-135.125.132.136:37681:France
+171.248.211.125:1080:Vietnam
 217.25.91.84:80:Poland
+171.252.131.134:11092:Vietnam
 76.88.51.202:8080:United States
