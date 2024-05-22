@@ -21,7 +21,10 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.178.172.17:4145:United States
+184.181.217.201:4145:United States
 184.181.217.220:4145:United States
+192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
 192.111.130.2:4145:Canada
@@ -30,6 +33,7 @@
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
+184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 184.178.172.26:4145:United States
@@ -37,8 +41,8 @@
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
 68.71.254.6:4145:Canada
-68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
+192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
 72.37.217.3:4145:United States
@@ -60,18 +64,14 @@
 199.102.105.242:4145:United States
 199.102.106.94:4145:United States
 199.102.107.145:4145:United States
-67.201.59.70:4145:United States
 68.1.210.189:4145:United States
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
-117.250.3.58:8080:India
 177.136.124.45:56113:Brazil
 72.214.108.67:4145:United States
-103.109.212.85:1080:Bangladesh
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-212.64.167.251:80:Spain
-66.29.128.245:24363:United States
+171.244.10.204:37251:Vietnam
