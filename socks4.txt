@@ -19,7 +19,7 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
-184.178.172.17:4145:United States
+184.178.172.11:4145:United States
 184.181.217.201:4145:United States
 184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
@@ -33,7 +33,6 @@
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 72.210.221.197:4145:United States
@@ -44,10 +43,9 @@
 104.37.135.145:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
-206.220.175.2:4145:United States
-184.170.249.65:4145:United States
 199.58.185.9:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
@@ -76,7 +74,11 @@
 72.195.101.99:4145:United States
 117.250.3.58:8080:India
 72.214.108.67:4145:United States
+128.199.165.63:19964:Singapore
+94.23.220.136:40585:France
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
+94.23.220.136:38179:France
+103.92.235.60:55112:India
+162.241.70.64:56724:United States
 51.75.126.150:9685:France
-67.213.212.53:46228:United States
