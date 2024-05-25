@@ -11,6 +11,7 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
+184.181.217.210:4145:United States
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
 72.195.114.169:4145:United States
@@ -19,11 +20,13 @@
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
-184.178.172.17:4145:United States
+184.178.172.11:4145:United States
+184.181.217.201:4145:United States
 184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
 192.252.211.197:14921:United States
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
@@ -43,7 +46,6 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
-74.119.147.209:4145:United States
 184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
@@ -62,24 +64,27 @@
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
-197.235.12.130:4145:Mozambique
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.106.94:4145:United States
+103.111.137.69:5678:Indonesia
 162.253.68.97:4145:United States
 68.1.210.189:4145:United States
+81.199.14.17:1088:South Sudan
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+104.37.12.129:1080:United States
 72.195.101.99:4145:United States
-139.159.118.14:5678:China
+154.18.220.190:5678:Singapore
+37.18.73.60:5566:The Netherlands
 117.250.3.58:8080:India
+95.79.43.124:5678:Russia
+187.17.201.203:38737:Brazil
 72.214.108.67:4145:United States
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-51.89.173.40:11136:United Kingdom
-162.241.73.195:34927:United States
+45.91.92.45:12253:Iraq
+5.39.69.35:4295:France
 91.107.164.186:80:Germany
-67.213.212.39:59855:United States
-103.129.211.49:6969:Bangladesh
