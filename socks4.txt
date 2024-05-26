@@ -20,7 +20,6 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
-184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.178.172.17:4145:United States
 192.111.138.29:4145:Canada
@@ -28,6 +27,7 @@
 192.111.139.165:4145:Canada
 192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
+192.252.211.197:14921:United States
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
@@ -37,6 +37,7 @@
 184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
+184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
@@ -59,7 +60,9 @@
 192.111.134.10:4145:United States
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
+107.152.98.5:4145:United States
 199.116.114.11:4145:United States
+31.163.204.200:4153:Russia
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
@@ -70,23 +73,31 @@
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
+85.116.120.106:3629:Russia
 199.187.210.54:4145:United States
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+108.175.24.1:13135:United States
 72.195.101.99:4145:United States
+178.212.48.84:1080:Poland
+194.190.169.197:3701:Russia
 117.250.3.58:8080:India
-162.240.239.103:60263:United States
 72.214.108.67:4145:United States
-162.240.239.103:33594:United States
-138.68.21.132:15442:United States
+94.23.220.136:18882:France
+94.23.222.122:10810:France
+198.12.249.249:60994:United States
 161.97.163.52:51368:Germany
-162.240.239.103:59813:United States
+207.244.254.27:1153:United States
 148.72.211.168:61657:Singapore
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-208.109.14.49:9417:Singapore
+37.187.73.7:36427:France
+188.164.193.178:12282:Spain
+213.251.185.168:20477:France
 75.119.145.154:18255:Germany
+62.210.122.213:51710:France
 67.205.177.122:8579:United States
 51.222.241.157:34097:Canada
-92.204.136.149:8474:United States
+51.75.126.150:9685:France
+199.85.209.166:25940:United States
