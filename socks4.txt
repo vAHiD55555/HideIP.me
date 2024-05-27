@@ -22,6 +22,7 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.178.172.17:4145:United States
 184.181.217.201:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
@@ -46,13 +47,16 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
+206.220.175.2:4145:United States
+184.170.249.65:4145:United States
+199.58.185.9:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
-192.111.134.10:4145:United States
 198.8.84.3:4145:United States
 142.54.235.9:4145:United States
 142.54.237.34:4145:United States
@@ -73,9 +77,21 @@
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
+103.144.209.104:3629:Indonesia
+37.18.73.60:5566:Luxembourg
 117.250.3.58:8080:India
 72.214.108.67:4145:United States
-51.89.173.40:1723:United Kingdom
+51.89.173.40:32239:United Kingdom
+213.251.185.168:26257:France
+94.23.220.136:47472:France
+51.89.173.40:9111:United Kingdom
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-207.244.254.27:1124:United States
+5.39.69.35:51661:France
+5.39.69.35:45486:France
+94.23.222.122:60036:France
+5.39.69.35:62646:France
+213.251.185.168:20207:France
+94.23.222.122:40458:France
+171.236.89.46:1080:Vietnam
+171.248.212.207:1080:Vietnam
