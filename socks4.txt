@@ -1,6 +1,5 @@
 208.102.51.6:58208:United States
 66.42.224.229:41679:United States
-72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
 174.77.111.196:4145:United States
@@ -11,7 +10,9 @@
 98.162.25.23:4145:United States
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
+98.170.57.231:4145:United States
 184.181.217.210:4145:United States
+138.59.177.117:5678:Honduras
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
 72.195.114.169:4145:United States
@@ -21,30 +22,28 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.181.217.201:4145:United States
-184.181.217.220:4145:United States
+184.178.172.17:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
-192.111.139.165:4145:Canada
-192.111.137.35:4145:Canada
-192.252.211.197:14921:United States
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
+184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
+184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
-192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
 72.37.217.3:4145:United States
+72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 199.58.185.9:4145:United States
 142.54.239.1:4145:United States
@@ -64,23 +63,44 @@
 199.102.106.94:4145:United States
 199.102.107.145:4145:United States
 162.253.68.97:4145:United States
-67.201.59.70:4145:United States
 68.1.210.189:4145:United States
+77.39.8.165:3629:Russia
 82.137.250.156:4145:Syria
 199.187.210.54:4145:United States
+196.0.111.194:48009:Uganda
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+103.221.254.102:54409:Bangladesh
+51.38.63.124:10983:France
 72.195.101.99:4145:United States
+193.106.57.96:5678:Ukraine
+176.97.190.118:3629:Russia
+37.52.13.164:5678:Ukraine
 117.250.3.58:8080:India
+148.251.157.89:9050:Germany
 72.214.108.67:4145:United States
+94.23.220.136:18882:France
+188.164.197.178:8860:Spain
 134.35.130.199:1080:Yemen
-134.35.252.136:1080:Yemen
+65.49.82.7:17202:United States
+138.117.63.102:3629:Brazil
+51.89.173.40:1723:United Kingdom
+166.62.88.163:36418:United States
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-54.36.176.100:64364:France
+207.244.254.27:1147:United States
+50.116.29.136:18813:United States
+67.205.177.122:8579:United States
+178.251.162.20:51479:Luxembourg
+37.187.73.7:41093:France
+101.255.209.82:8080:Indonesia
+188.165.252.198:55506:France
+188.165.223.183:30678:France
+138.197.92.110:61212:United States
 178.32.202.54:3762:France
-171.244.140.160:15420:Vietnam
-184.168.121.153:27492:Singapore
+161.97.173.42:48565:Germany
+173.212.237.43:8570:Germany
 148.66.129.172:27840:Singapore
-116.99.226.109:24082:Vietnam
+67.205.177.122:7974:United States
+54.36.176.100:22904:France
