@@ -4,10 +4,9 @@
 184.178.172.14:4145:United States
 192.252.220.92:17328:United States
 184.181.217.206:4145:United States
+184.181.217.213:4145:United States
 192.111.137.37:18762:Canada
-192.111.135.18:18301:United States
 192.111.129.145:16894:Canada
-192.111.139.163:19404:Canada
 72.210.252.134:46164:United States
 72.195.34.35:27360:United States
 98.162.25.4:31654:United States
@@ -17,18 +16,25 @@
 72.195.34.60:27391:United States
 184.178.172.28:15294:United States
 184.178.172.25:15291:United States
-184.178.172.18:15280:United States
 184.178.172.5:15303:United States
 198.8.94.170:4145:Canada
 98.181.137.83:4145:United States
-142.54.236.97:4145:United States
+74.119.144.60:4145:United States
+184.170.248.5:4145:United States
+142.54.226.214:4145:United States
 70.166.167.38:57728:United States
+184.178.172.13:15311:United States
 65.169.38.73:26592:United States
 72.206.181.105:64935:United States
 31.170.22.127:1080:Latvia
+162.55.87.48:5566:United States
 45.138.87.238:1080:Romania
+43.131.59.175:15673:Germany
 79.137.194.203:4007:United Kingdom
 138.201.21.232:54467:United Kingdom
+37.221.193.221:19393:United States
+212.83.143.211:40167:United States
+88.80.150.7:4034:Philippines
 193.203.203.121:12334:Canada
 37.221.193.221:32161:United States
 34.227.57.135:3128:United States
@@ -38,11 +44,11 @@
 34.227.57.135:50772:United States
 34.227.57.135:60757:United States
 34.227.57.135:50820:United States
-167.86.69.142:34399:Germany
 34.227.57.135:50011:United States
 34.227.57.135:60219:United States
 34.227.57.135:60797:United States
 34.227.57.135:50977:United States
+103.111.136.82:8199:Indonesia
 34.227.57.135:60606:United States
 34.227.57.135:60748:United States
 34.227.57.135:60090:United States
@@ -54,7 +60,6 @@
 34.227.57.135:60023:United States
 34.227.57.135:50967:United States
 34.227.57.135:50496:United States
-34.227.57.135:60052:United States
 34.227.57.135:60754:United States
 34.227.57.135:50462:United States
 34.227.57.135:50961:United States
@@ -63,7 +68,6 @@
 34.227.57.135:50731:United States
 34.227.57.135:60685:United States
 34.227.57.135:60202:United States
-34.227.57.135:60571:United States
 34.227.57.135:60699:United States
 34.227.57.135:50052:United States
 34.227.57.135:50930:United States
@@ -71,6 +75,7 @@
 34.227.57.135:60765:United States
 34.227.57.135:50869:United States
 34.227.57.135:60291:United States
+178.32.202.54:29363:France
 34.227.57.135:50146:United States
 34.227.57.135:50610:United States
 173.212.237.43:38075:Germany
@@ -81,16 +86,11 @@
 34.227.57.135:60042:United States
 34.227.57.135:60353:United States
 34.227.57.135:60006:United States
-212.83.142.100:50821:United Kingdom
-162.19.7.57:53667:United States
-66.42.99.53:5091:United States
+38.91.107.224:17173:United States
 34.227.57.135:60984:United States
-174.138.176.75:42789:United States
 34.227.57.135:60597:United States
-171.244.10.204:20512:Vietnam
+162.0.220.220:52070:United States
 138.201.21.232:55493:United Kingdom
 212.83.142.114:39028:New Zealand
-174.138.176.78:54479:United States
-157.230.82.155:35936:United States
 75.119.145.154:51564:Germany
-103.177.34.196:30000:United States
+108.181.132.117:62077:United States
