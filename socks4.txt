@@ -1,3 +1,4 @@
+91.92.78.207:4145:Bulgaria
 208.102.51.6:58208:United States
 66.42.224.229:41679:United States
 72.195.114.184:4145:United States
@@ -12,6 +13,7 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
+190.184.144.222:5678:Colombia
 184.181.217.210:4145:United States
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
@@ -22,9 +24,13 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.178.172.17:4145:United States
+184.181.217.201:4145:United States
+184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
+192.252.211.197:14921:United States
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
@@ -43,13 +49,15 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
 199.58.185.9:4145:United States
+199.229.254.129:4145:United States
 142.54.239.1:4145:United States
-46.173.35.229:3629:Russia
+185.132.1.221:4145:Ukraine
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
@@ -62,6 +70,7 @@
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
+193.34.237.241:1080:Czechia
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.106.94:4145:United States
@@ -69,14 +78,44 @@
 162.253.68.97:4145:United States
 67.201.59.70:4145:United States
 68.1.210.189:4145:United States
+115.85.84.163:5678:Indonesia
+62.201.212.198:4673:Iraq
+1.20.95.95:5678:Thailand
+188.95.20.138:5678:Italy
+103.127.23.10:5678:India
+185.89.156.130:5678:Albania
 199.187.210.54:4145:United States
+187.188.131.169:1080:Mexico
 72.217.158.202:4145:United States
+213.145.137.102:37447:Kyrgyzstan
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+200.85.169.221:1080:Nicaragua
+38.51.48.85:5678:Dominican Republic
+192.169.226.96:32074:United States
+80.51.7.66:4145:Poland
+51.89.173.40:30199:United Kingdom
 72.195.101.99:4145:United States
+51.89.173.40:31724:United Kingdom
+37.18.73.60:5566:Germany
+185.226.113.180:38030:Ukraine
 117.250.3.58:8080:India
+80.90.181.154:1080:Kazakhstan
+105.235.197.162:54066:Nigeria
+123.231.230.58:31196:Indonesia
+176.126.85.247:16379:United States
+12.109.102.86:64312:United States
 72.214.108.67:4145:United States
+51.89.173.40:32239:United Kingdom
+5.39.69.35:58360:France
 51.89.173.40:8531:United Kingdom
+94.23.220.136:47472:France
+202.40.182.82:60606:Bangladesh
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-148.72.212.198:27940:Singapore
+5.39.69.35:45486:France
+51.89.173.40:11136:United Kingdom
+146.59.18.246:63455:France
+198.12.249.249:34575:United States
+101.255.209.82:8080:Indonesia
+171.250.220.241:1080:Vietnam
