@@ -12,6 +12,7 @@
 72.206.181.103:4145:United States
 72.217.216.239:4145:United States
 98.170.57.231:4145:United States
+45.73.0.118:5678:Canada
 184.181.217.210:4145:United States
 98.175.31.195:4145:United States
 98.188.47.132:4145:United States
@@ -20,9 +21,11 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.178.172.17:4145:United States
-184.181.217.220:4145:United States
+184.181.217.201:4145:United States
+192.111.139.165:4145:Canada
+192.111.139.162:4145:Canada
 192.252.211.197:14921:United States
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
@@ -31,6 +34,7 @@
 70.166.167.55:57745:United States
 72.195.34.41:4145:United States
 72.210.252.137:4145:United States
+98.162.25.16:4145:United States
 184.178.172.26:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
@@ -45,7 +49,9 @@
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
+199.58.185.9:4145:United States
 142.54.239.1:4145:United States
+46.173.35.229:3629:Russia
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 142.54.232.6:4145:United States
@@ -69,13 +75,21 @@
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+103.185.111.29:5678:Indonesia
+212.103.118.77:5678:Russia
 72.195.101.99:4145:United States
+138.36.150.24:1080:Argentina
 117.250.3.58:8080:India
-185.202.7.185:4153:Austria
-31.129.253.30:39540:Ukraine
+83.234.147.166:6363:Russia
 72.214.108.67:4145:United States
-177.38.5.200:4153:Brazil
+177.66.243.89:5678:Brazil
+51.89.173.40:26579:United Kingdom
+162.240.239.103:53632:United States
+95.38.75.176:4145:Iran
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-171.236.89.46:1080:Vietnam
+51.68.164.77:30765:France
+91.134.140.160:25970:France
+54.36.176.100:33120:France
 116.99.226.109:24082:Vietnam
+115.76.199.103:24322:Vietnam
