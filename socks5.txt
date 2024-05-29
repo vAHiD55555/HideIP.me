@@ -1,3 +1,5 @@
+72.49.49.11:31034:United States
+69.61.200.104:36181:United States
 72.206.181.123:4145:United States
 184.178.172.14:4145:United States
 192.252.220.92:17328:United States
@@ -5,7 +7,9 @@
 184.181.217.213:4145:United States
 184.181.217.194:4145:United States
 192.252.208.70:14282:United States
-192.111.135.17:18302:United States
+192.111.129.145:16894:Canada
+192.252.214.20:15864:United States
+192.111.139.163:19404:Canada
 72.210.252.134:46164:United States
 72.195.34.35:27360:United States
 98.162.25.4:31654:United States
@@ -15,40 +19,59 @@
 72.195.34.60:27391:United States
 184.178.172.28:15294:United States
 184.178.172.25:15291:United States
-184.178.172.5:15303:United States
+184.178.172.18:15280:United States
 198.8.94.170:4145:Canada
 98.181.137.83:4145:United States
+199.58.184.97:4145:United States
 142.54.226.214:4145:United States
 142.54.236.97:4145:United States
 70.166.167.38:57728:United States
 184.178.172.13:15311:United States
 65.169.38.73:26592:United States
 72.206.181.105:64935:United States
-198.8.94.174:39078:Canada
+187.63.9.62:63253:Brazil
+221.134.152.75:7302:India
+104.238.111.107:30026:United States
+104.238.111.107:56225:United States
 31.170.22.127:1080:Latvia
-173.212.223.23:28083:Germany
+162.55.87.48:5566:The Netherlands
+51.89.173.40:35077:United Kingdom
+173.212.223.23:47570:Germany
 45.138.87.238:1080:Romania
+43.131.228.48:15673:South Korea
 89.58.45.94:38115:Italy
 37.221.193.221:10001:United States
 43.128.146.138:15673:South Korea
+43.155.140.218:15673:South Korea
 185.236.232.20:4661:Egypt
+89.58.45.94:40326:Italy
+198.12.249.249:61972:United States
+167.86.69.142:36530:Germany
 185.38.209.202:16150:Ukraine
+51.75.126.150:51241:France
 95.111.227.164:57606:Germany
-45.91.92.45:15071:India
+162.241.53.72:30768:United States
+45.91.92.45:30694:India
+92.204.40.109:8362:France
+82.165.198.169:36620:Germany
+89.58.45.94:45493:Canada
 37.221.193.221:26995:United States
-37.221.193.221:18387:United States
+134.195.91.76:17148:Malaysia
 34.227.57.135:3128:United States
 34.227.57.135:1080:United States
 34.227.57.135:60368:United States
-34.227.57.135:60456:United States
 34.227.57.135:50772:United States
-34.227.57.135:60757:United States
+42.119.68.9:30212:Vietnam
+212.83.137.150:47956:Germany
 34.227.57.135:50820:United States
 34.227.57.135:50011:United States
+34.227.57.135:60219:United States
+34.227.57.135:60797:United States
 34.227.57.135:50977:United States
+34.227.57.135:60606:United States
 34.227.57.135:60748:United States
-34.227.57.135:60090:United States
 34.227.57.135:60355:United States
+34.227.57.135:60498:United States
 34.227.57.135:50258:United States
 34.227.57.135:60881:United States
 34.227.57.135:50074:United States
@@ -56,6 +79,7 @@
 34.227.57.135:50967:United States
 34.227.57.135:50496:United States
 34.227.57.135:60052:United States
+34.227.57.135:60754:United States
 34.227.57.135:50462:United States
 43.155.181.24:33333:South Korea
 139.162.238.184:7409:United Kingdom
@@ -63,32 +87,39 @@
 34.227.57.135:50994:United States
 34.227.57.135:50692:United States
 34.227.57.135:50731:United States
-34.227.57.135:60685:United States
 34.227.57.135:60202:United States
 34.227.57.135:60571:United States
 34.227.57.135:60699:United States
 34.227.57.135:50052:United States
 34.227.57.135:50930:United States
-34.227.57.135:60762:United States
 34.227.57.135:60765:United States
+50.116.29.136:58464:United States
 34.227.57.135:50869:United States
 34.227.57.135:60291:United States
 34.227.57.135:50146:United States
 148.72.215.230:28842:Singapore
 34.227.57.135:50610:United States
+173.212.237.43:38075:Germany
 34.227.57.135:50925:United States
 34.227.57.135:60995:United States
+51.68.164.77:19159:France
 34.227.57.135:60859:United States
+69.197.135.242:60813:United States
 34.227.57.135:60263:United States
-103.174.178.146:2020:Indonesia
+34.227.57.135:60042:United States
+148.66.129.172:27840:Singapore
 34.227.57.135:60353:United States
+34.227.57.135:60006:United States
 34.227.57.135:60984:United States
 34.227.57.135:60597:United States
 34.227.57.135:50191:United States
 37.221.193.221:31053:United States
 89.22.225.22:60100:The Netherlands
+34.227.57.135:60749:United States
 66.29.129.53:14469:United States
-162.0.220.217:11942:United States
 162.0.220.214:44026:United States
 162.0.220.218:39088:United States
 66.23.233.210:50705:United States
+67.213.210.60:11966:United States
+171.244.140.160:21768:Vietnam
+208.109.13.219:36658:Singapore
