@@ -22,6 +22,7 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
+184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
@@ -31,14 +32,13 @@
 98.162.25.7:31653:United States
 184.178.172.25:15291:United States
 70.166.167.55:57745:United States
-184.178.172.5:15303:United States
 72.195.34.41:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 72.210.221.197:4145:United States
 72.210.221.223:4145:United States
 184.185.2.12:4145:United States
+68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
 192.252.216.81:4145:United States
@@ -50,6 +50,7 @@
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
 199.58.185.9:4145:United States
+199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
@@ -69,12 +70,22 @@
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
-37.18.73.60:5566:France
+41.57.37.125:5678:South Africa
 117.250.3.58:8080:India
-173.212.237.43:8091:Germany
 72.214.108.67:4145:United States
 208.65.90.192:4145:United States
+41.190.232.26:1080:DR Congo
+51.89.173.40:8531:United Kingdom
 27.75.150.153:1080:Vietnam
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
+162.241.50.179:30768:United States
+162.241.53.72:34209:United States
+162.144.33.212:43816:United States
 182.53.129.43:5678:Thailand
+75.119.145.154:51564:Germany
+171.244.140.160:49020:Vietnam
+54.36.176.100:7102:France
+107.180.95.93:41003:United States
+166.0.234.62:12031:United States
+178.32.202.54:7102:France
