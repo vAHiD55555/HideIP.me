@@ -24,7 +24,6 @@
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
-192.252.211.197:14921:United States
 192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
@@ -33,7 +32,6 @@
 70.166.167.55:57745:United States
 184.178.172.5:15303:United States
 72.195.34.41:4145:United States
-184.178.172.23:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
 72.210.221.197:4145:United States
@@ -44,14 +42,15 @@
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
 74.119.147.209:4145:United States
-184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
 184.170.249.65:4145:United States
-142.54.239.1:4145:United States
+199.58.185.9:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
+192.111.134.10:4145:United States
+198.8.84.3:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
 104.200.152.30:4145:United States
@@ -60,17 +59,30 @@
 199.102.104.70:4145:United States
 199.102.106.94:4145:United States
 199.102.107.145:4145:United States
+67.201.59.70:4145:United States
 68.1.210.189:4145:United States
-159.192.97.129:5678:Thailand
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
-103.253.153.242:41762:India
+103.221.254.102:54409:Bangladesh
 72.195.101.99:4145:United States
+117.250.3.58:8080:India
 173.212.237.43:8091:Germany
 72.214.108.67:4145:United States
 208.65.90.192:4145:United States
+199.188.89.242:9000:United States
+45.91.92.45:27072:Singapore
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-172.104.154.229:37849:Germany
+213.251.185.168:58508:France
+54.36.176.100:60881:France
+178.32.202.54:3762:France
+79.137.34.146:1806:France
+54.36.176.100:29363:France
+178.32.202.54:22904:France
+54.36.176.100:49798:France
+88.202.230.103:63207:United Kingdom
+162.241.73.195:36571:United States
+178.32.202.54:7102:France
+35.181.203.219:1080:France
 91.221.177.40:80:Russia
