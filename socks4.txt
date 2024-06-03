@@ -1,3 +1,4 @@
+208.102.51.6:58208:United States
 66.42.224.229:41679:United States
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
@@ -19,15 +20,17 @@
 72.195.34.59:4145:United States
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.181.217.220:4145:United States
-192.111.138.29:4145:Canada
-192.111.137.35:4145:Canada
+192.111.137.34:18765:Canada
+192.111.139.165:4145:Canada
+192.111.130.2:4145:Canada
 98.170.57.249:4145:United States
 72.206.181.97:64943:United States
 98.162.25.7:31653:United States
-184.178.172.25:15291:United States
 70.166.167.55:57745:United States
+184.178.172.5:15303:United States
 72.195.34.41:4145:United States
 72.210.252.137:4145:United States
 98.162.25.16:4145:United States
@@ -37,13 +40,12 @@
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
-192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
+206.220.175.2:4145:United States
 184.170.249.65:4145:United States
-199.58.185.9:4145:United States
 199.229.254.129:4145:United States
 142.54.239.1:4145:United States
 142.54.228.193:4145:United States
@@ -63,8 +65,23 @@
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
+37.18.73.60:5566:Spain
+117.250.3.58:8080:India
+208.65.90.21:4145:United States
+103.124.190.130:5678:Indonesia
 72.214.108.67:4145:United States
+208.65.90.192:4145:United States
+95.111.227.164:53152:Germany
+94.23.222.122:34626:France
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-178.32.202.54:3308:France
+166.62.38.100:14052:United States
+178.32.202.54:25713:France
+173.212.237.43:18135:Germany
+117.7.204.151:12803:Vietnam
+173.212.237.43:9472:Germany
+95.38.75.20:4145:Iran
+115.76.206.146:24562:Vietnam
+171.248.221.61:1080:Vietnam
+171.247.97.204:1080:Vietnam
 182.253.179.158:4145:Indonesia
