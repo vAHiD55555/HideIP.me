@@ -1,4 +1,5 @@
 208.102.51.6:58208:United States
+66.42.224.229:41679:United States
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
@@ -21,7 +22,6 @@
 72.210.208.101:4145:United States
 184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
@@ -33,7 +33,6 @@
 98.162.25.7:31653:United States
 184.178.172.25:15291:United States
 70.166.167.55:57745:United States
-184.178.172.5:15303:United States
 72.195.34.41:4145:United States
 184.178.172.23:4145:United States
 72.210.252.137:4145:United States
@@ -44,19 +43,19 @@
 68.71.254.6:4145:Canada
 68.71.247.130:4145:Canada
 104.37.135.145:4145:United States
-192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
 184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
+184.170.249.65:4145:United States
 199.229.254.129:4145:United States
-142.54.239.1:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
 198.8.84.3:4145:United States
 142.54.237.34:4145:United States
+107.152.98.5:4145:United States
 104.200.152.30:4145:United States
 107.181.168.145:4145:United States
 104.200.135.46:4145:United States
@@ -69,20 +68,24 @@
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
+104.238.111.107:36049:United States
 72.195.101.99:4145:United States
 117.250.3.58:8080:India
 208.65.90.21:4145:United States
 72.214.108.67:4145:United States
-208.65.90.192:4145:United States
-162.240.239.103:33594:United States
-75.119.145.154:14067:Germany
+137.184.133.124:53093:United States
+94.23.220.136:19036:France
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
-162.240.239.103:37276:United States
-82.165.198.169:20259:Germany
-94.23.222.122:24360:France
-137.184.133.124:44649:United States
+213.251.185.168:43221:France
+213.251.185.168:20207:France
+54.36.176.100:47198:France
+54.36.176.100:25713:France
+54.36.176.100:29363:France
 54.36.108.149:64940:France
-188.164.197.178:35139:Spain
+54.36.176.100:22904:France
 162.240.239.103:61834:United States
-54.36.176.100:15151:France
+54.36.176.100:7102:France
+171.244.140.160:16728:Vietnam
+115.76.204.44:24690:Vietnam
+115.76.204.44:24978:Vietnam
