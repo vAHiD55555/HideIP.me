@@ -1,10 +1,12 @@
 72.206.181.123:4145:United States
+184.178.172.14:4145:United States
 192.252.220.92:17328:United States
 184.181.217.206:4145:United States
 184.178.172.3:4145:United States
+184.178.172.17:4145:United States
 184.181.217.213:4145:United States
-184.181.217.194:4145:United States
-192.111.135.17:18302:United States
+184.181.217.201:4145:United States
+192.252.208.70:14282:United States
 192.111.129.145:16894:Canada
 192.111.139.163:19404:Canada
 72.210.252.134:46164:United States
@@ -16,7 +18,10 @@
 72.195.34.60:27391:United States
 184.178.172.28:15294:United States
 184.178.172.18:15280:United States
+198.8.94.170:4145:Canada
 98.181.137.83:4145:United States
+74.119.144.60:4145:United States
+199.58.184.97:4145:United States
 142.54.226.214:4145:United States
 142.54.232.6:4145:United States
 142.54.235.9:4145:United States
@@ -27,21 +32,25 @@
 184.178.172.13:15311:United States
 65.169.38.73:26592:United States
 72.206.181.105:64935:United States
-198.8.94.174:39078:Canada
 199.187.210.54:4145:United States
 221.134.152.75:7302:India
+154.12.178.107:29985:Hong Kong
 31.170.22.127:1080:Latvia
+45.138.87.238:1080:Romania
 23.19.244.109:1080:United States
 148.113.1.131:1080:India
-138.201.21.218:15925:United Kingdom
-94.23.220.136:38179:France
-37.221.193.221:34534:United States
+94.23.220.136:19011:France
+45.91.92.45:15742:South Korea
+94.23.222.122:46211:France
+51.68.164.77:7284:France
+42.119.68.9:30232:Vietnam
 45.91.92.45:17142:India
 34.227.57.135:3128:United States
 34.227.57.135:1080:United States
 34.227.57.135:60368:United States
 34.227.57.135:60456:United States
 34.227.57.135:50772:United States
+51.75.126.150:32514:France
 34.227.57.135:60757:United States
 34.227.57.135:50820:United States
 34.227.57.135:50011:United States
@@ -55,13 +64,16 @@
 34.227.57.135:60498:United States
 34.227.57.135:50258:United States
 34.227.57.135:60881:United States
+137.184.133.124:24046:United States
 34.227.57.135:50074:United States
 34.227.57.135:60023:United States
 34.227.57.135:50967:United States
 34.227.57.135:50496:United States
 34.227.57.135:60052:United States
+42.119.68.9:30225:Vietnam
 34.227.57.135:60754:United States
 34.227.57.135:50462:United States
+139.162.238.184:7409:United Kingdom
 34.227.57.135:50961:United States
 34.227.57.135:50994:United States
 34.227.57.135:50692:United States
@@ -81,6 +93,7 @@
 34.227.57.135:50925:United States
 34.227.57.135:60995:United States
 34.227.57.135:60859:United States
+54.36.176.100:3308:France
 34.227.57.135:60263:United States
 34.227.57.135:60042:United States
 34.227.57.135:60353:United States
@@ -91,6 +104,7 @@
 34.227.57.135:60749:United States
 34.227.57.135:60100:United States
 34.227.57.135:60509:United States
+148.72.212.198:29729:Singapore
 34.227.57.135:50412:United States
 34.227.57.135:50593:United States
 95.216.149.12:1080:Finland
@@ -100,28 +114,39 @@
 34.227.57.135:60206:United States
 34.227.57.135:60994:United States
 34.227.57.135:50038:United States
+162.144.33.212:3992:United States
 34.227.57.135:50232:United States
 34.227.57.135:50394:United States
+46.101.195.252:18282:Germany
 34.227.57.135:60306:United States
 34.227.57.135:60370:United States
 34.227.57.135:60107:United States
-94.23.220.136:25716:France
+51.89.173.40:14139:United Kingdom
+91.149.255.102:1234:Finland
 34.227.57.135:50578:United States
-185.25.119.34:6129:Ukraine
 34.227.57.135:60271:United States
-49.51.73.172:20356:United States
+117.68.38.187:43798:China
+185.100.232.163:12859:Kazakhstan
 34.227.57.135:50101:United States
 34.227.57.135:50180:United States
+94.23.222.122:23346:France
+34.92.250.88:10001:Hong Kong
 34.227.57.135:60137:United States
 34.227.57.135:60744:United States
 91.107.164.186:54321:Germany
 34.227.57.135:60634:United States
+37.157.255.12:20170:Germany
+132.148.167.243:52226:United States
+176.126.84.126:11024:Russia
 162.19.7.53:22212:United States
-162.215.170.239:60495:United States
+174.138.176.74:51147:United States
+67.213.212.47:55899:United States
 91.107.173.240:54321:Germany
 43.153.13.226:20356:United States
+67.213.212.52:17489:United States
 67.213.212.38:63888:United States
+108.181.133.58:35111:United States
 212.83.143.211:24054:France
-108.179.220.170:51414:United States
 138.201.21.232:28385:United Kingdom
 209.159.153.22:56648:United States
+34.227.57.135:60495:United States
