@@ -1,5 +1,4 @@
 208.102.51.6:58208:United States
-66.42.224.229:41679:United States
 72.195.114.184:4145:United States
 24.249.199.4:4145:United States
 24.249.199.12:4145:United States
@@ -21,9 +20,11 @@
 72.195.34.42:4145:United States
 72.210.208.101:4145:United States
 184.178.172.11:4145:United States
+184.181.217.220:4145:United States
 192.111.138.29:4145:Canada
 192.111.137.34:18765:Canada
 192.111.139.165:4145:Canada
+192.111.137.35:4145:Canada
 192.111.139.162:4145:Canada
 192.252.211.197:14921:United States
 192.111.130.2:4145:Canada
@@ -45,6 +46,7 @@
 192.252.216.81:4145:United States
 68.1.210.163:4145:United States
 98.181.137.80:4145:United States
+184.170.245.148:4145:United States
 72.37.217.3:4145:United States
 72.37.216.68:4145:United States
 206.220.175.2:4145:United States
@@ -52,28 +54,35 @@
 199.229.254.129:4145:United States
 142.54.228.193:4145:United States
 142.54.229.249:4145:United States
+142.54.231.38:4145:United States
 192.111.134.10:4145:United States
 198.8.84.3:4145:United States
 142.54.237.34:4145:United States
 107.152.98.5:4145:United States
+91.203.114.71:42905:Ukraine
 104.200.152.30:4145:United States
-104.200.135.46:4145:United States
+107.181.168.145:4145:United States
 199.102.104.70:4145:United States
 199.102.105.242:4145:United States
 199.102.106.94:4145:United States
 199.102.107.145:4145:United States
-67.201.59.70:4145:United States
 68.1.210.189:4145:United States
+202.131.246.250:5678:Mongolia
+92.42.8.23:4153:Russia
 72.217.158.202:4145:United States
 192.252.220.89:4145:United States
 174.75.211.222:4145:United States
 72.195.101.99:4145:United States
-117.250.3.58:8080:India
-208.65.90.21:4145:United States
+122.116.29.68:4145:Taiwan
 72.214.108.67:4145:United States
 208.65.90.192:4145:United States
+51.89.173.40:8531:United Kingdom
 72.217.211.19:4145:United States
 72.217.211.3:4145:United States
+188.165.223.183:50052:France
 46.105.44.29:23081:United States
+162.241.129.84:57663:United States
+193.32.2.135:1080:The Netherlands
 95.38.75.173:4145:Iran
+132.148.128.8:9669:United States
 148.72.215.230:9271:Singapore
