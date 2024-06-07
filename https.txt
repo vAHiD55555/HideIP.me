@@ -6,8 +6,6 @@
 5.161.117.167:8888:United States
 5.161.104.22:8888:United States
 5.161.120.159:8888:United States
-5.161.70.13:8888:United States
-5.161.72.12:8888:United States
 134.209.108.22:8888:Singapore
 134.209.108.84:8888:Singapore
 134.209.108.165:8888:Singapore
@@ -21,7 +19,6 @@
 84.17.47.125:9002:The Netherlands
 84.17.47.124:9002:The Netherlands
 5.161.156.91:8888:United States
-5.161.42.38:8888:United States
 178.128.221.182:8888:Singapore
 159.69.177.160:8888:Germany
 138.201.158.20:8888:Germany
@@ -247,8 +244,8 @@
 138.197.102.119:443:United States
 203.57.51.53:443:Australia
 143.110.232.177:443:United States
+129.151.160.199:443:South Africa
 197.243.20.178:443:Rwanda
-162.144.233.16:443:United States
 202.61.204.51:443:Germany
 74.103.66.15:443:United States
 162.144.236.128:443:United States
@@ -298,8 +295,8 @@
 13.81.217.201:443:The Netherlands
 154.65.39.7:443:Senegal
 46.101.115.59:443:Germany
-218.252.244.126:443:Hong Kong
 57.128.12.85:443:France
+204.48.31.203:443:United States
 198.16.76.68:443:The Netherlands
 154.65.39.8:443:Senegal
 51.210.216.54:443:France
@@ -313,7 +310,6 @@
 207.178.166.187:443:United States
 131.196.212.172:443:Colombia
 103.179.190.121:443:Vietnam
-27.254.162.101:443:Thailand
 23.106.249.34:443:Singapore
 23.106.56.54:443:United Kingdom
 23.106.56.38:443:United Kingdom
@@ -323,18 +319,18 @@
 65.108.104.111:443:Finland
 141.148.63.29:443:United States
 167.172.96.213:443:Germany
+51.68.132.48:8443:France
 167.172.78.155:8888:Singapore
 198.16.66.157:443:The Netherlands
 78.141.244.9:8888:United Kingdom
 78.141.193.27:8888:United Kingdom
-104.129.194.44:11267:United States
+199.168.148.131:11267:United States
 82.146.37.145:443:Russia
 184.168.123.21:443:Singapore
 128.199.207.200:443:Singapore
 144.91.90.109:443:Germany
 45.114.142.178:443:India
 8.210.34.75:443:Hong Kong
-82.157.4.158:7777:China
 34.68.168.129:443:United States
 195.114.209.50:443:Spain
 138.199.35.215:9002:United States
@@ -353,7 +349,6 @@
 138.199.35.195:9002:United States
 143.198.206.72:8888:Singapore
 45.92.108.112:443:Switzerland
-49.233.11.40:7777:China
 193.176.84.24:9002:Romania
 193.176.84.32:9002:Romania
 193.176.84.34:9002:Romania
@@ -375,8 +370,10 @@
 8.218.211.134:3128:Hong Kong
 200.19.177.120:443:Brazil
 170.187.154.230:8443:United States
+152.67.198.149:1234:South Korea
 167.71.166.28:8443:United States
 20.42.119.47:443:United States
+51.91.109.83:443:France
 128.199.12.243:3128:United States
 41.173.24.38:443:Mauritius
 205.178.136.90:8443:United States
@@ -1433,7 +1430,6 @@
 172.235.15.75:443:India
 159.203.103.28:443:United States
 23.106.249.44:443:Singapore
-114.79.148.218:443:India
 195.90.221.3:443:Germany
 162.210.194.1:443:United States
 202.51.68.205:443:Nepal
@@ -1481,9 +1477,11 @@
 139.99.244.154:443:Australia
 153.127.194.62:443:Japan
 79.174.12.190:443:Russia
+104.129.194.105:11267:United States
 148.251.248.244:443:Germany
 203.189.96.232:443:Japan
 199.168.175.179:443:United States
+165.225.229.20:8080:South Korea
 67.159.8.147:80:The Netherlands
 67.159.8.147:443:The Netherlands
 175.127.69.104:443:South Korea
@@ -1493,10 +1491,10 @@
 47.243.181.85:8081:United States
 47.243.181.85:8083:Singapore
 81.56.78.85:443:Italy
+165.225.72.154:8080:Germany
 67.159.8.150:443:The Netherlands
 220.77.195.132:443:South Korea
 20.205.138.223:443:Hong Kong
-136.226.57.115:8080:United States
 170.187.232.112:443:India
 156.146.59.49:9002:United States
 84.239.49.154:9002:Romania
@@ -1621,6 +1619,7 @@
 84.239.49.203:9002:Romania
 84.239.49.252:9002:Romania
 156.146.59.48:9002:United States
+173.249.37.45:5050:Germany
 84.239.49.239:9002:Romania
 84.239.49.54:9002:Romania
 50.7.93.84:443:The Netherlands
@@ -1703,9 +1702,7 @@
 198.16.76.28:443:The Netherlands
 50.7.142.182:443:The Netherlands
 198.16.70.172:443:The Netherlands
-181.215.52.172:9443:United States
 65.109.40.163:8443:Finland
-216.246.40.215:7999:China
 173.249.43.230:443:Germany
 147.45.104.252:443:Russia
 85.214.195.118:443:Germany
@@ -1715,6 +1712,7 @@
 212.118.37.238:443:The Netherlands
 47.243.181.85:51102:Taiwan
 47.242.124.169:443:Hong Kong
+156.38.112.11:443:Ghana
 182.233.119.10:8443:Taiwan
 49.13.51.71:443:Germany
-199.168.148.151:8080:United States
+159.54.149.67:443:Mexico
